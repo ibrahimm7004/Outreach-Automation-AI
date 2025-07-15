@@ -1,0 +1,23 @@
+{
+  "domain": "https://timestabloid.com",
+  "manual_emails": [
+    "pr@timestabloid.com",
+    "support@timestabloid.com",
+    "contact@timestabloid.com"
+  ],
+  "gpt_emails": [
+    "contact@timestabloid.com",
+    "pr@timestabloid.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1362,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00681
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

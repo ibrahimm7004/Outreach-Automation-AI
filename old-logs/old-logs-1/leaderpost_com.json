@@ -1,0 +1,19 @@
+{
+  "domain": "https://leaderpost.com",
+  "manual_emails": [
+    "epapersupport@leaderpost.com",
+    "mysubscription@leaderpost.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1693,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00847
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

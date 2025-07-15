@@ -1,0 +1,29 @@
+{
+  "domain": "https://people.com",
+  "manual_emails": [
+    "subscribe@dotdashmdp.com",
+    "partners@dotdashmdp.com",
+    "privacy@meredith.com",
+    "ic@dotdashmdp.com",
+    "advertise@dotdashmdp.com",
+    "press@dotdashmdp.com",
+    "dcipher@dotdashmdp.com",
+    "brandlicensing@dotdashmdp.com"
+  ],
+  "gpt_emails": [
+    "advertise@dotdashmdp.com",
+    "partners@dotdashmdp.com",
+    "press@dotdashmdp.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1030,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00515
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

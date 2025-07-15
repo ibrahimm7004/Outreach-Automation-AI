@@ -1,0 +1,16 @@
+{
+  "domain": "https://potentash.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 448,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00224
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

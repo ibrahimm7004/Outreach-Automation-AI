@@ -1,0 +1,20 @@
+{
+  "domain": "https://nopassiveincome.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "erik@nopassiveincome.com",
+    "contact@noPassiveIncome.com",
+    "advertise@noPassiveIncome.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2313,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01157
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": true
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

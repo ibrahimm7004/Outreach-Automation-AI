@@ -1,0 +1,27 @@
+{
+  "domain": "https://theleader.com.au",
+  "manual_emails": [
+    "jen.barnett@austcommunitymedia.com.au",
+    "classifieds@acm.media",
+    "leadernews@theleader.com.au",
+    "damien.madigan@austcommunitymedia.com.au",
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "circulation.nr@austcommunitymedia.com.au"
+  ],
+  "gpt_emails": [
+    "damien.madigan@austcommunitymedia.com.au",
+    "jen.barnett@austcommunitymedia.com.au",
+    "leadernews@theleader.com.au"
+  ],
+  "token_usage": {
+    "tokens_used": 1914,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00957
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

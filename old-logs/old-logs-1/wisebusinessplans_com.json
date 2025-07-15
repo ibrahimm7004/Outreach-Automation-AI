@@ -1,0 +1,21 @@
+{
+  "domain": "https://wisebusinessplans.com",
+  "manual_emails": [
+    "info@wisebusinessplans.com",
+    "info@wisewebpros.com"
+  ],
+  "gpt_emails": [
+    "info@wisewebpros.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1490,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00745
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false
+  },
+  "used_recovery": false,
+  "timed_out": false
+}

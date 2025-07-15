@@ -1,0 +1,41 @@
+{
+  "domain": "https://thestar.com",
+  "manual_emails": [
+    "tslawnych@thestar.ca",
+    "starad@thestar.ca",
+    "fornat@thestar.ca",
+    "sports@thestar.ca",
+    "epaper@thestar.ca",
+    "entertain@thestar.ca",
+    "business@thestar.ca",
+    "circmail@thestar.ca",
+    "sponsorships@thestar.ca",
+    "starsupport@torstar.ca",
+    "syndicate@torstar.com",
+    "adinfo@thestar.ca",
+    "accessibility@torontostar.com",
+    "life@thestar.ca",
+    "newhomes@thestar.ca",
+    "oped@thestar.ca",
+    "insight@thestar.ca",
+    "newstips@thestar.ca",
+    "lettertoed@thestar.ca",
+    "city@thestar.ca",
+    "edtphotoasign@thestar.ca",
+    "obituaries@thestar.ca",
+    "singlecopy@thestar.ca",
+    "publiced@thestar.ca"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 841,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.0042
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false
+  },
+  "used_recovery": false,
+  "timed_out": false
+}
