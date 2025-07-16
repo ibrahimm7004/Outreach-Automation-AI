@@ -1,0 +1,29 @@
+{
+  "domain": "https://leaderpost.com",
+  "manual_emails": [
+    "epapersupport@leaderpost.com",
+    "mysubscription@leaderpost.com"
+  ],
+  "gpt_emails": [
+    "marketing@postmedia.com",
+    "press@postmedia.com",
+    "support@postmedia.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1821,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00911
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://www.postmediasolutions.com/contact-us/",
+    "https://leaderpost.com/contact/"
+  ]
+}

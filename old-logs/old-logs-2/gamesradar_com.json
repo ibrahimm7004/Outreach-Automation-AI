@@ -1,0 +1,32 @@
+{
+  "domain": "https://gamesradar.com",
+  "manual_emails": [
+    "licensing@futurenet.com",
+    "cosec@futurenet.co.uk",
+    "futureinvoices@futurenet.com",
+    "futurenow@futurenet.com",
+    "marion.le-bot@futurenet.com",
+    "freelancefinance@futurenet.com",
+    "advertising@futurenet.com",
+    "accountspayable@futurenet.com",
+    "creditcontrol@futurenet.com"
+  ],
+  "gpt_emails": [
+    "advertising@futurenet.com",
+    "licensing@futurenet.com",
+    "futurenow@futurenet.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1331,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00666
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

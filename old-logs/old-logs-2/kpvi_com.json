@@ -1,0 +1,18 @@
+{
+  "domain": "https://kpvi.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 0,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.0
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": true,
+  "timed_out": true,
+  "form_detected": false
+}

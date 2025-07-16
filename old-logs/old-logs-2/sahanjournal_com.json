@@ -1,0 +1,29 @@
+{
+  "domain": "https://sahanjournal.com",
+  "manual_emails": [
+    "swaterman@sahanjournal.com",
+    "cxiong@sahanjournal.com",
+    "contact@sahanjournal.com",
+    "membership@sahanjournal.com"
+  ],
+  "gpt_emails": [
+    "contact@sahanjournal.com",
+    "cxiong@sahanjournal.com",
+    "tcollopy@sahanjournal.com",
+    "swaterman@sahanjournal.com",
+    "membership@sahanjournal.com"
+  ],
+  "token_usage": {
+    "tokens_used": 844,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00422
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

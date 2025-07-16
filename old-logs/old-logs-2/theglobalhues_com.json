@@ -1,0 +1,22 @@
+{
+  "domain": "https://theglobalhues.com",
+  "manual_emails": [
+    "info@theglobalhues.com"
+  ],
+  "gpt_emails": [
+    "info@theglobalhues.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1351,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00675
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

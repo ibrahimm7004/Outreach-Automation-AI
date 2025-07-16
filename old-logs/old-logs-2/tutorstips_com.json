@@ -1,0 +1,23 @@
+{
+  "domain": "https://tutorstips.com",
+  "manual_emails": [
+    "help@tutorstips.com",
+    "tutorstips17@gmail.com"
+  ],
+  "gpt_emails": [
+    "help@tutorstips.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1493,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00747
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

@@ -1,0 +1,30 @@
+{
+  "domain": "https://makeuseof.com",
+  "manual_emails": [
+    "legal@valnetinc.com",
+    "pr@makeuseof.com",
+    "info@valnetinc.com",
+    "pr@valnetinc.com",
+    "advertising@valnetinc.com",
+    "recruitment@valnetinc.com",
+    "techpartnerships@valnetinc.com"
+  ],
+  "gpt_emails": [
+    "pr@makeuseof.com",
+    "techpartnerships@valnetinc.com",
+    "advertising@valnetinc.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1573,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00787
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

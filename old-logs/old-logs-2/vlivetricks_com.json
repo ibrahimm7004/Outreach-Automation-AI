@@ -1,0 +1,24 @@
+{
+  "domain": "https://vlivetricks.com",
+  "manual_emails": [
+    "vijay.malviya8@gmail.com",
+    "admin@vlivetricks.com"
+  ],
+  "gpt_emails": [
+    "vijay.malviya8@gmail.com",
+    "admin@vlivetricks.com"
+  ],
+  "token_usage": {
+    "tokens_used": 980,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.0049
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

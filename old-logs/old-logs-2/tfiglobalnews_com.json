@@ -1,0 +1,22 @@
+{
+  "domain": "https://tfiglobalnews.com",
+  "manual_emails": [
+    "admin@tfimedia.in"
+  ],
+  "gpt_emails": [
+    "admin@tfimedia.in"
+  ],
+  "token_usage": {
+    "tokens_used": 296,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00148
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

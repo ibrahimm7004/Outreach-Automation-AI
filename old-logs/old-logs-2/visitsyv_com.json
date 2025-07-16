@@ -1,0 +1,21 @@
+{
+  "domain": "https://visitsyv.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "justin.yax@visitsyv.com",
+    "danielle.laudon@visitsyv.com"
+  ],
+  "token_usage": {
+    "tokens_used": 691,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00345
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

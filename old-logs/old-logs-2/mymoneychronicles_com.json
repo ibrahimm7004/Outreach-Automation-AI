@@ -1,0 +1,22 @@
+{
+  "domain": "https://mymoneychronicles.com",
+  "manual_emails": [
+    "jason@mymoneychronicles.com"
+  ],
+  "gpt_emails": [
+    "Jason@MyMoneyChronicles.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1306,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00653
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

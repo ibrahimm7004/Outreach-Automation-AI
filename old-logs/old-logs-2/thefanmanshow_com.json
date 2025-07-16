@@ -1,0 +1,24 @@
+{
+  "domain": "https://thefanmanshow.com",
+  "manual_emails": [
+    "thefanman@thefanmanshow.com",
+    "imranchandio@live.com"
+  ],
+  "gpt_emails": [
+    "thefanman@thefanmanshow.com",
+    "imranchandio@live.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1835,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00918
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

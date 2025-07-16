@@ -1,0 +1,29 @@
+{
+  "domain": "https://gamerant.com",
+  "manual_emails": [
+    "legal@valnetinc.com",
+    "info@valnetinc.com",
+    "pr@valnetinc.com",
+    "advertising@valnetinc.com",
+    "recruitment@valnetinc.com",
+    "pr@gamerant.com"
+  ],
+  "gpt_emails": [
+    "pr@gamerant.com",
+    "advertising@valnetinc.com",
+    "info@valnetinc.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1737,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00869
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

@@ -1,0 +1,20 @@
+{
+  "domain": "https://fool.ca",
+  "manual_emails": [
+    "membersupport@fool.ca"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 639,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00319
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

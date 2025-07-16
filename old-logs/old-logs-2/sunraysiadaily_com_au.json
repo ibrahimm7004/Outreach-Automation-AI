@@ -1,0 +1,33 @@
+{
+  "domain": "https://sunraysiadaily.com.au",
+  "manual_emails": [
+    "subs@sunraysiadaily.com.au",
+    "adbookings@sunraysiadaily.com.au",
+    "online@sunraysiadaily.com.au",
+    "realestate@sunraysiadaily.com.au",
+    "ads@sunraysiadaily.com.au",
+    "gh@sunraysiadaily.com.au",
+    "pro@sunraysiadaily.com.au",
+    "news@sunraysiadaily.com.au",
+    "admin@sunraysiadaily.com.au",
+    "sport@sunraysiadaily.com.au",
+    "classads@sunraysiadaily.com.au",
+    "accounts@sunraysiadaily.com.au",
+    "reception@sunraysiadaily.com.au",
+    "afinlay@sunraysiadaily.com.au"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 565,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00282
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "https://fordmodels.com",
+  "manual_emails": [
+    "ny@fordmodels.com",
+    "barcelona@fordmodels.com",
+    "artists@fordmodels.com",
+    "chicago@fordmodels.com",
+    "miami@fordmodels.com",
+    "contato@fordmodels.com.br",
+    "contato@fordmodelsrio.com.br",
+    "la@fordmodels.com",
+    "info@fordmodels.fr"
+  ],
+  "gpt_emails": [
+    "ny@fordmodels.com",
+    "la@fordmodels.com",
+    "artists@fordmodels.com"
+  ],
+  "token_usage": {
+    "tokens_used": 252,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00126
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false
+}
