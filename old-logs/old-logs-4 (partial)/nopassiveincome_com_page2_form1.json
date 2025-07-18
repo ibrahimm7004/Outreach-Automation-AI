@@ -1,0 +1,63 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "2000",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ],
+        "style": "",
+        "label": ""
+      }
+    ]
+  }
+}

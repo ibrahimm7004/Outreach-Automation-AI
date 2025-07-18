@@ -1,0 +1,198 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "business_name_1",
+        "id": "business_name_1",
+        "required": true,
+        "placeholder": "Enter the name of your business or entity",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "*Business Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address",
+        "id": "address",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "*Business Address"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "*City"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "state",
+        "id": "state",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "required"
+        ],
+        "style": "",
+        "label": "*State"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "zip_code",
+        "id": "zip_code",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "*Zip Code"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "contact_phone",
+        "id": "contact_phone",
+        "required": true,
+        "placeholder": "###-###-####",
+        "autocomplete": "off",
+        "maxlength": "14",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "phoneUS"
+        ],
+        "style": "",
+        "label": "*Contact Phone"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "required": true,
+        "placeholder": "Enter your email address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "email"
+        ],
+        "style": "",
+        "label": "*Email"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "verify_email",
+        "id": "verify-email",
+        "required": true,
+        "placeholder": "Enter your email address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "email"
+        ],
+        "style": "",
+        "label": "*Verify Email"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact_preference[]",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Phone"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact_preference[]",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact_preference[]",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Text Message"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "please_tell_us_more_about_what_you_would_like_to_advertise",
+        "id": "please_tell_us_more_about_what_you_would_like_to_advertise",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "*Please tell us more about what you would like to advertise"
+      }
+    ]
+  }
+}

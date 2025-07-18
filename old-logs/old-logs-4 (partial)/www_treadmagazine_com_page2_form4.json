@@ -1,0 +1,57 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Name(required)*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Email (required)*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "addvertiser-frm-textarea",
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Message"
+      }
+    ]
+  }
+}

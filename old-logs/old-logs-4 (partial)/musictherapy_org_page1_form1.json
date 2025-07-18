@@ -1,0 +1,22 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "CT_Main_0$Contactwithwysiwyg$txtMessage",
+        "id": "CT_Main_0_Contactwithwysiwyg_txtMessage",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "width:319px;",
+        "label": ""
+      }
+    ]
+  }
+}

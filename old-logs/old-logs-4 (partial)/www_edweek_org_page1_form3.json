@@ -1,0 +1,90 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "first-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "First Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "last-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "Last Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input",
+          "a-input--email"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "Subject*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input",
+          "a-input--textarea"
+        ],
+        "style": "",
+        "label": "Message*"
+      }
+    ]
+  }
+}

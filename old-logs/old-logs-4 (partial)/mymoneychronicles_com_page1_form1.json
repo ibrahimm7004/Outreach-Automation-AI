@@ -1,0 +1,70 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "cntctfrm_contact_name",
+        "id": "cntctfrm_contact_name",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "^([\\p{L}\\p{M}]{2,}(\\s)*(\\p{L}+\\p{M}*-*){1,})|([\\p{L}\\p{M}]{3,})",
+        "class": [
+          "text"
+        ],
+        "style": "",
+        "label": "Name:*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "cntctfrm_contact_email",
+        "id": "cntctfrm_contact_email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "text"
+        ],
+        "style": "",
+        "label": "Email Address:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "cntctfrm_contact_subject",
+        "id": "cntctfrm_contact_subject",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "^([\\p{M}\\p{L}]{1,}(\\s\\p{M}*\\p{L}+-*)*){3,}",
+        "class": [
+          "text"
+        ],
+        "style": "",
+        "label": "Subject:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "cntctfrm_contact_message",
+        "id": "cntctfrm_contact_message",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Message:*"
+      }
+    ]
+  }
+}

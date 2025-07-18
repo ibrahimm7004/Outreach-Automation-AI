@@ -1,0 +1,44 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Field1637",
+        "id": "Field1637",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "field",
+          "text",
+          "medium"
+        ],
+        "style": "",
+        "label": "Your email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Field1634",
+        "id": "Field1634",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "field",
+          "textarea",
+          "medium"
+        ],
+        "style": "",
+        "label": "Geographies you are looking to reach (regions, counties, towns, zip codes)"
+      }
+    ]
+  }
+}

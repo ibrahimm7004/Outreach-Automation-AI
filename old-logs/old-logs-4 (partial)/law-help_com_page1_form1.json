@@ -1,0 +1,22 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "required": false,
+        "placeholder": "How can we help?",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "height: 76px;",
+        "label": "How can we help?"
+      }
+    ]
+  }
+}

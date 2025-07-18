@@ -1,0 +1,146 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "title",
+        "name": "title",
+        "id": "title",
+        "required": true,
+        "placeholder": "4WD for sale",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Title*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "required": true,
+        "placeholder": "Please run every Friday for three weeks",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered",
+          "u-line-height-15",
+          "u-padding-10"
+        ],
+        "style": "",
+        "label": "Comment/special notes*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "required": true,
+        "placeholder": "eg. John",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "First name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "required": true,
+        "placeholder": "eg. Smith",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Last name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email_address",
+        "id": "email_address",
+        "required": true,
+        "placeholder": "eg. johnsmith@gmail.com",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Email address*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone_number",
+        "id": "phone_number",
+        "required": true,
+        "placeholder": "Home or mobile",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Phone number*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "street_address",
+        "id": "street_address",
+        "required": true,
+        "placeholder": "Street address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Street address*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "postcode",
+        "id": "postcode",
+        "required": true,
+        "placeholder": "Postcode",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Postcode*"
+      }
+    ]
+  }
+}

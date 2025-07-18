@@ -1,0 +1,74 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_1",
+        "id": "input_1_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "large",
+          "gfield_select"
+        ],
+        "style": "",
+        "label": "To:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_1_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "large"
+        ],
+        "style": "",
+        "label": "Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_9",
+        "id": "input_1_9",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "large"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_10",
+        "id": "input_1_10",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "10000",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "large"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ]
+  }
+}

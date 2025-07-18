@@ -1,0 +1,152 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email-super-purchase",
+        "required": true,
+        "placeholder": "Email",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "password",
+        "id": "password-super-purchase",
+        "required": true,
+        "placeholder": "Password",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Password"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "recipient_name",
+        "id": "field-recipient-name-super-purchase",
+        "required": true,
+        "placeholder": "Recipient name",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Recipient name"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "recipient_email",
+        "id": "field-recipient-email-super-purchase",
+        "required": true,
+        "placeholder": "Recipient email",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Recipient email"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "field-gift-message-super-purchase",
+        "required": false,
+        "placeholder": "Optional message for the recipient",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Optional message for the recipient"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "purchaser_name",
+        "id": "field-purchaser-name-super-purchase",
+        "required": true,
+        "placeholder": "Purchaser name",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Purchaser name"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "purchaser_email",
+        "id": "field-purchaser-email-super-purchase",
+        "required": true,
+        "placeholder": "Purchaser email",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Purchaser email"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "purchaser_zip",
+        "id": "field-purchaser-zip-super-purchase",
+        "required": true,
+        "placeholder": "Purchaser zip code",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Purchaser zip code"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "postal-postcode",
+        "id": "field-postal-postcode-super-purchase",
+        "required": true,
+        "placeholder": "Zip code",
+        "autocomplete": "",
+        "maxlength": "7",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Zip Code"
+      }
+    ]
+  }
+}

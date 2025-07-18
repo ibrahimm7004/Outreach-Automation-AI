@@ -1,0 +1,138 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "given-name",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "First name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "family-name",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "Last name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "email",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "your_city_of_interest",
+        "id": "your_city_of_interest-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input",
+          "is-placeholder"
+        ],
+        "style": "",
+        "label": "City of interest*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": "company-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "organization",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "Company*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "phone-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "tel",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "Phone number*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "zip",
+        "id": "zip-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "postal-code",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input"
+        ],
+        "style": "",
+        "label": "ZIP code*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "primary_business_objectives__c",
+        "id": "primary_business_objectives__c-ad1c09bd-8da2-423d-808b-b115ed51b545_5330",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "hs-input",
+          "hs-fieldtype-textarea"
+        ],
+        "style": "",
+        "label": "Please tell us what you\u2019re interested in."
+      }
+    ]
+  }
+}

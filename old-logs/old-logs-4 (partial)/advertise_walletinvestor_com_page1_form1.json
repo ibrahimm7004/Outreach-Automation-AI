@@ -1,0 +1,44 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "required": true,
+        "placeholder": "Email",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "required": false,
+        "placeholder": "Message",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "elementor-field-textual",
+          "elementor-field",
+          "elementor-size-sm"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ]
+  }
+}

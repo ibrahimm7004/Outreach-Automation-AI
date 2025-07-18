@@ -1,0 +1,24 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "instant-login-email",
+        "required": true,
+        "placeholder": "Account Email",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Account Email"
+      }
+    ]
+  }
+}

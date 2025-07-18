@@ -1,0 +1,170 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "fname",
+        "id": "name-yui_3_17_2_1_1723554535160_54547-fname-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "given-name",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "First Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lname",
+        "id": "name-yui_3_17_2_1_1723554535160_54547-lname-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "family-name",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "Last Name"
+      },
+      {
+        "tag": "input",
+        "type": "date",
+        "name": "date-272717f3-1e04-4484-b561-21a90893354a-field",
+        "id": "date-272717f3-1e04-4484-b561-21a90893354a-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "false",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA",
+          "BuAraKRdDBgwVSkT"
+        ],
+        "style": "",
+        "label": "Date of birth(required)"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-line1-field",
+        "id": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-line1-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "address-line1",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "Address Line 1(required)"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-city-field",
+        "id": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-city-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "address-level2",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "City(required)"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-state-field",
+        "id": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-state-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "address-level1",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "State(required)"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-zip-field",
+        "id": "address-b81b3d60-e74f-4756-b9a9-b6ee1e140b88-zip-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "postal-code",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "ZIP Code(required)"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email-yui_3_17_2_1_1723554535160_54548-field",
+        "id": "email-yui_3_17_2_1_1723554535160_54548-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "email",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "ngonnDl0lqs7ZArA"
+        ],
+        "style": "",
+        "label": "Email(required)"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "select-44cf57d4-ee91-493b-8f58-6b421eb5c819-field",
+        "id": "select-44cf57d4-ee91-493b-8f58-6b421eb5c819-field",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "WRQLXcvkXgAPo369",
+          "show-placeholder"
+        ],
+        "style": "",
+        "label": "Preferred method of communication"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "textarea-yui_3_17_2_1_1723554535160_54550-field",
+        "id": "textarea-yui_3_17_2_1_1723554535160_54550-field",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "qj2U4ppWTRohr5rP"
+        ],
+        "style": "",
+        "label": "How did you hear about us?(required)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Name",
+        "id": "ask-145060-name",
+        "required": true,
+        "placeholder": "*Full Name",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "Full Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Email",
+        "id": "ask-145060-email",
+        "required": true,
+        "placeholder": "*Email Address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required",
+          "form-control",
+          "email"
+        ],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Comments",
+        "id": "ask-145060-question",
+        "required": false,
+        "placeholder": "*Question or Comments",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "required"
+        ],
+        "style": "",
+        "label": "Questions or Comments?"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "OptIn",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required"
+        ],
+        "style": "",
+        "label": "Opt in"
+      }
+    ]
+  }
+}

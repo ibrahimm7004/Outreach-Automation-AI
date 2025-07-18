@@ -1,0 +1,150 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1",
+        "id": "input_1_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "First Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_1_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Last Name*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_8",
+        "id": "input_1_8",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Phone Number*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_9",
+        "id": "input_1_9",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Email Address*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_11",
+        "id": "input_1_11",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Job Title*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_3",
+        "id": "input_1_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "News Organization*"
+      },
+      {
+        "tag": "input",
+        "type": "url",
+        "name": "input_7",
+        "id": "input_1_7",
+        "required": true,
+        "placeholder": "https://",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "News Organization Website*"
+      },
+      {
+        "tag": "input",
+        "type": "url",
+        "name": "input_14",
+        "id": "input_1_14",
+        "required": true,
+        "placeholder": "https://",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "CNS Story You Are Interested In*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "100",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "\u0394"
+      }
+    ]
+  }
+}

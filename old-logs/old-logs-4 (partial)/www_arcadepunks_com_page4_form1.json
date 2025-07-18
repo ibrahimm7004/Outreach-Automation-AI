@@ -1,0 +1,73 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][0]",
+        "id": "wpforms-26580-field_0",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ],
+        "style": "",
+        "label": "Username*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-26580-field_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-26580-field_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ],
+        "style": "",
+        "label": "Comment or Message*"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "wpforms[fields][5][]",
+        "id": "wpforms-26580-field_5_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "I have read and understand"
+      }
+    ]
+  }
+}

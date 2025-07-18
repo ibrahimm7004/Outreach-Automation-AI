@@ -1,0 +1,59 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "g144362-name",
+        "id": "g144362-name",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "name",
+          "grunion-field"
+        ],
+        "style": "",
+        "label": "Name(required)"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "g144362-email",
+        "id": "g144362-email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "email",
+          "grunion-field"
+        ],
+        "style": "",
+        "label": "Email(required)"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "g144362-comment",
+        "id": "contact-form-comment-g144362-comment",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "grunion-field"
+        ],
+        "style": "",
+        "label": "Comment(required)"
+      }
+    ]
+  }
+}

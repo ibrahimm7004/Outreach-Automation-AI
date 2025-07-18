@@ -1,0 +1,83 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "required": true,
+        "placeholder": "How should we address you?",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "NAME*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "required": true,
+        "placeholder": "Let's start the chain",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": "EMAIL*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "your-phone",
+        "id": "",
+        "required": true,
+        "placeholder": "So nothing is lost in translation",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-tel",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-tel"
+        ],
+        "style": "",
+        "label": "PHONE*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "required": true,
+        "placeholder": "How can we help?",
+        "autocomplete": "",
+        "maxlength": "2000",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ],
+        "style": "",
+        "label": "MESSAGE*"
+      }
+    ]
+  }
+}

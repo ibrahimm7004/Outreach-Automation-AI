@@ -1,0 +1,40 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone35873",
+        "required": true,
+        "placeholder": "(201) 555-0123",
+        "autocomplete": "off",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Phone:"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Questions",
+        "id": "requestComments35873",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Questions / Comments:"
+      }
+    ]
+  }
+}

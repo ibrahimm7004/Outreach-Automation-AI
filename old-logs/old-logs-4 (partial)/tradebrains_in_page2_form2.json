@@ -1,0 +1,25 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "et_pb_contact_message_0",
+        "id": "et_pb_contact_message_0",
+        "required": false,
+        "placeholder": "Message",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "et_pb_contact_message",
+          "input"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ]
+  }
+}

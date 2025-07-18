@@ -1,0 +1,50 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "65525",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Comment*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "author",
+        "id": "author",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "name",
+        "maxlength": "245",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "email",
+        "maxlength": "100",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Email*"
+      }
+    ]
+  }
+}

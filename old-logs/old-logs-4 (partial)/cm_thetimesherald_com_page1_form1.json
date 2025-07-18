@@ -1,0 +1,212 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "required": true,
+        "placeholder": "First Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "required": true,
+        "placeholder": "Last Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "required": true,
+        "placeholder": "Email Address",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoEmailField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone",
+        "required": true,
+        "placeholder": "Phone Number",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTelField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "required": true,
+        "placeholder": "Company Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Website",
+        "id": "Website",
+        "required": true,
+        "placeholder": "Website",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "PostalCode",
+        "id": "PostalCode",
+        "required": true,
+        "placeholder": "Postal Code",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Inquiry_About__c",
+        "id": "Inquiry_About__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Monthly_Advertising_Budget__c",
+        "id": "Monthly_Advertising_Budget__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Business_Type__c",
+        "id": "Business_Type__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Web_to_Lead_Notes__c",
+        "id": "Web_to_Lead_Notes__c",
+        "required": true,
+        "placeholder": "(Optional) Additional Message",
+        "autocomplete": "",
+        "maxlength": "32768",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      }
+    ]
+  }
+}

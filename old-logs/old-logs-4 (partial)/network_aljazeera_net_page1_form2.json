@@ -1,0 +1,103 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "field_department",
+        "id": "edit-field-department",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-select",
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "To"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "edit-name",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "100",
+        "pattern": "",
+        "class": [
+          "form-text",
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "Name"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "mail",
+        "id": "edit-mail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "254",
+        "pattern": "",
+        "class": [
+          "form-email",
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject[0][value]",
+        "id": "edit-subject-0-value",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "100",
+        "pattern": "",
+        "class": [
+          "js-text-full",
+          "text-full",
+          "form-text",
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "Subject"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message[0][value]",
+        "id": "edit-message-0-value",
+        "required": true,
+        "placeholder": "Limited to 1000 characters",
+        "autocomplete": "",
+        "maxlength": "1000",
+        "pattern": "",
+        "class": [
+          "js-text-full",
+          "text-full",
+          "form-textarea",
+          "required",
+          "form-control",
+          "resize-vertical"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ]
+  }
+}

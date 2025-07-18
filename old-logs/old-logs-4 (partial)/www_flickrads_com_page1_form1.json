@@ -1,0 +1,59 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name-2",
+        "id": "name-2",
+        "required": true,
+        "placeholder": "NAME",
+        "autocomplete": "",
+        "maxlength": "256",
+        "pattern": "",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "style": "",
+        "label": "NAME"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email-2",
+        "id": "email-2",
+        "required": true,
+        "placeholder": "EMAIL",
+        "autocomplete": "",
+        "maxlength": "256",
+        "pattern": "",
+        "class": [
+          "text-field-2",
+          "w-input"
+        ],
+        "style": "",
+        "label": "EMAIL"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "field-2",
+        "id": "field-2",
+        "required": false,
+        "placeholder": "tell us more about your brand",
+        "autocomplete": "",
+        "maxlength": "5000",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "w-input"
+        ],
+        "style": "",
+        "label": "tell us more about your brand"
+      }
+    ]
+  }
+}

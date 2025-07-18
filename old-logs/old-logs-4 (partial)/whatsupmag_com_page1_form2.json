@@ -1,0 +1,118 @@
+{
+  "chosen_form": {
+    "page_url": "",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": "",
+        "required": true,
+        "placeholder": "Company Name*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem;",
+        "label": "Company Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "emailId",
+        "id": "",
+        "required": true,
+        "placeholder": "Email*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem;",
+        "label": "Email*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstName",
+        "id": "",
+        "required": true,
+        "placeholder": "First Name*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem;",
+        "label": "First Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastName",
+        "id": "",
+        "required": true,
+        "placeholder": "Last Name*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem;",
+        "label": "Last Name*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "required": true,
+        "placeholder": "Phone*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem;",
+        "label": "Phone*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "YourAdvertisingGoals",
+        "id": "",
+        "required": false,
+        "placeholder": "Your Advertising Goals?",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "color: rgb(100, 96, 96); font-family: Arial; margin-bottom: 0px; width: 100%; padding: 0.375rem 0.75rem; font-size: 16px; line-height: 1.5; background-color: rgb(255, 255, 255); border: 1px solid rgb(206, 212, 218); border-radius: 0.25rem; resize: none;",
+        "label": "Your Advertising Goals?"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "chkDisclaimer",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "height: 15px; width: 20px; box-shadow: none; display: inline;",
+        "label": ""
+      }
+    ]
+  }
+}
