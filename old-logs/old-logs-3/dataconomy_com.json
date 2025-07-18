@@ -1,0 +1,135 @@
+{
+  "domain": "https://dataconomy.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 273,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00137
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://dataconomy.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-63661-field_1",
+        "placeholder": null,
+        "label": "Name *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-63661-field_2",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "wpforms[fields][3]",
+        "id": "wpforms-63661-field_3",
+        "placeholder": null,
+        "label": "Comment or Message *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "id": "cf-chl-widget-oyzcc_response",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "g-recaptcha-hidden",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpforms-recaptcha-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_title",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "url_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[post_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

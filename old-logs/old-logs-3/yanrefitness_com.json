@@ -1,0 +1,162 @@
+{
+  "domain": "https://yanrefitness.com",
+  "manual_emails": [
+    "sales@yanrefitness.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 13827,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00793
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.yanrefitness.com/category/gym-marketing/",
+    "summary": "The webpage features a form designed to request a product catalog and price list related to gym marketing, intended for users to provide their email for communication and receiving the requested information.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-185357-field_1",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][4]",
+        "id": "wpforms-185357-field_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpforms-field-medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][3]",
+        "id": "wpforms-185357-field_3",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": [
+          "wpforms-field-medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-185357-field_2",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "id": "cf-chl-widget-b61ti_response",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "g-recaptcha-hidden",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpforms-recaptcha-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_title",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "url_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "pum_form_popup_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Email *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "vx_width",
+        "id": null,
+        "placeholder": null,
+        "label": "Email *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "vx_height",
+        "id": null,
+        "placeholder": null,
+        "label": "Email *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "vx_url",
+        "id": null,
+        "placeholder": null,
+        "label": "Email *",
+        "classes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "domain": "https://tradebrains.in",
+  "manual_emails": [
+    "compliance@tradebrains.in",
+    "support@tradebrains.in",
+    "chandan.rawat@tradebrains.in",
+    "pr@tradebrains.in",
+    "bikram.singhary@tradebrains.in",
+    "hr@tradebrains.in",
+    "advertise@tradebrains.in",
+    "partner@tradebrains.in",
+    "info@tradebrains.in",
+    "editor@tradebrains.in"
+  ],
+  "gpt_emails": [
+    "press@tbstudio.com",
+    "advertise@tradebrains.in",
+    "pr@tradebrains.in"
+  ],
+  "token_usage": {
+    "tokens_used": 2060,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.0103
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://tradebrains.in/advertise/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_name_0",
+        "id": "et_pb_contact_name_0",
+        "placeholder": "Name",
+        "label": "Name",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_email_0",
+        "id": "et_pb_contact_email_0",
+        "placeholder": "Email Address",
+        "label": "Email Address",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_phone_0",
+        "id": "et_pb_contact_phone_0",
+        "placeholder": "Enter Phone",
+        "label": "Enter Phone",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "et_pb_contact_message_0",
+        "id": "et_pb_contact_message_0",
+        "placeholder": "Message",
+        "label": "Message",
+        "classes": [
+          "et_pb_contact_message",
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "et_pb_contactform_submit_0",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_captcha_0",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "input",
+          "et_pb_contact_captcha"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpnonce-et-pb-contact-form-submitted-0",
+        "id": "_wpnonce-et-pb-contact-form-submitted-0",
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "domain": "https://whatsupmag.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "advertise@whatsupmag.com"
+  ],
+  "token_usage": {
+    "tokens_used": 390,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00195
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://whatsupmag.com/weddings/advertise",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "digital_id",
+        "id": "__mrkt_dig_id",
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "payload",
+        "id": null,
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cf",
+        "id": null,
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_name",
+        "id": null,
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "thanku_msg",
+        "id": null,
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "formcheck",
+        "id": null,
+        "placeholder": null,
+        "label": "Select ALL that apply:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": null,
+        "placeholder": "Company Name*",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "emailId",
+        "id": null,
+        "placeholder": "Email*",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstName",
+        "id": null,
+        "placeholder": "First Name*",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastName",
+        "id": null,
+        "placeholder": "Last Name*",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": null,
+        "placeholder": "Phone*",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "YourAdvertisingGoals",
+        "id": null,
+        "placeholder": "Your Advertising Goals?",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "tagAsCheckbox_1",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "tagAsCheckbox_2",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "tagAsCheckbox_3",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "tagAsCheckbox_4",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "chkDisclaimer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "subscribe",
+        "id": "mkm-es-subscribe",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "__mrkt_form_submit"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "domain": "https://usethebitcoin.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2200,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00773
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://usethebitcoin.com/crypto-advertising/",
+    "summary": "The purpose of this webpage HTML form is to allow users to subscribe to a newsletter by providing their name and email address for updates related to crypto advertising and guest posts on UseTheBitcoin.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "FNAME",
+        "id": "mce-FNAME",
+        "placeholder": null,
+        "label": "Name *",
+        "classes": [
+          "required",
+          "text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "EMAIL",
+        "id": "mce-EMAIL",
+        "placeholder": null,
+        "label": "Email Address *",
+        "classes": [
+          "required",
+          "email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "b_f00e43ff2eb9dcc8f83ac88a9_443a6805fa",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "subscribe",
+        "id": "mc-embedded-subscribe",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "button"
+        ]
+      }
+    ]
+  }
+}

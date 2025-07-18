@@ -1,0 +1,196 @@
+{
+  "domain": "https://marylandinjurylawcenter.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 570,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00285
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.marylandinjurylawcenter.com/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpid",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "5_From_Page",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "firm_name",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "blog_name",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "site_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "prefix",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "source",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "source_off",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "return_url",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "current_url",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "big_or_small",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_blog",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "10_Name",
+        "id": "Name",
+        "placeholder": "Name",
+        "label": "Name:",
+        "classes": [
+          "required",
+          "parsley-validated"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "20_Email",
+        "id": "Email",
+        "placeholder": "Email",
+        "label": "Email:",
+        "classes": [
+          "required",
+          "parsley-validated"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "30_Phone",
+        "id": "Phone",
+        "placeholder": "Phone",
+        "label": "Phone:",
+        "classes": [
+          "required",
+          "parsley-validated"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "40_What_Happened",
+        "id": "What_Happened",
+        "placeholder": "What Happened",
+        "label": "What Happened",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "longform_subject",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "required_fields",
+        "id": null,
+        "placeholder": null,
+        "label": "Name:",
+        "classes": []
+      }
+    ]
+  }
+}

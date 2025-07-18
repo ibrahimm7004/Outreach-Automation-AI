@@ -1,0 +1,41 @@
+{
+  "domain": "https://architecturaldigest.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1296,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00648
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://architecturaldigest.com/adpro",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-text-field-email",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "BaseInput-fAzTdK",
+          "TextFieldControlInput-eFUxkf",
+          "FkWlE",
+          "bzdw",
+          "text-field__control",
+          "text-field__control--input"
+        ]
+      }
+    ]
+  }
+}

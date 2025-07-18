@@ -1,0 +1,118 @@
+{
+  "domain": "https://zfamilylaw.com",
+  "manual_emails": [
+    "hello@zfamilylaw.com"
+  ],
+  "gpt_emails": [
+    "hello@zfamilylaw.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1062,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00531
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.zfamilylaw.com/contact",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "phone-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": "Enter your e-mail",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": "message-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input",
+          "hs-fieldtype-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "LEGAL_CONSENT.subscription_type_50708403",
+        "id": "LEGAL_CONSENT.subscription_type_50708403-a88de8d5-d737-4c8f-9dce-e6ef0248cf00",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-button",
+          "primary",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hs_context",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name*",
+        "classes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "domain": "https://marthastewart.com",
+  "manual_emails": [
+    "marthapr@dotdashmdp.com",
+    "marthaeditors@dotdashmdp.com",
+    "partners@dotdashmdp.com",
+    "brandlicensing@dotdashmdp.com",
+    "advertise@dotdashmdp.com",
+    "ic@dotdashmdp.com",
+    "subscribe@dotdashmdp.com",
+    "press@dotdashmdp.com"
+  ],
+  "gpt_emails": [
+    "advertise@dotdashmdp.com",
+    "partners@dotdashmdp.com",
+    "press@dotdashmdp.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1157,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00579
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

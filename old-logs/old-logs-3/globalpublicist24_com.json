@@ -1,0 +1,145 @@
+{
+  "domain": "https://globalpublicist24.com",
+  "manual_emails": [
+    "sales@globalpublicist24.com",
+    "info@globalpublicist24.com"
+  ],
+  "gpt_emails": [
+    "info@globalpublicist24.com",
+    "sales@globalpublicist24.com"
+  ],
+  "token_usage": {
+    "tokens_used": 991,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00496
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://support.globalpublicist24.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[first_name]",
+        "id": "form-field-first_name",
+        "placeholder": "First Name",
+        "label": "",
+        "classes": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[last_name]",
+        "id": "form-field-last_name",
+        "placeholder": "Last Name",
+        "label": "",
+        "classes": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "label": "",
+        "classes": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[Subject]",
+        "id": "form-field-Subject",
+        "placeholder": "Subject",
+        "label": "",
+        "classes": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[company_name]",
+        "id": "form-field-company_name",
+        "placeholder": "Company name",
+        "label": "",
+        "classes": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Message",
+        "label": "",
+        "classes": [
+          "elementor-field-textual",
+          "elementor-field",
+          "elementor-size-sm"
+        ]
+      }
+    ]
+  }
+}

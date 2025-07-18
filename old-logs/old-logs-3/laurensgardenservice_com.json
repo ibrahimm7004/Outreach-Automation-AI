@@ -1,0 +1,149 @@
+{
+  "domain": "https://laurensgardenservice.com",
+  "manual_emails": [
+    "laurensgardens@gmail.com"
+  ],
+  "gpt_emails": [
+    "laurensgardens@gmail.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2920,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00857
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.laurensgardenservice.com/contact-our-gardening-experts/",
+    "summary": "The HTML form is intended for visitors to subscribe to a newsletter from gardening experts, allowing them to provide their name and email address for updates or estimates regarding gardening services.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "esfpx_name",
+        "id": null,
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "ig_es_form_field_name"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "esfpx_email",
+        "id": null,
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "es_required_field",
+          "es_txt_email",
+          "ig_es_form_field_email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_lists[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "es",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_es_form_identifier",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_es_email_page",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_es_email_page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_status",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "esfpx_es-subscribe",
+        "id": "es-subscribe-6850f42f4157a",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "esfpx_es_hp_email",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "es_required_field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "submit",
+        "id": "es_subscription_form_submit_6850f42f4157a",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "es_subscription_form_submit",
+          "es_submit_button",
+          "es_textbox_button"
+        ]
+      }
+    ]
+  }
+}

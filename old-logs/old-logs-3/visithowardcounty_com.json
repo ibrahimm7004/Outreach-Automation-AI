@@ -1,0 +1,43 @@
+{
+  "domain": "https://visithowardcounty.com",
+  "manual_emails": [
+    "info@howardcountytourism.com",
+    "visitor@posternagency.com",
+    "advertising@dtnads.com",
+    "alex@howardcountytourism.com"
+  ],
+  "gpt_emails": [
+    "info@howardcountytourism.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1830,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00515
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://visithowardcounty.com/about/tourism-council/membership/marketing-opportunities/",
+    "summary": "The webpage HTML form is designed for users to search for additional marketing opportunities related to Howard County Tourism & Promotion.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "id": "txt_search",
+        "placeholder": "Search...",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      }
+    ]
+  }
+}

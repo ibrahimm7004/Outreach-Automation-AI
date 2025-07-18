@@ -1,0 +1,316 @@
+{
+  "domain": "https://wgk-law.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 629,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00315
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://wgk-law.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_57720f3f3d0d0e7482531c7eaec14df2",
+        "id": "input_57720f3f3d0d0e7482531c7eaec14df2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gfield_recaptcha_response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1",
+        "id": "input_3_1",
+        "placeholder": "Name",
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_11",
+        "id": "input_3_11",
+        "placeholder": "ZIP Code",
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_2",
+        "id": "input_3_2",
+        "placeholder": "Email",
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": "Phone Number",
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": "Describe Your Case",
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "input_12.1",
+        "id": "choice_3_12_1",
+        "placeholder": null,
+        "label": "I Agree to Terms of the Disclaimer *",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_13",
+        "id": "input_3_13",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_14",
+        "id": "input_3_14",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_15",
+        "id": "input_3_15",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_16",
+        "id": "input_3_16",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_17",
+        "id": "input_3_17",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_18",
+        "id": "input_3_18",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_3",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      }
+    ]
+  }
+}

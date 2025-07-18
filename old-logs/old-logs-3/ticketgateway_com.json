@@ -1,0 +1,152 @@
+{
+  "domain": "https://ticketgateway.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "contact@ticketgateway.com"
+  ],
+  "token_usage": {
+    "tokens_used": 19822,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.01081
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.ticketgateway.com/home/contact-us",
+    "summary": "The webpage's HTML form is designed for users to submit inquiries related to events, specifically allowing individuals to select their affiliation as either an event organizer or attendee, along with providing their personal details, event information, and additional messages for contact purposes.",
+    "fields": [
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "i_am",
+        "id": "i_am",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "select-pad"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "category",
+        "id": "category",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "select-pad"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "number",
+        "name": "phone_number",
+        "id": "phone_number",
+        "placeholder": "(506) 234-5678",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "phone_number_country_code",
+        "id": "phone_number_country_code",
+        "placeholder": null,
+        "label": "Mobile No.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "event",
+        "id": "event",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": "subject",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "details",
+        "id": "details",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "token",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response-3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "button",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "btn-event2"
+        ]
+      }
+    ]
+  }
+}

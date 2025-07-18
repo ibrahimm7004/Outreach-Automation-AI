@@ -1,0 +1,54 @@
+{
+  "domain": "https://naacp.org",
+  "manual_emails": [
+    "members@naacpnet.org",
+    "scholarships@naacpnet.org",
+    "washingtonbureau@naacpnet.org",
+    "communications@naacpnet.org",
+    "hollywoodbureau@naacpnet.org",
+    "development@naacpnet.org",
+    "actso@naacpnet.org",
+    "cfields@naacpnet.org"
+  ],
+  "gpt_emails": [
+    "hollywoodbureau@naacpnet.org",
+    "washingtonbureau@naacpnet.org",
+    "members@naacpnet.org",
+    "development@naacpnet.org",
+    "scholarships@naacpnet.org",
+    "actso@naacpnet.org",
+    "communications@naacpnet.org",
+    "cfields@naacpnet.org"
+  ],
+  "token_usage": {
+    "tokens_used": 2139,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00889
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://naacp.org/articles/naacp-condemns-forceful-removal-senator-alex-padilla-homeland-security-press-conference",
+    "summary": "The webpage HTML form is designed for users to submit their email addresses to receive updates and news from the NAACP, specifically related to their activities and statements, such as condemning the removal of Senator Alex Padilla from a press conference.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "em",
+        "id": "site-footer-signup-input",
+        "placeholder": "Enter your email",
+        "label": "",
+        "classes": [
+          "site-footer-signup-input"
+        ]
+      }
+    ]
+  }
+}

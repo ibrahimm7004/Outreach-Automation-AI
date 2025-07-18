@@ -1,0 +1,48 @@
+{
+  "domain": "https://tomsguide.com",
+  "manual_emails": [
+    "licensing@futurenet.com",
+    "futurenow@futurenet.com",
+    "futureinvoices@futurenet.com",
+    "advertising@futurenet.com",
+    "cosec@futurenet.co.uk",
+    "marion.le-bot@futurenet.com",
+    "creditcontrol@futurenet.com",
+    "accountspayable@futurenet.com",
+    "freelancefinance@futurenet.com"
+  ],
+  "gpt_emails": [
+    "info@tomsguide.com",
+    "advertising@futurenet.com",
+    "licensing@futurenet.com"
+  ],
+  "token_usage": {
+    "tokens_used": 5838,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01063
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://go.future-advertising.com/Toms-Guide-Media-Kit.html",
+    "summary": "The HTML form on the \"Tom's Guide Media Kit\" webpage is designed for potential advertisers or partners to submit their contact information, including their name, email, company, and country, to receive future communications and explore advertising opportunities.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "formid",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

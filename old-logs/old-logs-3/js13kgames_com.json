@@ -1,0 +1,38 @@
+{
+  "domain": "https://js13kgames.com",
+  "manual_emails": [
+    "contact@js13kgames.com"
+  ],
+  "gpt_emails": [
+    "contact@js13kgames.com"
+  ],
+  "token_usage": {
+    "tokens_used": 264,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00132
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://js13kgames.com/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "EMAIL",
+        "id": null,
+        "placeholder": "Your email address",
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

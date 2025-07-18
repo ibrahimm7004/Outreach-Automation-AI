@@ -1,0 +1,89 @@
+{
+  "domain": "https://marylandsymphony.org",
+  "manual_emails": [
+    "tickets@marylandsymphony.org",
+    "info@marylandsymphony.org",
+    "education@marylandsymphony.org",
+    "giving@marylandsymphony.org"
+  ],
+  "gpt_emails": [
+    "info@marylandsymphony.org",
+    "tickets@marylandsymphony.org",
+    "education@marylandsymphony.org",
+    "giving@marylandsymphony.org"
+  ],
+  "token_usage": {
+    "tokens_used": 1012,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00506
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.marylandsymphony.org/about-the-mso/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "EMAIL",
+        "id": null,
+        "placeholder": "Your email address",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "_mc4wp_honeypot",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_mc4wp_timestamp",
+        "id": null,
+        "placeholder": null,
+        "label": "Email address:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_mc4wp_form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Email address:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_mc4wp_form_element_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Email address:",
+        "classes": []
+      }
+    ]
+  }
+}

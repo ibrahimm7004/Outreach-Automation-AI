@@ -1,0 +1,85 @@
+{
+  "domain": "https://ezoic.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1229,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00615
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://ezoic.com/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Your name",
+        "label": "Name",
+        "classes": [
+          "w-full",
+          "border",
+          "border-input",
+          "bg-muted/10",
+          "px-3",
+          "py-2",
+          "text-sm",
+          "focus:outline-none",
+          "focus:ring-2",
+          "focus:ring-primary"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "your@email.com",
+        "label": "Email Address",
+        "classes": [
+          "w-full",
+          "border",
+          "border-input",
+          "bg-muted/10",
+          "px-3",
+          "py-2",
+          "text-sm",
+          "focus:outline-none",
+          "focus:ring-2",
+          "focus:ring-primary"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": "message",
+        "placeholder": "Your message",
+        "label": "Message",
+        "classes": [
+          "w-full",
+          "border",
+          "border-input",
+          "bg-muted/10",
+          "px-3",
+          "py-3",
+          "text-sm",
+          "focus:outline-none",
+          "focus:ring-2",
+          "focus:ring-primary"
+        ]
+      }
+    ]
+  }
+}

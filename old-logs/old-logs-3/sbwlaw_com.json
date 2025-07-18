@@ -1,0 +1,195 @@
+{
+  "domain": "https://sbwlaw.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 573,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00286
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.sbwlaw.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text-1",
+        "id": "forminator-field-text-1_68511ae652677",
+        "placeholder": "First Name:",
+        "label": "",
+        "classes": [
+          "forminator-input",
+          "forminator-name--field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text-2",
+        "id": "forminator-field-text-2_68511ae652677",
+        "placeholder": "Last Name:",
+        "label": "",
+        "classes": [
+          "forminator-input",
+          "forminator-name--field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "phone-1",
+        "id": "forminator-field-phone-1_68511ae652677",
+        "placeholder": "Phone:",
+        "label": "",
+        "classes": [
+          "forminator-input",
+          "forminator-field--phone"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email-1",
+        "id": "forminator-field-email-1_68511ae652677",
+        "placeholder": "Email:",
+        "label": "",
+        "classes": [
+          "forminator-input",
+          "forminator-email--field"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "textarea-1",
+        "id": "forminator-field-textarea-1_68511ae652677",
+        "placeholder": "Message:",
+        "label": "",
+        "classes": [
+          "forminator-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_url",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "forminator_nonce",
+        "id": "forminator_nonce",
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_type",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "current_url",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "render_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_6",
+        "id": "input_6",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "apbct_visible_fields",
+        "id": "apbct_visible_fields_1",
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ct_no_cookie_hidden_field",
+        "id": null,
+        "placeholder": null,
+        "label": "Please do not fill in this field.",
+        "classes": [
+          "apbct_special_field",
+          "ct_no_cookie_hidden_field"
+        ]
+      }
+    ]
+  }
+}

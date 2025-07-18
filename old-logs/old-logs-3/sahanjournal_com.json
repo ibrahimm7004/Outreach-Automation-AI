@@ -1,0 +1,81 @@
+{
+  "domain": "https://sahanjournal.com",
+  "manual_emails": [
+    "contact@sahanjournal.com",
+    "membership@sahanjournal.com",
+    "cxiong@sahanjournal.com",
+    "swaterman@sahanjournal.com"
+  ],
+  "gpt_emails": [
+    "contact@sahanjournal.com",
+    "cxiong@sahanjournal.com",
+    "swaterman@sahanjournal.com"
+  ],
+  "token_usage": {
+    "tokens_used": 818,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00409
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://sahanjournal.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "newspack_newsletters_subscribe",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "newspack_popup_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lists[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "npe",
+        "id": "newspack-newsletters-subscribe-block-input-83179-email",
+        "placeholder": "Email address",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": "Email address",
+        "label": "",
+        "classes": [
+          "nphp"
+        ]
+      }
+    ]
+  }
+}

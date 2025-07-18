@@ -1,0 +1,916 @@
+{
+  "domain": "https://thedailyrecord.com",
+  "manual_emails": [
+    "mkauffman@thedailyrecord.com",
+    "kmalone@bridgetowermedia.com",
+    "pbrannan@thedailyrecord.com",
+    "kkron@bridgetowermedia.com",
+    "shuettner@thedailyrecord.com",
+    "bjacobs@bridgetowermedia.com",
+    "shuettner@bridgetowermedia.com",
+    "iround@thedailyrecord.com",
+    "advertising@thedailyrecord.com",
+    "jhough@bridgetowermedia.com",
+    "jhogan@thedailyrecord.com",
+    "bcompere@bridgetowermedia.com",
+    "support@bridgetowerservice.com",
+    "ksams@bridgetowermedia.com",
+    "ddixon@thedailyrecord.com",
+    "ddillard@thedailyrecord.com",
+    "sloane@sloanebrown.com",
+    "rkonieczny@thedailyrecord.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 11275,
+    "summarize_calls": 5,
+    "estimated_cost_usd": 0.0126
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://thedailyrecord.com/movers-shakers-submission/",
+    "summary": "The webpage HTML form allows users to submit announcements about new employees, promotions, or community notes to be featured in The Daily Record, targeting legal and business audiences with options for both standard and featured listings, while requiring contact information and payment details for each submission.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.3",
+        "id": "input_252_4_3",
+        "placeholder": null,
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.6",
+        "id": "input_252_4_6",
+        "placeholder": null,
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_5",
+        "id": "input_252_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_2",
+        "id": "input_252_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_14",
+        "id": "input_252_14",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_16.1",
+        "id": "input_252_16_1",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_16.2",
+        "id": "input_252_16_2",
+        "placeholder": null,
+        "label": "Address Line 2",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_16.3",
+        "id": "input_252_16_3",
+        "placeholder": null,
+        "label": "City",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_16.4",
+        "id": "input_252_16_4",
+        "placeholder": null,
+        "label": "State",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_16.5",
+        "id": "input_252_16_5",
+        "placeholder": null,
+        "label": "ZIP Code",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_16.6",
+        "id": "input_252_16_6",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_24",
+        "id": "input_252_24",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large",
+          "gfield_select"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_45",
+        "id": "choice_252_45_0",
+        "placeholder": null,
+        "label": "Hire",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_45",
+        "id": "choice_252_45_1",
+        "placeholder": null,
+        "label": "Promotion",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_45",
+        "id": "choice_252_45_2",
+        "placeholder": null,
+        "label": "Award",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_45",
+        "id": "choice_252_45_3",
+        "placeholder": null,
+        "label": "Other",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_45_other",
+        "id": "input_252_45_other",
+        "placeholder": null,
+        "label": "Other",
+        "classes": [
+          "gchoice_other_control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_6.3",
+        "id": "input_252_6_3",
+        "placeholder": null,
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_6.6",
+        "id": "input_252_6_6",
+        "placeholder": null,
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_29",
+        "id": "input_252_29",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_7",
+        "id": "input_252_7",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_40",
+        "id": "input_252_40",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_37",
+        "id": "input_252_37",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_8",
+        "id": "input_252_8",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_41",
+        "id": "choice_252_41_0",
+        "placeholder": null,
+        "label": "Man",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_41",
+        "id": "choice_252_41_1",
+        "placeholder": null,
+        "label": "Woman",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_41",
+        "id": "choice_252_41_2",
+        "placeholder": null,
+        "label": "Nonbinary",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_41",
+        "id": "choice_252_41_3",
+        "placeholder": null,
+        "label": "Prefer not to say",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "input_41",
+        "id": "choice_252_41_4",
+        "placeholder": null,
+        "label": "Other",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_41_other",
+        "id": "input_252_41_other",
+        "placeholder": null,
+        "label": "Other",
+        "classes": [
+          "gchoice_other_control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_10",
+        "id": "input_252_10",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_15",
+        "id": "input_252_15",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_17.1",
+        "id": "input_252_17_1",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_17.2",
+        "id": "input_252_17_2",
+        "placeholder": null,
+        "label": "Address Line 2",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_17.3",
+        "id": "input_252_17_3",
+        "placeholder": null,
+        "label": "City",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_17.4",
+        "id": "input_252_17_4",
+        "placeholder": null,
+        "label": "State",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_17.5",
+        "id": "input_252_17_5",
+        "placeholder": null,
+        "label": "ZIP Code",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_17.6",
+        "id": "input_252_17_6",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "url",
+        "name": "input_13",
+        "id": "input_252_13",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_31",
+        "id": "input_252_31",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_9",
+        "id": "input_252_9",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": null,
+        "id": "html5_1itu3q1ge1e1t21gf221vtm18s3",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_25",
+        "id": "input_252_25",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_32",
+        "id": "input_252_32",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_33",
+        "id": "input_252_33",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_34",
+        "id": "input_252_34",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_35",
+        "id": "input_252_35",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_36",
+        "id": "input_252_36",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": null,
+        "id": "html5_1itu3q1gf1so411kd1puh1mo33ds6",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MAX_FILE_SIZE",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "input_42",
+        "id": "input_252_42",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_20.1",
+        "id": null,
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_20.2",
+        "id": "ginput_base_price_252_20",
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "ginput_product_price",
+          "gform-text-input-reset"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_20.3",
+        "id": null,
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "ginput_quantity_252_20",
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_27.1",
+        "id": null,
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_27.2",
+        "id": "ginput_base_price_252_27",
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "ginput_product_price",
+          "gform-text-input-reset"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_27.3",
+        "id": null,
+        "placeholder": null,
+        "label": "Price:",
+        "classes": [
+          "ginput_quantity_252_27",
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_28",
+        "id": "input_252_28",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform-text-input-reset",
+          "ginput_total",
+          "ginput_total_252"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_23.1",
+        "id": "input_252_23_1",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_23.2",
+        "id": "input_252_23_2",
+        "placeholder": null,
+        "label": "Address Line 2",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_23.3",
+        "id": "input_252_23_3",
+        "placeholder": null,
+        "label": "City",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_23.4",
+        "id": "input_252_23_4",
+        "placeholder": null,
+        "label": "State / Province / Region",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_23.5",
+        "id": "input_252_23_5",
+        "placeholder": null,
+        "label": "ZIP / Postal Code",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_23.6",
+        "id": "input_252_23_6",
+        "placeholder": null,
+        "label": "Street Address",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "__PrivateStripeElement-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_44.5",
+        "id": "input_252_44_5",
+        "placeholder": null,
+        "label": "Cardholder Name",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_39",
+        "id": "input_252_39",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large",
+          "gfield_select"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_38",
+        "id": "input_252_38",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_46",
+        "id": "input_252_46",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_252",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_252",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_252",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_252",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_252",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_252",
+        "id": "gform_target_page_number_252",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_252",
+        "id": "gform_source_page_number_252",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_uploaded_files",
+        "id": "gform_uploaded_files_252",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      }
+    ]
+  }
+}

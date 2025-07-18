@@ -1,0 +1,158 @@
+{
+  "domain": "https://frizwoods.com",
+  "manual_emails": [
+    "office@frizwoods.com",
+    "admin@dimden.dev"
+  ],
+  "gpt_emails": [
+    "office@frizwoods.com"
+  ],
+  "token_usage": {
+    "tokens_used": 624,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00312
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://frizwoods.com/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_subject",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_captcha",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "_honey",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "gclid",
+        "id": "gclid",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_cc",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_next",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "first_name",
+        "id": null,
+        "placeholder": "First Name*",
+        "label": "",
+        "classes": [
+          "consult-input",
+          "svelte-1p4n9po"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "last_name",
+        "id": null,
+        "placeholder": "Last Name*",
+        "label": "",
+        "classes": [
+          "consult-input",
+          "svelte-1p4n9po"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "phone",
+        "id": null,
+        "placeholder": "Phone*",
+        "label": "",
+        "classes": [
+          "consult-input",
+          "svelte-1p4n9po"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": null,
+        "placeholder": "Email Address",
+        "label": "",
+        "classes": [
+          "consult-input",
+          "svelte-1p4n9po"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "details",
+        "id": null,
+        "placeholder": "Details",
+        "label": "",
+        "classes": [
+          "consult-input",
+          "consult-details",
+          "svelte-1p4n9po"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "consult-submit",
+          "consult-submit-btn",
+          "svelte-1p4n9po"
+        ]
+      }
+    ]
+  }
+}

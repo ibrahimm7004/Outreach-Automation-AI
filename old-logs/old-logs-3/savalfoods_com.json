@@ -1,0 +1,173 @@
+{
+  "domain": "https://savalfoods.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 258,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00129
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://savalfoods.com/contact",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "email",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "Phone",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "Company",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Address",
+        "id": "Address",
+        "placeholder": "Address",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Friend-Family",
+        "id": "Friend-Family",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Instagram-Facebook",
+        "id": "Instagram-Facebook",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "TikTok-Twitter",
+        "id": "TikTok-Twitter",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Business-Associate",
+        "id": "Business-Associate",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Trucks",
+        "id": "Trucks",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Google-Search-Engine",
+        "id": "Google-Search-Engine",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Other",
+        "id": "Other",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "Message",
+        "id": "Message",
+        "placeholder": "Message",
+        "label": "How did you hear about us?",
+        "classes": [
+          "form-text-field",
+          "w-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "button01",
+          "spaced-vert",
+          "w-button"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "domain": "https://thebeautyblotter.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1134,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00121
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.thebeautyblotter.com/contact/",
+    "summary": "The purpose of the webpage's HTML form is to allow users to subscribe to a weekly newsletter that provides style and beauty inspiration directly to their inbox.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "csrf",
+        "id": null,
+        "placeholder": null,
+        "label": "Email addreQss",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "1ucmQM0",
+        "id": "ff-65945dc1355de16f50f5d8dc-1ucmQM0",
+        "placeholder": "1ucmQM0",
+        "label": "Email addreQss",
+        "classes": [
+          "ff-65945dc1355de16f50f5d8dc__control",
+          "fd-form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "mucQM01",
+        "id": "ff-65945dc1355de16f50f5d8dc-mucQM01",
+        "placeholder": "mucQM01",
+        "label": "Ematil address",
+        "classes": [
+          "ff-65945dc1355de16f50f5d8dc__control",
+          "fd-form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "M01ucmQ",
+        "id": "ff-65945dc1355de16f50f5d8dc-M01ucmQ",
+        "placeholder": "M01ucmQ",
+        "label": "Emailj address",
+        "classes": [
+          "ff-65945dc1355de16f50f5d8dc__control",
+          "fd-form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "01ucmQM",
+        "id": "ff-65945dc1355de16f50f5d8dc-01ucmQM",
+        "placeholder": "01ucmQM",
+        "label": "Email addrsess",
+        "classes": [
+          "ff-65945dc1355de16f50f5d8dc__control",
+          "fd-form-control"
+        ]
+      }
+    ]
+  }
+}

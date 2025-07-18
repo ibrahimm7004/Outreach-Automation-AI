@@ -1,0 +1,40 @@
+{
+  "domain": "https://mydearquotes.com",
+  "manual_emails": [
+    "marketing@mydearquotes.com"
+  ],
+  "gpt_emails": [
+    "marketing@mydearquotes.com"
+  ],
+  "token_usage": {
+    "tokens_used": 129,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00065
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.mydearquotes.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "id": null,
+        "placeholder": "Type here",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      }
+    ]
+  }
+}

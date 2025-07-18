@@ -1,0 +1,29 @@
+{
+  "domain": "https://lifewire.com",
+  "manual_emails": [
+    "press@lifewire.com",
+    "partners@dotdashmdp.com",
+    "brandlicensing@dotdashmdp.com",
+    "feedback@lifewire.com",
+    "advertise@dotdashmdp.com",
+    "ic@dotdashmdp.com",
+    "subscribe@dotdashmdp.com",
+    "press@dotdashmdp.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1520,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.0076
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

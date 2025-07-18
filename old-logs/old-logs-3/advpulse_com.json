@@ -1,0 +1,51 @@
+{
+  "domain": "https://advpulse.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "advertising@advpulse.com",
+    "editorial@advpulse.com",
+    "info@advpulse.com"
+  ],
+  "token_usage": {
+    "tokens_used": 3505,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00324
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://advpulse.com/contact-us/",
+    "summary": "The webpage features a \"Contact Us\" form intended for users to reach out to ADV Pulse regarding various inquiries such as advertising, business development, careers, editorial questions, tech support, or general inquiries.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "inputSearch"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "btnSearch"
+        ]
+      }
+    ]
+  }
+}

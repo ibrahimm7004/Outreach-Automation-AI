@@ -1,0 +1,84 @@
+{
+  "domain": "https://thedailyjaws.com",
+  "manual_emails": [
+    "partners@thedailyjaws.com"
+  ],
+  "gpt_emails": [
+    "partners@thedailyjaws.com"
+  ],
+  "token_usage": {
+    "tokens_used": 660,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.0033
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://thedailyjaws.com/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "fname",
+        "id": "name-yui_3_17_2_1_1642356555388_66185-fname-field",
+        "placeholder": null,
+        "label": "First Name",
+        "classes": [
+          "ngonnDl0lqs7ZArA"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lname",
+        "id": "name-yui_3_17_2_1_1642356555388_66185-lname-field",
+        "placeholder": null,
+        "label": "Last Name",
+        "classes": [
+          "ngonnDl0lqs7ZArA"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": null,
+        "id": "email-yui_3_17_2_1_1642356555388_66186-field",
+        "placeholder": "",
+        "label": "Email(required)",
+        "classes": [
+          "ngonnDl0lqs7ZArA"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "id": "text-yui_3_17_2_1_1642356555388_66187-field",
+        "placeholder": "",
+        "label": "Subject(required)",
+        "classes": [
+          "ngonnDl0lqs7ZArA"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": null,
+        "id": "textarea-yui_3_17_2_1_1642356555388_66188-field",
+        "placeholder": "",
+        "label": "Message(required)",
+        "classes": [
+          "qj2U4ppWTRohr5rP"
+        ]
+      }
+    ]
+  }
+}

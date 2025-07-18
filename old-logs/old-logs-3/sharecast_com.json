@@ -1,0 +1,38 @@
+{
+  "domain": "https://sharecast.com",
+  "manual_emails": [
+    "publicidad@vortexmedia.es"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 525,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00263
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "mailto:admin@vortexmedia.es",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "id": null,
+        "placeholder": "Company search",
+        "label": "",
+        "classes": [
+          "search-input"
+        ]
+      }
+    ]
+  }
+}

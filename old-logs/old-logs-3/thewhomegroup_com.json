@@ -1,0 +1,173 @@
+{
+  "domain": "https://thewhomegroup.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 4511,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.01005
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://thewhomegroup.com/contact-us/",
+    "summary": "The purpose of the webpage's HTML form is to facilitate inquiries from potential clients who are interested in buying or selling properties through W Home Group, allowing them to provide their contact information and express their preferences while consenting to receive marketing communications.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "Enter Your Name",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "mailformid",
+        "id": "mailformid",
+        "placeholder": null,
+        "label": "Enter Your Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "FormKey",
+        "id": "FormKey",
+        "placeholder": null,
+        "label": "Enter Your Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Sent_Form",
+        "id": "Sent_Form",
+        "placeholder": null,
+        "label": "Enter Your Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Sent From",
+        "id": "Sent From",
+        "placeholder": null,
+        "label": "Enter Your Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Name",
+        "id": "contactformname",
+        "placeholder": "Full Name *",
+        "label": "Enter Your Name",
+        "classes": [
+          "required",
+          "form-control",
+          "contact-us-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Email",
+        "id": "contactformemail",
+        "placeholder": "Email Address *",
+        "label": "Enter Your Email Address",
+        "classes": [
+          "required",
+          "email",
+          "form-control",
+          "contact-us-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Phone",
+        "id": "contactformphone",
+        "placeholder": "Phone Number",
+        "label": "Enter Your Phone Number",
+        "classes": [
+          "form-control",
+          "phone"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "buyingproperty",
+        "id": "buyingproperty",
+        "placeholder": null,
+        "label": "Buying a property",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "sellingproperty",
+        "id": "sellingproperty",
+        "placeholder": null,
+        "label": "Selling a property",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Realtor",
+        "id": "Realtor",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "Comments or questions",
+        "id": "contactformtextfield",
+        "placeholder": "Questions or Comments?",
+        "label": "Questions or Comments?",
+        "classes": [
+          "required",
+          "form-control",
+          "contact-us-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "OptIn",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "topyenoh",
+        "id": "topyenoh",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

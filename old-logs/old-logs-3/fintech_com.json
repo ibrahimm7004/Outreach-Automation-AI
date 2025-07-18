@@ -1,0 +1,276 @@
+{
+  "domain": "https://fintech.com",
+  "manual_emails": [
+    "activation@fintech.com",
+    "sales@fintech.com",
+    "support@fintech.com",
+    "info@fintech.com"
+  ],
+  "gpt_emails": [
+    "sales@fintech.com"
+  ],
+  "token_usage": {
+    "tokens_used": 3268,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00463
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "tel:8132881980",
+    "summary": "The webpage HTML form is designed to facilitate contact with Fintech for inquiries related to activation, client support, general inquiries, or sales, requiring essential information such as the user's name, business name, email, phone number, and a brief comment.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_3_1_3",
+        "placeholder": null,
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_3_1_6",
+        "placeholder": null,
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_6",
+        "id": "input_3_6",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_2",
+        "id": "input_3_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large",
+          "gfield_select"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_5",
+        "id": "input_3_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "input_7.1",
+        "id": "choice_3_7_1",
+        "placeholder": null,
+        "label": "I have read and agreed to the Privacy Policy and Terms of Use",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_9",
+        "id": "input_3_9",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_3",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "alt_s",
+        "id": "alt_s",
+        "placeholder": null,
+        "label": "Alternative:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "njoehq555",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

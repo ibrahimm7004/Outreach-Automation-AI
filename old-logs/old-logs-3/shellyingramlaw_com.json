@@ -1,0 +1,282 @@
+{
+  "domain": "https://shellyingramlaw.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 745,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00373
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://shellyingramlaw.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": [
+          "gforms-pum"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_12",
+        "id": "input_2_12",
+        "placeholder": "Name",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_2",
+        "id": "input_2_2",
+        "placeholder": "Email",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_3",
+        "id": "input_2_3",
+        "placeholder": "Phone",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_13",
+        "id": "input_2_13",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large",
+          "gfield_select"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_4",
+        "id": "input_2_4",
+        "placeholder": "Your Message",
+        "label": "",
+        "classes": [
+          "textarea",
+          "small"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_2",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_2",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_2",
+        "id": "gform_target_page_number_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_2",
+        "id": "gform_source_page_number_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ct_checkjs",
+        "id": "ct_checkjs_66808e327dc79d135ba18e051673d906",
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "apbct_email_id__gravity_form",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "apbct_special_field",
+          "apbct__email_id__gravity_form"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "apbct_visible_fields",
+        "id": "apbct_visible_fields_0",
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ct_no_cookie_hidden_field",
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": [
+          "apbct_special_field",
+          "ct_no_cookie_hidden_field"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "domain": "https://umgc.edu",
+  "manual_emails": [
+    "veteran.advisor@umgc.edu",
+    "military.advisor@umgc.edu",
+    "cctransfer@umgc.edu",
+    "grad.advisor@umgc.edu",
+    "undergrad.advisor@umgc.edu"
+  ],
+  "gpt_emails": [
+    "undergrad.advisor@umgc.edu",
+    "grad.advisor@umgc.edu",
+    "veteran.advisor@umgc.edu"
+  ],
+  "token_usage": {
+    "tokens_used": 1669,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00834
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://umgc.edu/contact",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "GA_Client_ID__c",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "State",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "City",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "URL_Short__c",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "URL_Full__c",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Unique_Submission_ID__c",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": ":formstart",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_charset_",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": ":redirect",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name * * Required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-text-6975409",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-text__text",
+          "shared-form-text__text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "LastName",
+        "id": "form-text-1357576161",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-text__text",
+          "shared-form-text__text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "usermsg",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-usermsg__input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Email",
+        "id": "form-text-583960336",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-text__text",
+          "shared-form-text__text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Phone",
+        "id": "phone-form-text-61948348",
+        "placeholder": "301 2345678",
+        "label": "",
+        "classes": [
+          "cmp-form-text__text",
+          "shared-form-text__text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "postalcode",
+        "name": "PostalCode",
+        "id": "form-text-674140434",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-text__text",
+          "shared-form-text__text"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Career__c",
+        "id": "form-options-1660118190",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-options__field",
+          "cmp-form-options__field--drop-down",
+          "shared-form-options__field",
+          "shared-form-options__field--drop-down"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "School__c",
+        "id": "form-options-792309085",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-options__field",
+          "cmp-form-options__field--drop-down",
+          "shared-form-options__field",
+          "shared-form-options__field--drop-down"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Military_Branch",
+        "id": "form-options-338620293",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cmp-form-options__field",
+          "cmp-form-options__field--drop-down",
+          "shared-form-options__field",
+          "shared-form-options__field--drop-down"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Campus__c",
+        "id": "form-hidden-334994582",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Company",
+        "id": "form-hidden-916699208",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "LeadSource",
+        "id": "form-hidden-559601177",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Military_Status__c",
+        "id": "form-hidden-79523784",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Duty_Status__c",
+        "id": "form-hidden-2071787952",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Initial_Market_Activity_Code__c",
+        "id": "form-hidden-1748466195",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_campaign__c",
+        "id": "form-hidden-1472400026",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_medium__c",
+        "id": "form-hidden-1542640336",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_content__c",
+        "id": "form-hidden-1084382457",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_source__c",
+        "id": "form-hidden-605331217",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "GCLID__c",
+        "id": "form-hidden-1682150282",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

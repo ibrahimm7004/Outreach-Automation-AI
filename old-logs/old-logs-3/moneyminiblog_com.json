@@ -1,0 +1,98 @@
+{
+  "domain": "https://moneyminiblog.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2526,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00698
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://moneyminiblog.com/contact/",
+    "summary": "The purpose of the webpage HTML form is to allow users to contact the site owner regarding questions, collaboration ideas, or submissions, by providing their name, email address, and a message.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_name_0",
+        "id": "et_pb_contact_name_0",
+        "placeholder": "Name",
+        "label": "Name",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_email_0",
+        "id": "et_pb_contact_email_0",
+        "placeholder": "Email Address",
+        "label": "Email Address",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "et_pb_contact_message_0",
+        "id": "et_pb_contact_message_0",
+        "placeholder": "Message",
+        "label": "Message",
+        "classes": [
+          "et_pb_contact_message",
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "et_pb_contactform_submit_0",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_captcha_0",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "input",
+          "et_pb_contact_captcha"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpnonce-et-pb-contact-form-submitted-0",
+        "id": "_wpnonce-et-pb-contact-form-submitted-0",
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      }
+    ]
+  }
+}

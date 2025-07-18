@@ -1,0 +1,105 @@
+{
+  "domain": "https://bullis.org",
+  "manual_emails": [
+    "katrina_hunter@bullis.org",
+    "ls_office@bullis.org",
+    "tim_simpson@bullis.org",
+    "lara_morford@bullis.org",
+    "jason_conley@bullis.org",
+    "monica_dayhoff@bullis.org",
+    "lauren_keller@bullis.org",
+    "mandy_tang@bullis.org",
+    "admission@bullis.org",
+    "libary@bullis.org",
+    "human_resources@bullis.org",
+    "communications@bullis.org"
+  ],
+  "gpt_emails": [
+    "marketing@bullisschool.org",
+    "press@bullisschool.org"
+  ],
+  "token_usage": {
+    "tokens_used": 1088,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00544
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://bullis.org/about/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "submission_uuid",
+        "id": null,
+        "placeholder": null,
+        "label": "Email Address*required",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "field_3",
+        "id": "field_3_55038",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "fsFormField"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "field_4",
+        "id": "field_4_55038",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "fsFormField"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "field_5",
+        "id": "field_5_55038",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "fsFormField"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "field_7",
+        "id": "field_7_55038",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "fsFormField"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      }
+    ]
+  }
+}

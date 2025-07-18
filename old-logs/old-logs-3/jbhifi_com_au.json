@@ -1,0 +1,48 @@
+{
+  "domain": "https://jbhifi.com.au",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 3825,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00618
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.jbhifi.com.au/blogs/competitions/hilltop-hoods-competition",
+    "summary": "The webpage features a form designed to collect users' email addresses to notify them when the \"Fall From The Light\" product by Hilltop Hoods becomes available, while also offering the option to sign up for exclusive deals and offers.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "jbtextfield-Notify Me Email",
+        "placeholder": null,
+        "label": "Email address",
+        "classes": [
+          "InputField_fieldBase__14co79z0",
+          "TextField_baseTextFieldInput__1obgxqo6"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "specialOffersCheckbox 0.4938417063856093",
+        "id": "jbcheckbox-specialOffersCheckbox 0.4938417063856093",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "Checkbox_input__pomeu21"
+        ]
+      }
+    ]
+  }
+}

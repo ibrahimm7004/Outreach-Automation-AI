@@ -1,0 +1,31 @@
+{
+  "domain": "https://standard.net.au",
+  "manual_emails": [
+    "classifieds@acm.media",
+    "acm.circulation@austcommunitymedia.com.au",
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "help@warrnamboolstandard.com.au",
+    "peter.shepherd@warrnamboolstandard.com.au",
+    "sue.hunt@warrnamboolstandard.com.au"
+  ],
+  "gpt_emails": [
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "acm.circulation@austcommunitymedia.com.au",
+    "sue.hunt@warrnamboolstandard.com.au"
+  ],
+  "token_usage": {
+    "tokens_used": 1994,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00997
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

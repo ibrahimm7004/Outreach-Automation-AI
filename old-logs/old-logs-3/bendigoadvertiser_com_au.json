@@ -1,0 +1,32 @@
+{
+  "domain": "https://bendigoadvertiser.com.au",
+  "manual_emails": [
+    "classifieds@acm.media",
+    "sales@bendigoadvertiser.com.au",
+    "circulation.nr@austcommunitymedia.com.au",
+    "addynews@bendigoadvertiser.com.au",
+    "subscriptionsupport@austcommunitymedia.com.au"
+  ],
+  "gpt_emails": [
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "circulation.nr@austcommunitymedia.com.au",
+    "addynews@bendigoadvertiser.com.au",
+    "sales@bendigoadvertiser.com.au",
+    "classifieds@acm.media"
+  ],
+  "token_usage": {
+    "tokens_used": 2000,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.01
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

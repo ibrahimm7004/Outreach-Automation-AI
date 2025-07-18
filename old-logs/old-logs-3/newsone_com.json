@@ -1,0 +1,125 @@
+{
+  "domain": "https://newsone.com",
+  "manual_emails": [
+    "ionelegal@interactiveone.com",
+    "bwright@ionedigital.com",
+    "newsone-core@interactiveone.com"
+  ],
+  "gpt_emails": [
+    "bwright@ionedigital.com",
+    "NewsOne-Core@interactiveone.com"
+  ],
+  "token_usage": {
+    "tokens_used": 6485,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01235
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://newsone.com/advertising/",
+    "summary": "The webpage features a subscription form for the NewsOne newsletter, allowing users to enter their email address to receive updates and news content.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sailthru_nonce",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sailthru_email_list",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "source",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lo_event_name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "reset_optout_status",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hide_title_status",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "site_key",
+        "id": "siteKey",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "captcha_token",
+        "id": "sailthruToken",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "st_wp_email",
+        "placeholder": "Enter your email",
+        "label": "",
+        "classes": [
+          "form-control",
+          "sailthru_email"
+        ]
+      }
+    ]
+  }
+}

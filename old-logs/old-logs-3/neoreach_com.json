@@ -1,0 +1,903 @@
+{
+  "domain": "https://neoreach.com",
+  "manual_emails": [
+    "team@neoreach.com",
+    "press@neoreach.com"
+  ],
+  "gpt_emails": [
+    "team@neoreach.com",
+    "press@neoreach.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1729,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00864
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://neoreach.com/press/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_hidden_group_fields",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_hidden_groups",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_visible_groups",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_repeaters",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_steps",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7cf_options",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_recaptcha_response",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "how-can-we-help-you",
+        "id": "s2-how-can-we-help",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": null,
+        "placeholder": "* First Name",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": null,
+        "placeholder": "* Last Name",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": "* Business Email",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": null,
+        "placeholder": "* Phone",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-tel",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-tel"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": null,
+        "placeholder": "* Company Name",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company-website",
+        "id": null,
+        "placeholder": "* Company Website",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "brand-vertical",
+        "id": "s2-brand-vertical",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-ugc",
+        "id": "s2-budget-ugc",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-paid",
+        "id": "s2-budget-paid",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-management",
+        "id": "s2-budget-management",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-event",
+        "id": "s2-budget-event",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-bespoke",
+        "id": "s2-budget-bespoke",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "trying-to-achieve",
+        "id": "s2-trying-to-achieve",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "management-socials[]",
+        "id": "s2-management-socials",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem",
+          "select2-multiple-placeholder",
+          "s2-elem--stay_open"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "project-details",
+        "id": null,
+        "placeholder": "Fill us in on your project!",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "creator-email",
+        "id": null,
+        "placeholder": "* Email",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "content-niche",
+        "id": "s2-content-niche",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "s2-elem"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "social-links[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "social-links[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "social-links[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "social-links[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "instagram-social",
+        "id": null,
+        "placeholder": "* Instagram Handle or URL",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "tiktok-social",
+        "id": null,
+        "placeholder": "* TikTok Handle or URL",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "youtube-social",
+        "id": null,
+        "placeholder": "* YouTube Channel or URL",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "other-social",
+        "id": null,
+        "placeholder": "* Other: Please specify",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "representation-wanted[]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "about-me",
+        "id": null,
+        "placeholder": "Tell us more about you!",
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "current-permalink",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "all_traffic_sources",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "browser",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "city",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "country",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_campaign",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_channel",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_content",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_landing",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_medium",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_referrer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_source",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fc_term",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "GA_Client_ID",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gclid",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ip_address",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "region",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_campaign",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_channel",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_content",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_landing",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_medium",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_referrer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_source",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lc_term",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "latitude",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "longitude",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_visits",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "OS",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "pages_visited_list",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "time_passed",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "time_zone",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "device",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-hidden"
+        ]
+      }
+    ]
+  }
+}

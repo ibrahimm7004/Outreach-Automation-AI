@@ -1,0 +1,198 @@
+{
+  "domain": "https://wtop.com",
+  "manual_emails": [
+    "hello@wtop.com",
+    "squast@wtop.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 3927,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00697
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://wtop.com/advertise/",
+    "summary": "The webpage features a contact form intended for inquiries about advertising with WTOP News, requiring users to provide their name, company, email, phone number, and a description of their inquiry, along with CAPTCHA verification.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_764_1_3",
+        "placeholder": null,
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_764_1_6",
+        "placeholder": null,
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_764_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_3",
+        "id": "input_764_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4",
+        "id": "input_764_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_5",
+        "id": "input_764_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_7",
+        "id": "input_764_7",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_764",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_764",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_764",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_764",
+        "id": "gform_target_page_number_764",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_764",
+        "id": "gform_source_page_number_764",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

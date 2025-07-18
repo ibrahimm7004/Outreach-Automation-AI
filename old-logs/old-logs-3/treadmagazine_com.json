@@ -1,0 +1,110 @@
+{
+  "domain": "https://treadmagazine.com",
+  "manual_emails": [
+    "advertise@engaged.media"
+  ],
+  "gpt_emails": [
+    "advertise@engaged.media"
+  ],
+  "token_usage": {
+    "tokens_used": 2137,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00533
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.treadmagazine.com/advertise/",
+    "summary": "The webpage features a contact form intended for prospective advertisers to submit their details, including their name, email, phone number, business name, and a message, in order to inquire about advertising opportunities with TREAD Magazine.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "frm-fld-area"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "frm-fld-area"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact",
+        "id": "contact",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "frm-fld-area"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "business",
+        "id": "business",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "frm-fld-area"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": "message",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "addvertiser-frm-textarea",
+          "frm-fld-area"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "button",
+        "name": null,
+        "id": "check",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "advertise-frm-submit",
+          "mkdf-btn",
+          "mkdf-btn-medium",
+          "mkdf-btn-solid"
+        ]
+      }
+    ]
+  }
+}

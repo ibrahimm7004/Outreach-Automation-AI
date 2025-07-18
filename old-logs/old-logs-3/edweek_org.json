@@ -1,0 +1,122 @@
+{
+  "domain": "https://edweek.org",
+  "manual_emails": [
+    "reprints@educationweek.org"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2003,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00473
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.edweek.org/contact/#contact-the-newsroom",
+    "summary": "The webpage HTML form is designed for users to submit press releases, requiring their first name, last name, email, subject, and message as contact information to facilitate communication regarding press releases.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "first-name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "a-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "last-name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "a-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "a-input",
+          "a-input--email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "a-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "a-input",
+          "a-input--textarea"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response-1",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "brightspot.form.id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_query_string",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name*",
+        "classes": []
+      }
+    ]
+  }
+}

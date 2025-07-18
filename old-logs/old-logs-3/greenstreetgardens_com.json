@@ -1,0 +1,100 @@
+{
+  "domain": "https://greenstreetgardens.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1465,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00479
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://greenstreetgardens.com/about-us/contact/",
+    "summary": "The webpage contains a form intended for users to subscribe to the newsletter of Greenstreet Gardens by providing their first name, last name, and email address.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "id": null,
+        "placeholder": null,
+        "label": "First Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_3ba58d6]",
+        "id": "form-field-field_3ba58d6",
+        "placeholder": "First Name",
+        "label": "First Name",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_9464fe9]",
+        "id": "form-field-field_9464fe9",
+        "placeholder": "Last Name",
+        "label": "Last Name",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Enter your email address",
+        "label": "Email",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      }
+    ]
+  }
+}

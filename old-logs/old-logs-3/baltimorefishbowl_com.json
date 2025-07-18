@@ -1,0 +1,146 @@
+{
+  "domain": "https://baltimorefishbowl.com",
+  "manual_emails": [
+    "edgunts@aol.com",
+    "marcus@baltimorefishbowl.com",
+    "suzy@baltimorefishbowl.com",
+    "aliza@baltimorefishbowl.com",
+    "kit@kitpollard.com",
+    "david@baltimorefishbowl.com",
+    "editor@baltimorefishbowl.com",
+    "nicole@baltimorefishbowl.com",
+    "maliwali@aol.com",
+    "advertising@baltimorefishbowl.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 3983,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00927
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://baltimorefishbowl.com/advertise/",
+    "summary": "The purpose of this webpage's HTML form is to collect comments from users regarding advertising opportunities on the Baltimore Fishbowl website, allowing them to submit their name, email, and comments while optionally subscribing to a newsletter.",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": null,
+        "label": "Comment *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "author",
+        "id": "author",
+        "placeholder": null,
+        "label": "Name *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "url",
+        "name": "url",
+        "id": "url",
+        "placeholder": null,
+        "label": "Website",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_mc4wp_subscribe_wp-comment-form",
+        "id": null,
+        "placeholder": null,
+        "label": "Comment *",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "_mc4wp_subscribe_wp-comment-form",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "submit",
+        "id": "submit",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "submit"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "comment_post_ID",
+        "id": "comment_post_ID",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "comment_parent",
+        "id": "comment_parent",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "akismet_comment_nonce",
+        "id": "akismet_comment_nonce",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      }
+    ]
+  }
+}

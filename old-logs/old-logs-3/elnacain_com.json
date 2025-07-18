@@ -1,0 +1,180 @@
+{
+  "domain": "https://elnacain.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 246,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00123
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://elnacain.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required",
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": "wpcf7-6850ce6991dfa-field",
+        "placeholder": null,
+        "label": "Please leave this field empty.",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email",
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-subject",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "form-control"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "your-message",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-textarea",
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-submit",
+          "has-spinner",
+          "btn",
+          "btn-primary"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "_wpcf7_ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      }
+    ]
+  }
+}

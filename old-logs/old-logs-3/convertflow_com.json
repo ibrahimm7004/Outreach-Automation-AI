@@ -1,0 +1,269 @@
+{
+  "domain": "https://convertflow.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "info@convertflow.com"
+  ],
+  "token_usage": {
+    "tokens_used": 24019,
+    "summarize_calls": 6,
+    "estimated_cost_usd": 0.01653
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://convertflow.com/pricing#chat",
+    "summary": "The HTML form on this webpage is designed for potential customers to initiate contact with ConvertFlow, allowing them to provide their information and business details for inquiries related to pricing plans and services.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[visitor_token]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[source_url]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[contactable_type]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[contactable_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[website_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[element_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[broadcast_id]",
+        "id": "form3457810-broadcast-id",
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[variant_id]",
+        "id": "form3457810-variant-id",
+        "placeholder": null,
+        "label": "Yes, I'd like to receive email communications",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[name]",
+        "id": null,
+        "placeholder": "First name",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[last_name]",
+        "id": null,
+        "placeholder": "Last name",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "contact[email]",
+        "id": null,
+        "placeholder": "email@website.com",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cf-sms-countries"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "contact[phone]",
+        "id": null,
+        "placeholder": "Your phone number",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[company_name]",
+        "id": null,
+        "placeholder": "Your company name",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[url]",
+        "id": null,
+        "placeholder": "Your website URL",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[company_title]",
+        "id": null,
+        "placeholder": "Your professional title",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[city]",
+        "id": null,
+        "placeholder": "Your city",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[state]",
+        "id": null,
+        "placeholder": "Your state",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[country]",
+        "id": null,
+        "placeholder": "Your country",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[address]",
+        "id": null,
+        "placeholder": "Your address",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact[zip_code]",
+        "id": null,
+        "placeholder": "Your zip code",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "contact[extra][industry]",
+        "id": "contact_extra_industry",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "contact[extra][traffic_estimate]",
+        "id": "contact_extra_traffic_estimate",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact[marketing_consent]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cf-consent-checkbox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact[sms_consent]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cf-consent-checkbox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact[privacy_consent]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cf-consent-checkbox"
+        ]
+      }
+    ]
+  }
+}

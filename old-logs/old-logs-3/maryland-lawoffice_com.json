@@ -1,0 +1,282 @@
+{
+  "domain": "https://maryland-lawoffice.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2220,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00249
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://maryland-lawoffice.com/contact-us/",
+    "summary": "The webpage features a contact form designed for potential clients to request a free consultation with Shah & Kishore by providing their personal details and sharing their story, facilitating direct communication with the law firm.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_7",
+        "id": "input_1_7",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1",
+        "id": "input_1_1",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_9",
+        "id": "input_1_9",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_11",
+        "id": "input_1_11",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_1_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_6",
+        "id": "input_1_6",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_12",
+        "id": "input_1_12",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_13",
+        "id": "input_1_13",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_14",
+        "id": "input_1_14",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_15",
+        "id": "input_1_15",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_16",
+        "id": "input_1_16",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_17",
+        "id": "input_1_17",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_18",
+        "id": "input_1_18",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_19",
+        "id": "input_1_19",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_20",
+        "id": "input_1_20",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_22",
+        "id": "input_1_22",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_1",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_1",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_1",
+        "id": "gform_target_page_number_1",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_1",
+        "id": "gform_source_page_number_1",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "domain": "https://foxbaltimore.com",
+  "manual_emails": [
+    "mediainquiries@sbgtv.com",
+    "closedcaptioning@foxbaltimore.com",
+    "news@foxbaltimore.com",
+    "advertising@sbgtv.com",
+    "contentsales@sbgtv.com",
+    "closedcaptioning@parkcity.tv",
+    "comments@sbgi.net",
+    "sdomozyc@sbgi.net",
+    "mcdiehlmann@sbgtv.com"
+  ],
+  "gpt_emails": [
+    "news@foxbaltimore.com",
+    "mediainquiries@sbgtv.com",
+    "advertising@sbgtv.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2109,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.01055
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

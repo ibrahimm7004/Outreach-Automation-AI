@@ -1,0 +1,106 @@
+{
+  "domain": "https://sunshinewhispers.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 445,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00222
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://sunshinewhispers.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "kb_field_0",
+        "id": "kb_field__b8fb80-cc_0",
+        "placeholder": "",
+        "label": "Name*",
+        "classes": [
+          "kb-field",
+          "kb-text-style-field",
+          "kb-text-field",
+          "kb-field-0"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "kb_field_1",
+        "id": "kb_field__b8fb80-cc_1",
+        "placeholder": "",
+        "label": "Email*",
+        "classes": [
+          "kb-field",
+          "kb-text-style-field",
+          "kb-email-field",
+          "kb-field-1"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "kb_field_2",
+        "id": "kb_field__b8fb80-cc_2",
+        "placeholder": "",
+        "label": "Message*",
+        "classes": [
+          "kb-field",
+          "kb-text-style-field",
+          "kb-textarea-field",
+          "kb-field-2"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_kb_form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_kb_form_post_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "_kb_verify_email",
+        "id": null,
+        "placeholder": "Email",
+        "label": "",
+        "classes": [
+          "kadence-blocks-field",
+          "verify"
+        ]
+      }
+    ]
+  }
+}

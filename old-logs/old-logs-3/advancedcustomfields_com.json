@@ -1,0 +1,311 @@
+{
+  "domain": "https://advancedcustomfields.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 682,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00341
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.advancedcustomfields.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "anonymous_id",
+        "id": "anonymous_id-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ga_client_id",
+        "id": "ga_client_id-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ga_session_id",
+        "id": "ga_session_id-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fbc",
+        "id": "fbc-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fbp",
+        "id": "fbp-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gclid",
+        "id": "gclid-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fbclid",
+        "id": "fbclid-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "msclkid",
+        "id": "msclkid-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "li_fat_id",
+        "id": "li_fat_id-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "everflow_transaction_id",
+        "id": "everflow_transaction_id-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "k_visitor_code",
+        "id": "k_visitor_code-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "uetvid",
+        "id": "uetvid-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_medium",
+        "id": "utm_medium-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_content",
+        "id": "utm_content-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_campaign",
+        "id": "utm_campaign-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "uetsid",
+        "id": "uetsid-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_term",
+        "id": "utm_term-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utm_source",
+        "id": "utm_source-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "logged_in",
+        "id": "logged_in-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "mf_user",
+        "id": "mf_user-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "last_marketing__form__activity",
+        "id": "last_marketing__form__activity-a5c2e2a0-33ec-4685-8335-8b9cf8af0995",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-button",
+          "primary",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hs_context",
+        "id": null,
+        "placeholder": null,
+        "label": "First name*",
+        "classes": []
+      }
+    ]
+  }
+}

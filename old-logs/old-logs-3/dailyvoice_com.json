@@ -1,0 +1,238 @@
+{
+  "domain": "https://dailyvoice.com",
+  "manual_emails": [
+    "feedback@dailyvoice.com",
+    "press@dailyvoice.com",
+    "jobs@dailyvoice.com",
+    "help@dailyvoice.com",
+    "info@dailyvoice.com"
+  ],
+  "gpt_emails": [
+    "info@dailyvoice.com",
+    "help@dailyvoice.com",
+    "press@dailyvoice.com"
+  ],
+  "token_usage": {
+    "tokens_used": 5194,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00329
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://dailyvoice.wufoo.com/forms/advertise-on-daily-voice/",
+    "summary": "The webpage's HTML form is designed for businesses to contact Daily Voice to inquire about advertising options, collecting essential information such as name, business name, email, phone number, industry, target geographies, and budget to create tailored marketing packages.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Field1639",
+        "id": "Field1639",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "text",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Field1640",
+        "id": "Field1640",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "text",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Field1637",
+        "id": "Field1637",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "text",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Field1652",
+        "id": "Field1652",
+        "placeholder": "",
+        "label": "###",
+        "classes": [
+          "field",
+          "text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Field1652-1",
+        "id": "Field1652-1",
+        "placeholder": "",
+        "label": "###",
+        "classes": [
+          "field",
+          "text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Field1652-2",
+        "id": "Field1652-2",
+        "placeholder": "",
+        "label": "####",
+        "classes": [
+          "field",
+          "text"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Field1643",
+        "id": "Field1643",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "field",
+          "select",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Field1646",
+        "id": "Field1646",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "text",
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "Field1634",
+        "id": "Field1634",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Field322",
+        "id": "Field322",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "field",
+          "text",
+          "nospin",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "currentPage",
+        "id": "currentPage",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "saveForm",
+        "id": "saveForm",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "btTxt",
+          "submit"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "idstamp",
+        "id": "idstamp",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "encryptedPassword",
+        "id": "encryptedPassword",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "grcToken",
+        "id": "grcToken",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "stats",
+        "id": "stats",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "clickOrEnter",
+        "id": "clickOrEnter",
+        "placeholder": null,
+        "label": "Do Not Fill This Out",
+        "classes": []
+      }
+    ]
+  }
+}

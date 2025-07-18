@@ -1,0 +1,224 @@
+{
+  "domain": "https://sunraysiadaily.com.au",
+  "manual_emails": [
+    "adbookings@sunraysiadaily.com.au",
+    "sport@sunraysiadaily.com.au",
+    "reception@sunraysiadaily.com.au",
+    "online@sunraysiadaily.com.au",
+    "accounts@sunraysiadaily.com.au",
+    "news@sunraysiadaily.com.au",
+    "subs@sunraysiadaily.com.au",
+    "admin@sunraysiadaily.com.au",
+    "classads@sunraysiadaily.com.au",
+    "gh@sunraysiadaily.com.au",
+    "realestate@sunraysiadaily.com.au",
+    "pro@sunraysiadaily.com.au",
+    "afinlay@sunraysiadaily.com.au",
+    "ads@sunraysiadaily.com.au"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1065,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00532
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.sunraysiadaily.com.au/classified-create",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "start_date",
+        "id": "start_date",
+        "placeholder": "Select date",
+        "label": "Single date",
+        "classes": [
+          "c-form__input",
+          "c-form__input--inline",
+          "c-form__input--bordered",
+          "u-pointer",
+          "articleExtendedData",
+          "u-margin-right-20"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "start_date_range",
+        "id": "end_date_range",
+        "placeholder": "Date range from",
+        "label": "Single date",
+        "classes": [
+          "c-form__input",
+          "c-form__input--inline",
+          "c-form__input--bordered",
+          "u-pointer",
+          "articleExtendedData",
+          "u-margin-right-10"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "end_date_range",
+        "id": "end_date_range",
+        "placeholder": "To",
+        "label": "Single date",
+        "classes": [
+          "c-form__input",
+          "c-form__input--inline",
+          "c-form__input--bordered",
+          "u-pointer",
+          "articleExtendedData",
+          "u-margin-right-10"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "title",
+        "name": "title",
+        "id": "title",
+        "placeholder": "4WD for sale",
+        "label": "Title*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "content",
+        "id": "content",
+        "placeholder": "Nissan 4WD for sale $1000 ONO. Contact Pete on ...",
+        "label": "Ad details*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered",
+          "u-line-height-15",
+          "u-padding-10"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "Please run every Friday for three weeks",
+        "label": "Comment/special notes*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered",
+          "u-line-height-15",
+          "u-padding-10"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "placeholder": "eg. John",
+        "label": "First name*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "placeholder": "eg. Smith",
+        "label": "Last name*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email_address",
+        "id": "email_address",
+        "placeholder": "eg. johnsmith@gmail.com",
+        "label": "Email address*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone_number",
+        "id": "phone_number",
+        "placeholder": "Home or mobile",
+        "label": "Phone number*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "street_address",
+        "id": "street_address",
+        "placeholder": "Street address",
+        "label": "Street address*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "suburb",
+        "id": "suburb",
+        "placeholder": "Suburb",
+        "label": "Suburb",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "state",
+        "id": "state",
+        "placeholder": "State",
+        "label": "State",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "label": "Postcode*",
+        "classes": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ]
+      }
+    ]
+  }
+}

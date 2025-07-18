@@ -1,0 +1,223 @@
+{
+  "domain": "https://personatalent.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2360,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00651
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.personatalent.com/contact/",
+    "summary": "The webpage features a contact form designed for users to submit their name, email, phone number, and a message to connect with Persona Talent.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_3",
+        "id": "input_5_3",
+        "placeholder": "Full Name here",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_4",
+        "id": "input_5_4",
+        "placeholder": "you@work.com",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_5",
+        "id": "input_5_5",
+        "placeholder": "+1 223-242-2435",
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_7",
+        "id": "input_5_7",
+        "placeholder": "Write your message here",
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_5",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_5",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_5",
+        "id": "gform_target_page_number_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_5",
+        "id": "gform_source_page_number_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "ak_hp_textarea",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": null,
+        "label": "\u0394",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referrer",
+        "id": null,
+        "placeholder": null,
+        "label": "Your Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "currentPage",
+        "id": null,
+        "placeholder": null,
+        "label": "Your Name*",
+        "classes": []
+      }
+    ]
+  }
+}

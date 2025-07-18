@@ -1,0 +1,92 @@
+{
+  "domain": "https://shorehomeandgarden.com",
+  "manual_emails": [
+    "haley@shorehomeandgarden.com",
+    "sheila@shorehomeandgarden.com"
+  ],
+  "gpt_emails": [
+    "sheila@shorehomeandgarden.com",
+    "Haley@shorehomeandgarden.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1533,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00766
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://shorehomeandgarden.com/advertising/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_name_0",
+        "id": "et_pb_contact_name_0",
+        "placeholder": "Name",
+        "label": "Name",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "et_pb_contact_email_0",
+        "id": "et_pb_contact_email_0",
+        "placeholder": "Email Address",
+        "label": "Email Address",
+        "classes": [
+          "input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "et_pb_contact_message_0",
+        "id": "et_pb_contact_message_0",
+        "placeholder": "Message",
+        "label": "Message",
+        "classes": [
+          "et_pb_contact_message",
+          "input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "et_pb_contactform_submit_0",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpnonce-et-pb-contact-form-submitted-0",
+        "id": "_wpnonce-et-pb-contact-form-submitted-0",
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      }
+    ]
+  }
+}

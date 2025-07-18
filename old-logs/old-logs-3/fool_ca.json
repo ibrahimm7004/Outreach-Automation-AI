@@ -1,0 +1,139 @@
+{
+  "domain": "https://fool.ca",
+  "manual_emails": [
+    "membersupport@fool.ca"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 631,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00316
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://fool.ca/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": "Type Email Here",
+        "label": "",
+        "classes": [
+          "email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "source",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "productGroup",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hotlist",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sfr",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "success",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "redirectUrl",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "doiRedirectUrl",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "mailchimpList",
+        "id": "mailchimpList-175244430",
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "mandrillFreeReportTemplate",
+        "id": null,
+        "placeholder": null,
+        "label": "Type Email Here",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hasAcceptTermsCheckbox",
+        "id": null,
+        "placeholder": null,
+        "label": "I consent to receiving information from The Motley Fool via email, direct mail, and occasional special offer phone calls. I understand I can unsubscribe from these updates at any time. Please read the Privacy Statement and Terms of Service for further information.",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "acceptTermsCheckbox",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "accept-terms-checkbox"
+        ]
+      }
+    ]
+  }
+}

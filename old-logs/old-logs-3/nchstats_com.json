@@ -1,0 +1,130 @@
+{
+  "domain": "https://nchstats.com",
+  "manual_emails": [
+    "office@nchstats.com"
+  ],
+  "gpt_emails": [
+    "office@nchstats.com"
+  ],
+  "token_usage": {
+    "tokens_used": 325,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00163
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://nchstats.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "Name",
+        "label": "Name",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "label": "Email",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "form_fields[field_0873581]",
+        "id": "form-field-field_0873581",
+        "placeholder": "Phone Number",
+        "label": "Phone Number",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_6563035]",
+        "id": "form-field-field_6563035",
+        "placeholder": "Subject",
+        "label": "Subject",
+        "classes": [
+          "elementor-field",
+          "elementor-size-md",
+          "elementor-field-textual"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Message",
+        "label": "Message",
+        "classes": [
+          "elementor-field-textual",
+          "elementor-field",
+          "elementor-size-md"
+        ]
+      }
+    ]
+  }
+}

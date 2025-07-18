@@ -1,0 +1,242 @@
+{
+  "domain": "https://ococean.com",
+  "manual_emails": [
+    "ask@ococean.com"
+  ],
+  "gpt_emails": [
+    "ask@ococean.com"
+  ],
+  "token_usage": {
+    "tokens_used": 7209,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00875
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://ococean.com/contact/",
+    "summary": "The purpose of the webpage HTML form is to collect contact information from visitors, including their name, email, preferences for communication, and comments, to facilitate communication regarding inquiries or requests, particularly related to Ocean City, Maryland.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "formid",
+        "id": "formid",
+        "placeholder": null,
+        "label": "First Name*:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "groupid",
+        "id": "groupid",
+        "placeholder": null,
+        "label": "First Name*:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "isSubmitted",
+        "id": "isSubmitted",
+        "placeholder": null,
+        "label": "First Name*:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_fname",
+        "id": "contact_fname",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_lname",
+        "id": "contact_lname",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_email",
+        "id": "contact_email",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "contact_sendemail",
+        "id": "contact_sendemail_1",
+        "placeholder": null,
+        "label": "Yes",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "contact_sendemail",
+        "id": "contact_sendemail_0",
+        "placeholder": null,
+        "label": "Yes",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "udf_30",
+        "id": "udf_30_1",
+        "placeholder": null,
+        "label": "Yes",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "udf_30",
+        "id": "udf_30_0",
+        "placeholder": null,
+        "label": "Yes",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_addr1",
+        "id": "contact_addr1",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "contact_country",
+        "id": "contact_country",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "statectry",
+        "id": "statectry",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "zipctry",
+        "id": "zipctry",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_zip",
+        "id": "contact_zip",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_city",
+        "id": "contact_city",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "contact_state",
+        "id": "contact_state",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "inquiry_comments",
+        "id": "inquiry_comments",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "code",
+        "id": "code",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "code_key",
+        "id": "code_key",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "Submit",
+        "name": "savefrm",
+        "id": "savefrm_button",
+        "placeholder": null,
+        "label": "Submit",
+        "classes": [
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "Reset",
+        "name": null,
+        "id": "resetfrm_button",
+        "placeholder": null,
+        "label": "Submit",
+        "classes": [
+          "button"
+        ]
+      }
+    ]
+  }
+}

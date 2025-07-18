@@ -1,0 +1,78 @@
+{
+  "domain": "https://artwithaheart.net",
+  "manual_emails": [
+    "info@artwithaheart.net"
+  ],
+  "gpt_emails": [
+    "info@artwithaheart.net"
+  ],
+  "token_usage": {
+    "tokens_used": 1556,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00314
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.artwithaheart.net/aboutus/contact-us/",
+    "summary": "The HTML form on the \"Contact Us - Art with a Heart\" webpage is designed to collect email addresses and consent for receiving communications from the organization, ensuring users provide their email as a required field.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "nf-field-69",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "ninja-forms-field",
+          "nf-element"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "nf-field-70",
+        "id": "nf-field-70",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "ninja-forms-field",
+          "nf-checked",
+          "nf-element"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "nf-field-75",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "ninja-forms-field",
+          "nf-element"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "nf-field-hp",
+        "id": "nf-field-hp-8",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "nf-element",
+          "nf-field-hp"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "domain": "https://findemr.com",
+  "manual_emails": [
+    "marketing@findemr.com",
+    "info@findemr.com"
+  ],
+  "gpt_emails": [
+    "info@findemr.com",
+    "marketing@findemr.com"
+  ],
+  "token_usage": {
+    "tokens_used": 490,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00245
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://findemr.com/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "input-name",
+        "placeholder": "Name",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": "input-email",
+        "placeholder": "Email",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "phone",
+        "id": null,
+        "placeholder": "Phone Number",
+        "label": "",
+        "classes": [
+          "form-control"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "enquiry",
+        "id": "input-enquiry",
+        "placeholder": "Comments",
+        "label": "",
+        "classes": [
+          "form-control",
+          "form-text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "btn",
+          "submit-button"
+        ]
+      }
+    ]
+  }
+}

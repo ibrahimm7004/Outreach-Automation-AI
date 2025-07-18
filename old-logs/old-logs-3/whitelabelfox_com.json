@@ -1,0 +1,94 @@
+{
+  "domain": "https://whitelabelfox.com",
+  "manual_emails": [
+    "sales@whitelabelfox.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 817,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00137
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://whitelabelfox.com/contact-us/",
+    "summary": "The purpose of the HTML form on the \"Contact Us\" page of White Label Fox is to facilitate potential clients in reaching out for support or inquiries about various digital services such as transport, delivery, and consultancy by collecting their name, email, contact number, and message.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "label": "Name*",
+        "classes": [
+          "email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_no",
+        "id": "number",
+        "placeholder": "Contact Number",
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "website",
+        "id": "website",
+        "placeholder": "Website",
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "service",
+        "id": "options",
+        "placeholder": null,
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": "message",
+        "placeholder": "Message",
+        "label": "Name*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "Name*",
+        "classes": [
+          "button_loader"
+        ]
+      }
+    ]
+  }
+}

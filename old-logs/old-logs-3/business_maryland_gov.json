@@ -1,0 +1,233 @@
+{
+  "domain": "https://business.maryland.gov",
+  "manual_emails": [
+    "kavita.verma@maryland.gov",
+    "andrew.sargent@maryland.gov",
+    "tamar.osterman@maryland.gov",
+    "ivy.gales@maryland.gov",
+    "carrie.long@maryland.gov",
+    "carla.merritt@maryland.gov",
+    "steven.wall@maryland.gov",
+    "delterese.george@maryland.gov",
+    "jessica.reynolds@maryland.gov",
+    "melanie.koorey@maryland.gov",
+    "mindie.burgoyne@maryland.gov",
+    "timothy.murphy@maryland.gov",
+    "carl.anderton1@maryland.gov",
+    "brigitte.peters@maryland.gov"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 989,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00494
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://business.maryland.gov/plan-your-move/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_4_1_3",
+        "placeholder": null,
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_4_1_6",
+        "placeholder": null,
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_3",
+        "id": "input_4_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_9",
+        "id": "input_4_9",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "large",
+          "gfield_select"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_6",
+        "id": "input_4_6",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "large"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "input_7.1",
+        "id": "choice_4_7_1",
+        "placeholder": null,
+        "label": "Sign up to receive news and resources from the State of Maryland",
+        "classes": [
+          "gfield-choice-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_10",
+        "id": "input_4_10",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_4",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_4",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_4",
+        "id": "gform_target_page_number_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_4",
+        "id": "gform_source_page_number_4",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

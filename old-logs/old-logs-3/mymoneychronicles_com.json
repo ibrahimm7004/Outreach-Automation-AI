@@ -1,0 +1,118 @@
+{
+  "domain": "https://mymoneychronicles.com",
+  "manual_emails": [
+    "jason@mymoneychronicles.com"
+  ],
+  "gpt_emails": [
+    "Jason@MyMoneyChronicles.com"
+  ],
+  "token_usage": {
+    "tokens_used": 17507,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01744
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://mymoneychronicles.com/advertise/",
+    "summary": "The purpose of the webpage form is to facilitate inquiries regarding advertising opportunities on My Money Chronicles, allowing potential advertisers to provide their contact information, subject, and message related to advertising options such as sidebar ads and sponsored posts.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "cntctfrm_contact_name",
+        "id": "cntctfrm_contact_name",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "cntctfrm_contact_email",
+        "id": "cntctfrm_contact_email",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "cntctfrm_contact_subject",
+        "id": "cntctfrm_contact_subject",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "text"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "cntctfrm_contact_message",
+        "id": "cntctfrm_contact_message",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cntctfrm_contact_action",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cntctfrm_language",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cntctfrm_form_submited",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cntctfrm_options_name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cntctfrm_contact_submit"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "domain": "https://wmar2news.com",
+  "manual_emails": [
+    "mallory@wmar.com",
+    "newsroom@wmar.com",
+    "storyideas@wmar.com"
+  ],
+  "gpt_emails": [
+    "newsroom@wmar.com",
+    "storyideas@wmar.com",
+    "Mallory@wmar.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1323,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00662
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

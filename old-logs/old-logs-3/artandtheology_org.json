@@ -1,0 +1,85 @@
+{
+  "domain": "https://artandtheology.org",
+  "manual_emails": [
+    "victoria.emily.jones@gmail.com"
+  ],
+  "gpt_emails": [
+    "victoria.emily.jones@gmail.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1238,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00619
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://artandtheology.org/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": "Enter your email address",
+        "label": "",
+        "classes": [
+          "actnbr-email-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "blog_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "source",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sub-type",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpnonce",
+        "id": "_wpnonce",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

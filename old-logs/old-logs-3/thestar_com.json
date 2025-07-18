@@ -1,0 +1,95 @@
+{
+  "domain": "https://thestar.com",
+  "manual_emails": [
+    "epaper@thestar.ca",
+    "circmail@thestar.ca",
+    "starsupport@torstar.ca",
+    "business@thestar.ca",
+    "edtphotoasign@thestar.ca",
+    "fornat@thestar.ca",
+    "city@thestar.ca",
+    "adinfo@thestar.ca",
+    "publiced@thestar.ca",
+    "tslawnych@thestar.ca",
+    "singlecopy@thestar.ca",
+    "life@thestar.ca",
+    "lettertoed@thestar.ca",
+    "sports@thestar.ca",
+    "obituaries@thestar.ca",
+    "newhomes@thestar.ca",
+    "newstips@thestar.ca",
+    "accessibility@torontostar.com",
+    "syndicate@torstar.com",
+    "starad@thestar.ca",
+    "sponsorships@thestar.ca",
+    "insight@thestar.ca",
+    "entertain@thestar.ca",
+    "oped@thestar.ca"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1333,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00666
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://thestar.com/site/advertise/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "tncms_csrf_token",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "x_org_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "username",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "site",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

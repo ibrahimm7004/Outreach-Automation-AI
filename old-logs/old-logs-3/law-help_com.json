@@ -1,0 +1,119 @@
+{
+  "domain": "https://law-help.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 448,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00224
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://law-help.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Your Name",
+        "label": "",
+        "classes": [
+          "required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "Phone Number",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": null,
+        "placeholder": "How can we help?",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "submit",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "but",
+          "but-3"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "recordid",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "therecord"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referrer_URL",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "thedomain"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referrer_search_terms",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "thesearch"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "website_page",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "theurl"
+        ]
+      }
+    ]
+  }
+}

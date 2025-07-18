@@ -1,0 +1,85 @@
+{
+  "domain": "https://nairametrics.com",
+  "manual_emails": [
+    "info@nairametrics.com",
+    "outreach@nairametrics.com",
+    "ads@nairametrics.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1583,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00792
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://nairametrics.com/nairametrics-paid-content-publishing-guidelines/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "id": null,
+        "placeholder": "Your email",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "username",
+        "id": null,
+        "placeholder": "Username",
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "jnews_nonce",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "jnews_register_nonce",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "jeg_login_button",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "button"
+        ]
+      }
+    ]
+  }
+}

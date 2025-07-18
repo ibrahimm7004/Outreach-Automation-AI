@@ -1,0 +1,88 @@
+{
+  "domain": "https://osmosetech.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 209,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00104
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://osmosetech.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "fieldbc827e-f9",
+        "id": "field1742bc827e-f9",
+        "placeholder": "",
+        "label": "Name",
+        "classes": [
+          "kb-field",
+          "kb-text-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "fieldbe7bd9-63",
+        "id": "field1742be7bd9-63",
+        "placeholder": "",
+        "label": "Email*",
+        "classes": [
+          "kb-field",
+          "kb-email-field"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "field3c3666-5d",
+        "id": "field17423c3666-5d",
+        "placeholder": "",
+        "label": "Message*",
+        "classes": [
+          "kb-field",
+          "kb-textarea-field"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_kb_adv_form_post_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "action",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_kb_adv_form_id",
+        "id": null,
+        "placeholder": null,
+        "label": "Name",
+        "classes": []
+      }
+    ]
+  }
+}

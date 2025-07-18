@@ -1,0 +1,292 @@
+{
+  "domain": "https://visitannapolis.org",
+  "manual_emails": [
+    "info@visitannapolis.org"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1869,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00935
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.visitannapolis.org/about-us/marketing-sponsorship-application/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "formid",
+        "id": "formid",
+        "placeholder": null,
+        "label": "What Sponsorship Are You Applying For?*:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "groupid",
+        "id": "groupid",
+        "placeholder": null,
+        "label": "What Sponsorship Are You Applying For?*:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "isSubmitted",
+        "id": "isSubmitted",
+        "placeholder": null,
+        "label": "What Sponsorship Are You Applying For?*:",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "udf_158",
+        "id": "udf_158",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_fname",
+        "id": "contact_fname",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_lname",
+        "id": "contact_lname",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_email",
+        "id": "contact_email",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_131",
+        "id": "udf_131",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact_phone",
+        "id": "contact_phone",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_133",
+        "id": "udf_133",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "udf_135",
+        "id": "udf_135",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_139",
+        "id": "udf_139",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "udf_148",
+        "id": "udf_148",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_168",
+        "id": "udf_168",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "udf_138",
+        "id": "udf_138",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_170",
+        "id": "udf_170",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "udf_171",
+        "id": "udf_171",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "udf_132",
+        "id": "udf_132",
+        "placeholder": null,
+        "label": "Is the event open to public and not a fundraiser?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "udf_136",
+        "id": "udf_136",
+        "placeholder": null,
+        "label": "Is this a multi-day festival?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "udf_137",
+        "id": "udf_137",
+        "placeholder": null,
+        "label": "Is this a new event to Annapolis / Anne Arundel?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "udf_134",
+        "id": "udf_134",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "udf_134_formbuilder_hidden",
+        "id": "udf_134_formbuilder_hidden",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "contact_sendemail",
+        "id": "contact_sendemail",
+        "placeholder": null,
+        "label": "Do you agree to receive future information from Visit Annapolis & Anne Arundel County?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "udf_146",
+        "id": "udf_146",
+        "placeholder": null,
+        "label": "Agree To Privacy Policy",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "code",
+        "id": "code",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "code_key",
+        "id": "code_key",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "Submit",
+        "name": "savefrm",
+        "id": "savefrm_button",
+        "placeholder": null,
+        "label": "Submit",
+        "classes": [
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "Reset",
+        "name": null,
+        "id": "resetfrm_button",
+        "placeholder": null,
+        "label": "Submit",
+        "classes": [
+          "button"
+        ]
+      }
+    ]
+  }
+}

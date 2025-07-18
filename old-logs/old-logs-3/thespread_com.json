@@ -1,0 +1,153 @@
+{
+  "domain": "https://thespread.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 3725,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00519
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.thespread.com/advertise/",
+    "summary": "The purpose of the webpage's HTML form is to allow potential advertisers to contact TheSpread.com regarding advertising opportunities targeted at sports fans and bettors, enabling them to discuss tailored advertising solutions and campaign success strategies.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-name",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-phone",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "your-message",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "id": "cf-chl-widget-c1j0n_response",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "Your Name",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-submit",
+          "has-spinner"
+        ]
+      }
+    ]
+  }
+}

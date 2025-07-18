@@ -1,0 +1,338 @@
+{
+  "domain": "https://leaderpost.com",
+  "manual_emails": [
+    "mysubscription@leaderpost.com",
+    "epapersupport@leaderpost.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 7516,
+    "summarize_calls": 5,
+    "estimated_cost_usd": 0.01052
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.postmediasolutions.com/contact-us/",
+    "summary": "The webpage HTML form is designed for potential clients to contact the Postmedia Solutions team, gathering essential information such as contact details, company data, and advertising interests, specifically targeting businesses and agencies seeking advertising services.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": "company-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address",
+        "id": "address-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "country_",
+        "id": "country_-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input",
+          "is-placeholder"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "province_state",
+        "id": "province_state-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input",
+          "is-placeholder"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "city",
+        "id": "city-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "zip",
+        "id": "zip-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "phone-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "are_you_an_agency_",
+        "id": "are_you_an_agency_-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input",
+          "is-placeholder"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "have_you_worked_with_postmedia_before_",
+        "id": "have_you_worked_with_postmedia_before_-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input",
+          "is-placeholder"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_0-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_1-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_2-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_3-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_4-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_5-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_6-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_7-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_8-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "products_",
+        "id": "products_9-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "annual_marketing_budget",
+        "id": "annual_marketing_budget-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input",
+          "is-placeholder"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "message",
+        "id": "message-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": "",
+        "label": "",
+        "classes": [
+          "hs-input",
+          "hs-fieldtype-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "yes_please_keep_me_informed_of_products_services_and_offerings_from_postmedia",
+        "id": "yes_please_keep_me_informed_of_products_services_and_offerings_from_postmedia-4683d03f-1aaa-485b-98f3-2d5e6a7a6305",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "hs-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "hs-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "hs_context",
+        "id": null,
+        "placeholder": null,
+        "label": "Email*",
+        "classes": []
+      }
+    ]
+  }
+}

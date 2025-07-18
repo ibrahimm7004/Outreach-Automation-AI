@@ -1,0 +1,162 @@
+{
+  "domain": "https://blackpressusa.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1416,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00358
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://blackpressusa.com/contact-us/",
+    "summary": "The purpose of the webpage's HTML form is to allow users to submit their name, email, and message to BlackPressUSA for inquiries, feedback, or suggestions, enhancing communication with the organization advocating for African-American-owned newspapers and media companies.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcf7_recaptcha_response",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text-842",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email-172",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "textarea-522",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "wpcf7-form-control",
+          "wpcf7-submit",
+          "has-spinner"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "apbct_email_id__wp_contact_form_7",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "apbct_special_field",
+          "apbct__email_id__wp_contact_form_7"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "apbct_visible_fields",
+        "id": "apbct_visible_fields_1",
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

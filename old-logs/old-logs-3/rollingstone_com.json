@@ -1,0 +1,104 @@
+{
+  "domain": "https://rollingstone.com",
+  "manual_emails": [
+    "service.na@gettyimages.com",
+    "pmc@wrightsmedia.com",
+    "letters@rollingstone.com",
+    "tips@rollingstone.com"
+  ],
+  "gpt_emails": [
+    "tips@rollingstone.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2160,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00519
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://rollingstone.com/contact/",
+    "summary": "The webpage features an email capture form designed for users to subscribe to a newsletter, allowing them to provide their email address in exchange for updates from Rolling Stone, while also confirming consent to the site's terms and privacy policy.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "EmailAddress-1",
+        "placeholder": "Enter your email",
+        "label": "Enter your Email",
+        "classes": [
+          "c-email-field__input",
+          "lrv-a-font-body-m",
+          "lrv-u-padding-a-050",
+          "lrv-u-color-black",
+          "lrv-u-width-100p",
+          "lrv-u-height-100p",
+          "u-color-grey-118:placeholder",
+          "js-bound"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__contextName",
+        "id": null,
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__executionContext",
+        "id": null,
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__successPage",
+        "id": null,
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Source",
+        "id": "source",
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Editorial_RollingStone_Opted_In",
+        "id": "editorial_rollingstone_opted_in",
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "Editorial_RollingStone_Opt_In_Date",
+        "id": "editorial_rollingstone_opt_in_date",
+        "placeholder": null,
+        "label": "Enter your Email",
+        "classes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "domain": "https://mdfoodbank.org",
+  "manual_emails": [
+    "dst@mdfoodbank.org"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 6134,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01188
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://mdfoodbank.org/ways-to-give/cause-marketing/",
+    "summary": "The HTML form on the webpage is designed for organizations to submit details about cause marketing campaigns, including their mission, goals, and contact information, aimed at facilitating partnerships with the Maryland Food Bank.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "input_cf135727b44c68372c9ad07cffd64780",
+        "id": "input_cf135727b44c68372c9ad07cffd64780",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gfield_recaptcha_response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1",
+        "id": "input_74_1",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_74_2",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_3",
+        "id": "input_74_3",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.3",
+        "id": "input_74_4_3",
+        "placeholder": "First",
+        "label": "First",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.6",
+        "id": "input_74_4_6",
+        "placeholder": "Last",
+        "label": "Last",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_5",
+        "id": "input_74_5",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_6",
+        "id": "input_74_6",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_7",
+        "id": "input_74_7",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_8",
+        "id": "input_74_8",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "input_9",
+        "id": "input_74_9",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "textarea",
+          "medium"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_1",
+        "placeholder": null,
+        "label": "Month",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_2",
+        "placeholder": null,
+        "label": "Day",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_3",
+        "placeholder": null,
+        "label": "Year",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_1",
+        "placeholder": null,
+        "label": "Month",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_2",
+        "placeholder": null,
+        "label": "Day",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_3",
+        "placeholder": null,
+        "label": "Year",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": "gform_submit_button_74",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_button",
+          "button"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_74",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_74",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "is_submit_74",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state_74",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_target_page_number_74",
+        "id": "gform_target_page_number_74",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_source_page_number_74",
+        "id": "gform_source_page_number_74",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "gform_hidden"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

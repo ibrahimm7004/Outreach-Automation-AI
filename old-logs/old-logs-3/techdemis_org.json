@@ -1,0 +1,130 @@
+{
+  "domain": "https://techdemis.org",
+  "manual_emails": [
+    "fast4entry@gmail.com"
+  ],
+  "gpt_emails": [
+    "fast4entry@gmail.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1489,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00277
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://techdemis.org/contact-us/",
+    "summary": "The purpose of this webpage HTML form is to facilitate user inquiries by collecting their name, email, and message, allowing them to contact Tech Demis's support team directly for assistance or information.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][0][first]",
+        "id": "wpforms-7686-field_0",
+        "placeholder": null,
+        "label": "First",
+        "classes": [
+          "wpforms-field-name-first",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][0][last]",
+        "id": "wpforms-7686-field_0-last",
+        "placeholder": null,
+        "label": "Last",
+        "classes": [
+          "wpforms-field-name-last",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-7686-field_1",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-7686-field_2",
+        "placeholder": null,
+        "label": "Comment or Message",
+        "classes": [
+          "wpforms-field-medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_title",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "url_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[post_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

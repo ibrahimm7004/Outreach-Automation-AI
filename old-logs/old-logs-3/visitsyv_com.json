@@ -1,0 +1,68 @@
+{
+  "domain": "https://visitsyv.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "justin.yax@example.com",
+    "danielle.laudon@example.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2072,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00345
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.visitsyv.com/santa-ynez-valley-press/",
+    "summary": "The webpage HTML form is designed for users to subscribe to email updates from Santa Ynez Valley Press, facilitating contact for insider tips and local information.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "EMAIL",
+        "id": "mce-EMAIL",
+        "placeholder": "your email",
+        "label": "",
+        "classes": [
+          "email"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "SOURCE",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "b_670008ff0e03a568df42c0818_2c77c82f2f",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "subscribe",
+        "id": "mc-embedded-subscribe",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "button"
+        ]
+      }
+    ]
+  }
+}

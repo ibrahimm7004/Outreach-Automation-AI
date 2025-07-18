@@ -1,0 +1,661 @@
+{
+  "domain": "https://canalstreetchronicles.com",
+  "manual_emails": [
+    "advertising@voxmedia.com"
+  ],
+  "gpt_emails": [
+    "advertising@voxmedia.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1716,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00858
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://canalstreetchronicles.com/contact?community_id=247",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utf8",
+        "id": null,
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": null,
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "support_request[network_id]",
+        "id": "support_request_network_id",
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "support_request[additional_attributes]",
+        "id": "support_request_additional_attributes",
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "return_to",
+        "id": "return_to",
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": []
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "support_request[request_type]",
+        "id": "contact-reason-toggle",
+        "placeholder": null,
+        "label": "Why are you contacting us today?",
+        "classes": [
+          "p-selectbox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "tip-summary",
+        "placeholder": null,
+        "label": "Summarize your tip in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "tip-detail",
+        "placeholder": null,
+        "label": "Summarize your tip in one sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[url]",
+        "id": "issue-url",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[operating_system]",
+        "id": "issue-os",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[browser]",
+        "id": "issue-browser",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "issue-summary",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "issue-detail",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "support_request[screen_shot]",
+        "id": "issue-screenshot",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "app_feedback-summary",
+        "placeholder": null,
+        "label": "Summarize the problem in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "app_feedback-explanation",
+        "placeholder": null,
+        "label": "Summarize the problem in one sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[ios_version]",
+        "id": "app_feedback-ios_version",
+        "placeholder": null,
+        "label": "Summarize the problem in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[app_version]",
+        "id": "app_feedback-app_version",
+        "placeholder": null,
+        "label": "Summarize the problem in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "support_request[screen_shot]",
+        "id": "app_feedback-screenshot",
+        "placeholder": null,
+        "label": "Summarize the problem in one sentence:*",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "suggestion-summary",
+        "placeholder": null,
+        "label": "Summarize your pitch suggestions in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "suggestion-detail",
+        "placeholder": null,
+        "label": "Summarize your pitch suggestions in one sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "problem_with_draftkings_account-summary",
+        "placeholder": null,
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "problem_with_draftkings_account-detail",
+        "placeholder": null,
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "problem_with_draftkingsnetwork-summary",
+        "placeholder": null,
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "problem_with_draftkingsnetwork-detail",
+        "placeholder": null,
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "support_request[advertising_method]",
+        "id": "advertising-entirenetwork",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-radiobox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "support_request[advertising_method]",
+        "id": "advertising-geography",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-radiobox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[advertising_geography]",
+        "id": "advertising-geography-info",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "support_request[currently_advertise_online]",
+        "id": "advertising-current",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-selectbox"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "support_request[next_media_buy]",
+        "id": "advertising-plans",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-selectbox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "advertising-summary",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "advertising-detail",
+        "placeholder": null,
+        "label": "Where are you interested in advertising?",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[url]",
+        "id": "advertising_support-url",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[operating_system]",
+        "id": "advertising_support-os",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[browser]",
+        "id": "advertising_support-browser",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "advertising_support-summary",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "advertising_support-detail",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "support_request[screen_shot]",
+        "id": "advertising_support-screenshot",
+        "placeholder": null,
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[publication]",
+        "id": "press_inquiry-publication",
+        "placeholder": null,
+        "label": "Publication:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[relevant_editor]",
+        "id": "press_inquiry-editor",
+        "placeholder": null,
+        "label": "Publication:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "press_inquiry-summary",
+        "placeholder": null,
+        "label": "Publication:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "press_inquiry-detail",
+        "placeholder": null,
+        "label": "Publication:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "moderator-summary",
+        "placeholder": null,
+        "label": "Summarize the situation in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "moderator-detail",
+        "placeholder": null,
+        "label": "Summarize the situation in one sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "support_request[summary]",
+        "id": "personal_data-summary",
+        "placeholder": null,
+        "label": "What would you like to do?*",
+        "classes": [
+          "p-selectbox"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "personal_data-detail",
+        "placeholder": null,
+        "label": "What would you like to do?*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "moderator-summary",
+        "placeholder": null,
+        "label": "Summarize question in one sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "subscription_inquiry-detail",
+        "placeholder": null,
+        "label": "Summarize question in one sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "contribution_support-summary",
+        "placeholder": null,
+        "label": "Summarize your question in a sentence:*",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "support_request[explanation]",
+        "id": "contribution_support-detail",
+        "placeholder": null,
+        "label": "Summarize your question in a sentence:*",
+        "classes": [
+          "p-textarea"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[name]",
+        "id": "info-name",
+        "placeholder": null,
+        "label": "First and last name*:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "support_request[keep_me_anonymous]",
+        "id": null,
+        "placeholder": null,
+        "label": "Keep me anonymous",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "support_request[keep_me_anonymous]",
+        "id": "support_request_keep_me_anonymous",
+        "placeholder": null,
+        "label": "Keep me anonymous",
+        "classes": [
+          "p-checkbox"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[email]",
+        "id": "info-email",
+        "placeholder": null,
+        "label": "First and last name*:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[email_confirmation]",
+        "id": "info-email-confirmation",
+        "placeholder": null,
+        "label": "Email address confirmation*:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[username]",
+        "id": "info-username",
+        "placeholder": null,
+        "label": "First and last name*:",
+        "classes": [
+          "p-text-input"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "g-recaptcha-response"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "commit",
+        "id": "submit-contact-form",
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "p-button",
+          "p-button__wide"
+        ]
+      }
+    ]
+  }
+}

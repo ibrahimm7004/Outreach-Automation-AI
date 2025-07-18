@@ -1,0 +1,180 @@
+{
+  "domain": "https://clickz.com",
+  "manual_emails": [
+    "partnerships@contentive.com",
+    "hello@clickzmedia.com"
+  ],
+  "gpt_emails": [
+    "partnerships@contentive.com",
+    "hello@clickzmedia.com"
+  ],
+  "token_usage": {
+    "tokens_used": 3253,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00895
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://clickz.com/p/clickz-unveils-the-25-of-25-recognizing-the-elite-in-digital-marketing-campaigns",
+    "summary": "The HTML form is designed for users to subscribe to receive newsletters from ClickZ, specifically related to the announcement of the \"25 of 25\" recognizing elite digital marketing campaigns, by providing their email address and consenting to the terms of service.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "ref",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "bhba",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "visit_token",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "redirect_path",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sent_from_orchid",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "fallback_path",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "double_opt",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "trigger_redirect",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subscribe_error_message",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subscribe_success_message",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": null,
+        "placeholder": "Enter Your Email",
+        "label": "",
+        "classes": [
+          "wt-button-font",
+          "z-10",
+          "w-full",
+          "border-none",
+          "bg-transparent",
+          "placeholder-shown:text-ellipsis",
+          "text-lg",
+          "focus:text-lg",
+          "active:text-lg",
+          "sm:text-lg"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "cursor-pointer",
+          "px-5",
+          "py-3",
+          "font-semibold",
+          "w-full",
+          "sm:w-auto",
+          "text-lg",
+          "focus:text-lg",
+          "active:text-lg",
+          "sm:text-lg",
+          "rounded-lg",
+          "rounded-none",
+          "sm:rounded-lg-r"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": null,
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": [
+          "text-lp-main-signup-cta-color",
+          "h-4",
+          "w-4",
+          "rounded",
+          "border-gray-300",
+          "focus:ring-indigo-500"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "domain": "https://arcadepunks.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "info@arcadepunks.com",
+    "press@arcadepunks.com",
+    "marketing@arcadepunks.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2882,
+    "summarize_calls": 5,
+    "estimated_cost_usd": 0.01441
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://www.arcadepunks.com/contact-arcade-punk/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[fields][0]",
+        "id": "wpforms-26580-field_0",
+        "placeholder": null,
+        "label": "Username *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "wpforms[fields][3]",
+        "id": "wpforms-26580-field_3",
+        "placeholder": null,
+        "label": "Reason For Contact",
+        "classes": [
+          "wpforms-field-medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "wpforms[fields][1]",
+        "id": "wpforms-26580-field_1",
+        "placeholder": null,
+        "label": "Email *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "textarea",
+        "type": "text",
+        "name": "wpforms[fields][2]",
+        "id": "wpforms-26580-field_2",
+        "placeholder": null,
+        "label": "Comment or Message *",
+        "classes": [
+          "wpforms-field-medium",
+          "wpforms-field-required"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "wpforms[fields][5][]",
+        "id": "wpforms-26580-field_5_1",
+        "placeholder": null,
+        "label": "I have read and understand",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "wpforms[hp]",
+        "id": "wpforms-26580-field-hp",
+        "placeholder": null,
+        "label": "Name",
+        "classes": [
+          "wpforms-field-medium"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_title",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_url",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "url_referer",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "page_id",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpforms[post_id]",
+        "id": null,
+        "placeholder": null,
+        "label": "",
+        "classes": []
+      }
+    ]
+  }
+}

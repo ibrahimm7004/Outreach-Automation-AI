@@ -1,0 +1,76 @@
+{
+  "domain": "https://weworewhat.com",
+  "manual_emails": [
+    "sales@shopweworewhat.com",
+    "hello@shopweworewhat.com",
+    "press@shopweworewhat.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 338,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00169
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {
+    "page_url": "https://weworewhat.com/pages/contact-us",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_type",
+        "id": null,
+        "placeholder": null,
+        "label": "Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "utf8",
+        "id": null,
+        "placeholder": null,
+        "label": "Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": null,
+        "placeholder": null,
+        "label": "Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "contact[accepts_marketing]",
+        "id": null,
+        "placeholder": null,
+        "label": "Email",
+        "classes": []
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "contact[email]",
+        "id": "mail-footer-newsletter",
+        "placeholder": "your-email@example.com",
+        "label": "Email",
+        "classes": [
+          "input-group-field"
+        ]
+      }
+    ]
+  }
+}
