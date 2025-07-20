@@ -1,0 +1,447 @@
+{
+  "domain": "https://neoreach.com",
+  "manual_emails": [
+    "press@neoreach.com",
+    "team@neoreach.com"
+  ],
+  "gpt_emails": [
+    "press@neoreach.com",
+    "team@neoreach.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1896,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00864
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://neoreach.com/press/"
+  ],
+  "chosen_form": {
+    "page_url": "https://neoreach.com/press/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "how-can-we-help-you",
+        "id": "s2-how-can-we-help",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "",
+        "required": true,
+        "placeholder": "* First Name",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* First Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "",
+        "required": true,
+        "placeholder": "* Last Name",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* Last Name"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "required": true,
+        "placeholder": "* Business Email",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": "* Business Email"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "required": true,
+        "placeholder": "* Phone",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-tel",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-tel"
+        ],
+        "style": "",
+        "label": "* Phone"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": "",
+        "required": true,
+        "placeholder": "* Company Name",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* Company Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company-website",
+        "id": "",
+        "required": true,
+        "placeholder": "* Company Website",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* Company Website"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "brand-vertical",
+        "id": "s2-brand-vertical",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-ugc",
+        "id": "s2-budget-ugc",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "$10k-$25k$25k-$50k$50k-$100k$100k+"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-paid",
+        "id": "s2-budget-paid",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "$5k-$10k$10k-$25k$25k-$50k$50k-$100k$100k+"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-management",
+        "id": "s2-budget-management",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "$5k-$10k$10k-$25k$25k-$50k$50k-$100k$100k+"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-event",
+        "id": "s2-budget-event",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "$75k-$150k$150k-$250k$250k-$500k$500k+"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "budget-bespoke",
+        "id": "s2-budget-bespoke",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "$75k-$150k$150k-$250k$250k-$500k$500k+"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "trying-to-achieve",
+        "id": "s2-trying-to-achieve",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem"
+        ],
+        "style": "",
+        "label": "AwarenessEngagementConversions"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "management-socials[]",
+        "id": "s2-management-socials",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required",
+          "s2-elem",
+          "select2-multiple-placeholder",
+          "s2-elem--stay_open"
+        ],
+        "style": "",
+        "label": "InstagramTikTokFacebookTwitterLinkedInOther"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "creator-email",
+        "id": "",
+        "required": true,
+        "placeholder": "* Email",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": "* Email"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "instagram-social",
+        "id": "",
+        "required": true,
+        "placeholder": "* Instagram Handle or URL",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* Instagram Handle or URL"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "tiktok-social",
+        "id": "",
+        "required": true,
+        "placeholder": "* TikTok Handle or URL",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* TikTok Handle or URL"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "youtube-social",
+        "id": "",
+        "required": true,
+        "placeholder": "* YouTube Channel or URL",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* YouTube Channel or URL"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "other-social",
+        "id": "",
+        "required": true,
+        "placeholder": "* Other: Please specify",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "* Other: Please specify"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "project-details",
+        "id": "",
+        "required": false,
+        "placeholder": "Fill us in on your project!",
+        "autocomplete": "",
+        "maxlength": "2000",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-textarea"
+        ],
+        "style": "",
+        "label": "Fill us in on your project!"
+      }
+    ],
+    "submit_button": "<button class=\"wpcf7-form-control wpcf7-submit cta-btn lrg\" id=\"submit\"><span class=\"button__text\">Let\u2019s Chat!</span></button>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "project-details",
+      "id": "",
+      "required": false,
+      "placeholder": "Fill us in on your project!",
+      "autocomplete": "",
+      "maxlength": "2000",
+      "pattern": "",
+      "class": [
+        "wpcf7-form-control",
+        "wpcf7-textarea"
+      ],
+      "style": "",
+      "label": "Fill us in on your project!"
+    }
+  ]
+}

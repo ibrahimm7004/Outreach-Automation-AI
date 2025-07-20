@@ -1,0 +1,106 @@
+{
+  "domain": "https://advpulse.com",
+  "manual_emails": [],
+  "gpt_emails": [
+    "advertising@advpulse.com",
+    "business@advpulse.com",
+    "editorial@advpulse.com"
+  ],
+  "token_usage": {
+    "tokens_used": 647,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00324
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://advpulse.com/contact-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://advpulse.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "department-contacting",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-select",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "\u2014Please choose an option\u2014AdvertisingBusiness DevelopmentCareersEditorialTech SupportGeneral Inquiry"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "40",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "2000",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-textarea",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "human-quiz",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "off",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-quiz"
+        ],
+        "style": "",
+        "label": "8 + 2 ="
+      }
+    ],
+    "submit_button": "<input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send Message\"/>"
+  },
+  "added_unrequired_textareas": []
+}

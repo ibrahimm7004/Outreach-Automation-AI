@@ -1,0 +1,34 @@
+{
+  "domain": "https://tomsguide.com",
+  "manual_emails": [
+    "marion.le-bot@futurenet.com",
+    "freelancefinance@futurenet.com",
+    "accountspayable@futurenet.com",
+    "futurenow@futurenet.com",
+    "creditcontrol@futurenet.com",
+    "futureinvoices@futurenet.com",
+    "advertising@futurenet.com",
+    "licensing@futurenet.com",
+    "cosec@futurenet.co.uk"
+  ],
+  "gpt_emails": [
+    "advertising@futurenet.com",
+    "licensing@futurenet.com",
+    "futurenow@futurenet.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1301,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.0065
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

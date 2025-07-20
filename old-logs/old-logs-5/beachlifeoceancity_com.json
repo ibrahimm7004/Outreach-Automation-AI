@@ -1,0 +1,65 @@
+{
+  "domain": "https://beachlifeoceancity.com",
+  "manual_emails": [
+    "mitchell@mitchelldavid.com"
+  ],
+  "gpt_emails": [
+    "mitchell@mitchelldavid.com"
+  ],
+  "token_usage": {
+    "tokens_used": 629,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00315
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://beachlifeoceancity.com/contact/"
+  ],
+  "chosen_form": {
+    "page_url": "https://beachlifeoceancity.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone35873",
+        "required": true,
+        "placeholder": "(000) 000-0000",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Phone:"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Questions",
+        "id": "requestComments35873",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Questions / Comments:"
+      }
+    ],
+    "submit_button": "<button class=\"si-btn si-btn--secondary\" type=\"submit\">Submit</button>"
+  },
+  "added_unrequired_textareas": []
+}

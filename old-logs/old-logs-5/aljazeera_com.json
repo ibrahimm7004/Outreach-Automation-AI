@@ -1,0 +1,104 @@
+{
+  "domain": "https://aljazeera.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 4061,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0104
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://network.aljazeera.net/en/contact?tid=6",
+    "https://commercial.aljazeera.net/"
+  ],
+  "chosen_form": {
+    "page_url": "https://commercial.aljazeera.net/",
+    "summary": "The purpose of the webpage HTML form is to allow users to inquire about Al Jazeera's commercial solutions by providing their name, email, subject, and message.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "Your Name (required)"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-email",
+          "wpcf7-validates-as-required",
+          "wpcf7-text",
+          "wpcf7-validates-as-email"
+        ],
+        "style": "",
+        "label": "Your Email (required)"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "your-subject",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "400",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-text",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "Subject"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "2000",
+        "pattern": "",
+        "class": [
+          "wpcf7-form-control",
+          "wpcf7-textarea",
+          "wpcf7-validates-as-required"
+        ],
+        "style": "",
+        "label": "Your Message"
+      }
+    ],
+    "submit_button": "<input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send\"/>"
+  },
+  "added_unrequired_textareas": []
+}

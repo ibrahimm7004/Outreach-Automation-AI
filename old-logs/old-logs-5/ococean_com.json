@@ -1,0 +1,24 @@
+{
+  "domain": "https://ococean.com",
+  "manual_emails": [
+    "ask@ococean.com"
+  ],
+  "gpt_emails": [
+    "ask@ococean.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1745,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00873
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

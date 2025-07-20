@@ -1,0 +1,182 @@
+{
+  "domain": "https://sunraysiadaily.com.au",
+  "manual_emails": [
+    "afinlay@sunraysiadaily.com.au",
+    "gh@sunraysiadaily.com.au",
+    "realestate@sunraysiadaily.com.au",
+    "adbookings@sunraysiadaily.com.au",
+    "ads@sunraysiadaily.com.au",
+    "accounts@sunraysiadaily.com.au",
+    "online@sunraysiadaily.com.au",
+    "admin@sunraysiadaily.com.au",
+    "pro@sunraysiadaily.com.au",
+    "sport@sunraysiadaily.com.au",
+    "news@sunraysiadaily.com.au",
+    "subs@sunraysiadaily.com.au",
+    "reception@sunraysiadaily.com.au",
+    "classads@sunraysiadaily.com.au"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1075,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00537
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://www.sunraysiadaily.com.au/classified-create"
+  ],
+  "chosen_form": {
+    "page_url": "https://www.sunraysiadaily.com.au/classified-create",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "title",
+        "name": "title",
+        "id": "title",
+        "required": true,
+        "placeholder": "4WD for sale",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Title*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "required": true,
+        "placeholder": "Please run every Friday for three weeks",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered",
+          "u-line-height-15",
+          "u-padding-10"
+        ],
+        "style": "",
+        "label": "Comment/special notes*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "required": true,
+        "placeholder": "eg. John",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "First name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "required": true,
+        "placeholder": "eg. Smith",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Last name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email_address",
+        "id": "email_address",
+        "required": true,
+        "placeholder": "eg. johnsmith@gmail.com",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Email address*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone_number",
+        "id": "phone_number",
+        "required": true,
+        "placeholder": "Home or mobile",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Phone number*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "street_address",
+        "id": "street_address",
+        "required": true,
+        "placeholder": "Street address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Street address*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "postcode",
+        "id": "postcode",
+        "required": true,
+        "placeholder": "Postcode",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "c-form__input",
+          "c-form__input--bordered"
+        ],
+        "style": "",
+        "label": "Postcode*"
+      }
+    ],
+    "submit_button": "<button class=\"c-button c-button-block c-button-md c-button--red\" id=\"classifieds_submit\" name=\"\" style=\"position:relative\" type=\"submit\">Submit listing</button>"
+  },
+  "added_unrequired_textareas": []
+}

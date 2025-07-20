@@ -1,0 +1,114 @@
+{
+  "domain": "https://wtop.com",
+  "manual_emails": [
+    "hello@wtop.com",
+    "squast@wtop.com"
+  ],
+  "gpt_emails": [
+    "advertising@wtop.com"
+  ],
+  "token_usage": {
+    "tokens_used": 3318,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00718
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://wtop.com/advertise/",
+    "https://wtop.com/contact-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://wtop.com/advertise/",
+    "summary": "The webpage's HTML form is designed to collect contact information and inquiries from potential advertising partners interested in marketing with WTOP News.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_764_1_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "First"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_764_1_6",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Last"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_3",
+        "id": "input_764_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_5",
+        "id": "input_764_5",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "medium"
+        ],
+        "style": "",
+        "label": "Please tell us about your inquiry:"
+      }
+    ],
+    "submit_button": "<input class=\"gform_button button\" id=\"gform_submit_button_764\" onclick='if(window[\"gf_submitting_764\"]){return false;}  window[\"gf_submitting_764\"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window[\"gf_submitting_764\"]){return false;} window[\"gf_submitting_764\"]=true;  jQuery(\"#gform_764\").trigger(\"submit\",[true]); }' type=\"submit\" value=\"Submit\"/>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "input_5",
+      "id": "input_764_5",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [
+        "textarea",
+        "medium"
+      ],
+      "style": "",
+      "label": "Please tell us about your inquiry:"
+    }
+  ]
+}

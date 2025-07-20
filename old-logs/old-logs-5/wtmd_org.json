@@ -1,0 +1,54 @@
+{
+  "domain": "https://wtmd.org",
+  "manual_emails": [
+    "smapson@bmorepublicmedia.org",
+    "info@wtmd.org",
+    "tlaporte@wtmd.org",
+    "paul@detourradio.com",
+    "localmusic@wtmd.org",
+    "cswagler@bmorepublicmedia.org",
+    "idarcangelo@bmorepublicmedia.org",
+    "cthomas@wtmd.org",
+    "firstthursdays@wtmd.org",
+    "mwilliams@wypr.org",
+    "rtimm@wtmd.org",
+    "adougherty@wypr.org",
+    "mamoss@wtmd.org",
+    "ibavis@bmorepublicmedia.org",
+    "dirby@wypr.org",
+    "llgeary@wtmd.org",
+    "membership@wtmd.org",
+    "rmarsalek@wtmd.org",
+    "ssessa@bmorepublicmedia.org",
+    "mbyrd@bmorepublicmedia.org",
+    "rferrell@wtmd.org",
+    "mamoss@bmorepublicmedia.org",
+    "brecacho@bmorepublicmedia.org",
+    "tpullo@bmorepublicmedia.org",
+    "jblakley@bmorepublicmedia.org",
+    "emarshall@bmorepublicmedia.org",
+    "klaporte@bmorepublicmedia.org",
+    "bsekinger@wtmd.org",
+    "moglesby@bmorepublicmedia.org"
+  ],
+  "gpt_emails": [
+    "info@wtmd.org",
+    "membership@wtmd.org",
+    "mwilliams@wypr.org"
+  ],
+  "token_usage": {
+    "tokens_used": 1076,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00538
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

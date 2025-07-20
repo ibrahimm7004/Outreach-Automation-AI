@@ -1,0 +1,138 @@
+{
+  "domain": "https://leaderpost.com",
+  "manual_emails": [
+    "mysubscription@leaderpost.com",
+    "epapersupport@leaderpost.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1327,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00664
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://leaderpost.com/contact/"
+  ],
+  "chosen_form": {
+    "page_url": "https://leaderpost.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "full_name",
+        "id": "id_full_name",
+        "required": true,
+        "placeholder": "John Smith",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "col-xs-12",
+          "col-md-10"
+        ],
+        "style": "",
+        "label": "Full Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email_address",
+        "id": "id_email_address",
+        "required": true,
+        "placeholder": "Email Address",
+        "autocomplete": "",
+        "maxlength": "320",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "col-xs-12",
+          "col-md-10"
+        ],
+        "style": "",
+        "label": "Email Address*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone_number",
+        "id": "id_phone_number",
+        "required": true,
+        "placeholder": "416-659-8958",
+        "autocomplete": "",
+        "maxlength": "20",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "form__control--phone-number"
+        ],
+        "style": "",
+        "label": "Phone Number*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "address",
+        "id": "id_address",
+        "required": true,
+        "placeholder": "365 Bloor St E #1, Toronto, ON, CA - A1A2B3",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "col-xs-12",
+          "col-md-10"
+        ],
+        "style": "",
+        "label": "Full Delivery Address (required for Home Delivery inquiries)*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "help_option",
+        "id": "id_help_option",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "col-xs-12",
+          "col-md-10"
+        ],
+        "style": "",
+        "label": "What can we help you with?*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "questions",
+        "id": "id_questions",
+        "required": true,
+        "placeholder": "Fill out as much information as you can...",
+        "autocomplete": "",
+        "maxlength": "500",
+        "pattern": "",
+        "class": [
+          "form__control",
+          "col-xs-12"
+        ],
+        "style": "",
+        "label": "Comments / Questions*"
+      }
+    ],
+    "submit_button": "<button class=\"button button--primary col-xs-4\">Submit</button>"
+  },
+  "added_unrequired_textareas": []
+}

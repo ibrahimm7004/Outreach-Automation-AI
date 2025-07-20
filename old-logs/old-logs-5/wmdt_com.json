@@ -1,0 +1,99 @@
+{
+  "domain": "https://wmdt.com",
+  "manual_emails": [
+    "stephanie_willey@wmdt.com",
+    "gregory_lafrance@wmdt.com",
+    "charles_roberts@wmdt.com",
+    "sheila_kinley@wmdt.com"
+  ],
+  "gpt_emails": [
+    "Stephanie_Willey@wmdt.com",
+    "Joe_Carmean@wmdt.com",
+    "Sheila_kinley@wmdt.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1367,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00683
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://www.wmdt.com/about-us/advertise-with-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://www.wmdt.com/about-us/advertise-with-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_8_1_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "First"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_8_1_6",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Last"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_2",
+        "id": "input_8_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_4",
+        "id": "input_8_4",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "medium"
+        ],
+        "style": "",
+        "label": "Your Advertising Needs / Questions*"
+      }
+    ],
+    "submit_button": "<input class=\"gform_button button\" id=\"gform_submit_button_8\" onclick='if(window[\"gf_submitting_8\"]){return false;}  window[\"gf_submitting_8\"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window[\"gf_submitting_8\"]){return false;} window[\"gf_submitting_8\"]=true;  jQuery(\"#gform_8\").trigger(\"submit\",[true]); }' type=\"submit\" value=\"Submit\"/>"
+  },
+  "added_unrequired_textareas": []
+}

@@ -1,0 +1,116 @@
+{
+  "domain": "https://thewhomegroup.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 3371,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.01005
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://thewhomegroup.com/blog/category/press-1/",
+    "https://thewhomegroup.com/contact-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://thewhomegroup.com/blog/category/press-1/",
+    "summary": "The webpage features a contact form intended for users to submit questions or comments to Next Step Realty | W Home Group, while also allowing them to opt in to receive marketing and customer service communications.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Name",
+        "id": "ask-153876-name",
+        "required": true,
+        "placeholder": "*Full Name",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required",
+          "form-control"
+        ],
+        "style": "",
+        "label": "Full Name"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Email",
+        "id": "ask-153876-email",
+        "required": true,
+        "placeholder": "*Email Address",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required",
+          "form-control",
+          "email"
+        ],
+        "style": "",
+        "label": "Email"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "OptIn",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "required"
+        ],
+        "style": "",
+        "label": "Opt in"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Comments",
+        "id": "ask-153876-question",
+        "required": false,
+        "placeholder": "*Question or Comments",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control",
+          "required"
+        ],
+        "style": "",
+        "label": "Questions or Comments?"
+      }
+    ],
+    "submit_button": "<button class=\"usm-btn\" name=\"send\" type=\"submit\">Send</button>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "Comments",
+      "id": "ask-153876-question",
+      "required": false,
+      "placeholder": "*Question or Comments",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [
+        "form-control",
+        "required"
+      ],
+      "style": "",
+      "label": "Questions or Comments?"
+    }
+  ]
+}

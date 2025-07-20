@@ -1,0 +1,134 @@
+{
+  "domain": "https://treadmagazine.com",
+  "manual_emails": [
+    "advertise@engaged.media"
+  ],
+  "gpt_emails": [
+    "advertise@engaged.media"
+  ],
+  "token_usage": {
+    "tokens_used": 2122,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00533
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://www.treadmagazine.com/advertise/",
+    "https://www.treadmagazine.com/contact/",
+    "https://www.treadmagazine.com/press-release/"
+  ],
+  "chosen_form": {
+    "page_url": "https://www.treadmagazine.com/advertise/",
+    "summary": "The webpage features a contact form intended for prospective advertisers to submit their details and inquiries about advertising opportunities with TREAD Magazine.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Email*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "contact",
+        "id": "contact",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Phone No.*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "business",
+        "id": "business",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Business Name*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "addvertiser-frm-textarea",
+          "frm-fld-area"
+        ],
+        "style": "",
+        "label": "Your Message"
+      }
+    ],
+    "submit_button": null
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "message",
+      "id": "message",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [
+        "addvertiser-frm-textarea",
+        "frm-fld-area"
+      ],
+      "style": "",
+      "label": "Your Message"
+    }
+  ]
+}

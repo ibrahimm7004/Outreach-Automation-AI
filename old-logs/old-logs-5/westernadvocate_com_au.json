@@ -1,0 +1,31 @@
+{
+  "domain": "https://westernadvocate.com.au",
+  "manual_emails": [
+    "mail@westernadvocate.com.au",
+    "sally.thomas@austcommunitymedia.com.au",
+    "circulation.nr@austcommunitymedia.com.au",
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "classifieds@acm.media",
+    "harmony.beric@austcommunitymedia.com.au"
+  ],
+  "gpt_emails": [
+    "subscriptionsupport@austcommunitymedia.com.au",
+    "circulation.nr@austcommunitymedia.com.au",
+    "sally.thomas@austcommunitymedia.com.au"
+  ],
+  "token_usage": {
+    "tokens_used": 1685,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00843
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

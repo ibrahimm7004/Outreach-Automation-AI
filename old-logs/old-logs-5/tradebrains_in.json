@@ -1,0 +1,78 @@
+{
+  "domain": "https://tradebrains.in",
+  "manual_emails": [
+    "hr@tradebrains.in",
+    "info@tradebrains.in",
+    "partner@tradebrains.in",
+    "support@tradebrains.in",
+    "chandan.rawat@tradebrains.in",
+    "advertise@tradebrains.in",
+    "editor@tradebrains.in",
+    "bikram.singhary@tradebrains.in",
+    "pr@tradebrains.in"
+  ],
+  "gpt_emails": [
+    "advertise@tradebrains.in",
+    "partner@tradebrains.in",
+    "pr@tradebrains.in"
+  ],
+  "token_usage": {
+    "tokens_used": 1634,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00817
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://tradebrains.in/advertise/"
+  ],
+  "chosen_form": {
+    "page_url": "https://tradebrains.in/advertise/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "et_pb_contact_message_0",
+        "id": "et_pb_contact_message_0",
+        "required": false,
+        "placeholder": "Message",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "et_pb_contact_message",
+          "input"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ],
+    "submit_button": "<button class=\"et_pb_contact_submit et_pb_button\" name=\"et_builder_submit_button\" type=\"submit\">Send your message</button>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "et_pb_contact_message_0",
+      "id": "et_pb_contact_message_0",
+      "required": false,
+      "placeholder": "Message",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [
+        "et_pb_contact_message",
+        "input"
+      ],
+      "style": "",
+      "label": "Message"
+    }
+  ]
+}

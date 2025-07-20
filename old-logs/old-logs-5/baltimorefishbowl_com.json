@@ -1,0 +1,82 @@
+{
+  "domain": "https://baltimorefishbowl.com",
+  "manual_emails": [
+    "maliwali@aol.com",
+    "suzy@baltimorefishbowl.com",
+    "aliza@baltimorefishbowl.com",
+    "nicole@baltimorefishbowl.com",
+    "edgunts@aol.com",
+    "marcus@baltimorefishbowl.com",
+    "kit@kitpollard.com",
+    "advertising@baltimorefishbowl.com",
+    "david@baltimorefishbowl.com",
+    "editor@baltimorefishbowl.com"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 913,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00457
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://baltimorefishbowl.com/advertise/"
+  ],
+  "chosen_form": {
+    "page_url": "https://baltimorefishbowl.com/advertise/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "65525",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Comment*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "author",
+        "id": "author",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "name",
+        "maxlength": "245",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "email",
+        "maxlength": "100",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Email*"
+      }
+    ],
+    "submit_button": "<input class=\"submit\" id=\"submit\" name=\"submit\" type=\"submit\" value=\"Post Comment\"/>"
+  },
+  "added_unrequired_textareas": []
+}

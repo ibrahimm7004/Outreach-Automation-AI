@@ -1,0 +1,113 @@
+{
+  "domain": "https://annapolisdigs.com",
+  "manual_emails": [
+    "info@caprikarealty.com"
+  ],
+  "gpt_emails": [
+    "info@caprikarealty.com"
+  ],
+  "token_usage": {
+    "tokens_used": 958,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00479
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://annapolisdigs.com/contact/"
+  ],
+  "chosen_form": {
+    "page_url": "https://annapolisdigs.com/contact/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "First_Name",
+        "id": "First_Name49915",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "First Name:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Last_Name",
+        "id": "Last_Name49915",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Last Name:*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Email",
+        "id": "Email49915",
+        "required": true,
+        "placeholder": "name@website.com",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Email Address:*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone49915",
+        "required": true,
+        "placeholder": "(201) 555-0123",
+        "autocomplete": "off",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Phone:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Questions",
+        "id": "requestComments49915",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Questions / Comments:*"
+      }
+    ],
+    "submit_button": "<button class=\"si-btn si-btn--secondary\" type=\"submit\">Submit</button>"
+  },
+  "added_unrequired_textareas": []
+}

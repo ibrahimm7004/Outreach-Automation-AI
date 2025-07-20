@@ -1,0 +1,30 @@
+{
+  "domain": "https://fashionjournal.com.au",
+  "manual_emails": [
+    "accounts@furstmedia.com.au",
+    "submissions@fashionjournal.com.au",
+    "interns@fashionjournal.com.au",
+    "advertise@fashionjournal.com.au",
+    "pr@fashionjournal.com.au"
+  ],
+  "gpt_emails": [
+    "advertise@fashionjournal.com.au",
+    "pr@fashionjournal.com.au",
+    "submissions@fashionjournal.com.au"
+  ],
+  "token_usage": {
+    "tokens_used": 447,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00224
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

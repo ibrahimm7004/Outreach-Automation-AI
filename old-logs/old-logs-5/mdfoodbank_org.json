@@ -1,0 +1,211 @@
+{
+  "domain": "https://mdfoodbank.org",
+  "manual_emails": [
+    "dst@mdfoodbank.org"
+  ],
+  "gpt_emails": [
+    "chloe.woodward-magrane@mdfoodbank.org"
+  ],
+  "token_usage": {
+    "tokens_used": 2371,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.01186
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://mdfoodbank.org/ways-to-give/cause-marketing/"
+  ],
+  "chosen_form": {
+    "page_url": "https://mdfoodbank.org/ways-to-give/cause-marketing/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1",
+        "id": "input_74_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Company/Organization Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.3",
+        "id": "input_74_4_3",
+        "required": true,
+        "placeholder": "First",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "First"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_4.6",
+        "id": "input_74_4_6",
+        "required": true,
+        "placeholder": "Last",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Last"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_6",
+        "id": "input_74_6",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "medium"
+        ],
+        "style": "",
+        "label": "Contact Email*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_7",
+        "id": "input_74_7",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "medium"
+        ],
+        "style": "",
+        "label": "Campaign Description*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_8",
+        "id": "input_74_8",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "medium"
+        ],
+        "style": "",
+        "label": "Campaign Marketing Goals*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Month"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Day"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_10[]",
+        "id": "input_74_10_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Year"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_1",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Month"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_2",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Day"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "input_11[]",
+        "id": "input_74_11_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Year"
+      }
+    ],
+    "submit_button": "<input class=\"gform_button button\" data-submission-type=\"submit\" id=\"gform_submit_button_74\" onclick=\"gform.submission.handleButtonClick(this);\" type=\"submit\" value=\"Submit\"/>"
+  },
+  "added_unrequired_textareas": []
+}

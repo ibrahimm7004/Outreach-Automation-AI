@@ -1,0 +1,24 @@
+{
+  "domain": "https://baltimoretimes-online.com",
+  "manual_emails": [
+    "btimes@btimes.com"
+  ],
+  "gpt_emails": [
+    "btimes@btimes.com"
+  ],
+  "token_usage": {
+    "tokens_used": 552,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00276
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

@@ -1,0 +1,513 @@
+{
+  "domain": "https://bloggingthebracket.com",
+  "manual_emails": [
+    "advertising@voxmedia.com"
+  ],
+  "gpt_emails": [
+    "advertising@voxmedia.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1797,
+    "summarize_calls": 2,
+    "estimated_cost_usd": 0.00898
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://bloggingthebracket.com/contact?community_id=247"
+  ],
+  "chosen_form": {
+    "page_url": "https://bloggingthebracket.com/contact?community_id=247",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "tip-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize your tip in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "tip-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain your tip in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "issue-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize the problem in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "issue-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the problem in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "app_feedback-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize the problem in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "app_feedback-explanation",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the problem in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[ios_version]",
+        "id": "app_feedback-ios_version",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "iOS version:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[app_version]",
+        "id": "app_feedback-app_version",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "App version (view in phone settings):*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "suggestion-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize your pitch suggestions in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "suggestion-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain your pitch suggestion in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "problem_with_draftkings_account-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "problem_with_draftkings_account-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the problem in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "problem_with_draftkingsnetwork-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize the problem you're experiencing with your DraftKings account:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "problem_with_draftkingsnetwork-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the problem in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "advertising_support-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize the problem in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "advertising_support-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the problem in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[publication]",
+        "id": "press_inquiry-publication",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Publication:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "press_inquiry-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize your inquiry in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "press_inquiry-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain your inquiry in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "moderator-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize question in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "moderator-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain the situation in detail:*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "support_request[summary]",
+        "id": "personal_data-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-selectbox"
+        ],
+        "style": "",
+        "label": "What would you like to do?*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "personal_data-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Additional details:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "moderator-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize question in one sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "subscription_inquiry-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Explain your question in detail:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[summary]",
+        "id": "contribution_support-summary",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Summarize your question in a sentence:*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "support_request[explanation]",
+        "id": "contribution_support-detail",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-textarea"
+        ],
+        "style": "",
+        "label": "Please share additional details:*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[name]",
+        "id": "info-name",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "First and last name*:"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[email]",
+        "id": "info-email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Email address*:"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "support_request[email_confirmation]",
+        "id": "info-email-confirmation",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "p-text-input"
+        ],
+        "style": "",
+        "label": "Email address confirmation*:"
+      }
+    ],
+    "submit_button": "<input class=\"p-button p-button__wide\" data-disable-with=\"Submit\" id=\"submit-contact-form\" name=\"commit\" type=\"submit\" value=\"Submit\"/>"
+  },
+  "added_unrequired_textareas": []
+}

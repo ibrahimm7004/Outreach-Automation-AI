@@ -1,0 +1,43 @@
+{
+  "domain": "https://sreb.org",
+  "manual_emails": [
+    "juliana.coleman@sreb.org",
+    "karen.gray@sreb.org",
+    "debbie.anderson@sreb.org",
+    "dale.winkler@sreb.org",
+    "steve.broome@sreb.org",
+    "linda.floyd@sreb.org",
+    "christi.edwards@sreb.org",
+    "institute.coordinator@sreb.org",
+    "advancedcareer@sreb.org",
+    "jason.adair@sreb.org",
+    "debbie.barnett@sreb.org",
+    "quinton.granville@sreb.org",
+    "judy.frank@sreb.org",
+    "ivy.alford@sreb.org",
+    "christopher.bailey@sreb.org",
+    "chuck.boyd@sreb.org",
+    "shelly.gibson@sreb.org",
+    "jenn.carter@sreb.org",
+    "leslie.eaves@sreb.org",
+    "kyle.ferguson@sreb.org"
+  ],
+  "gpt_emails": [
+    "Institute.Coordinator@sreb.org"
+  ],
+  "token_usage": {
+    "tokens_used": 892,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00446
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": true
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

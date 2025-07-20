@@ -1,0 +1,24 @@
+{
+  "domain": "https://sharecast.com",
+  "manual_emails": [
+    "publicidad@vortexmedia.es"
+  ],
+  "gpt_emails": [
+    "publicidad@vortexmedia.es"
+  ],
+  "token_usage": {
+    "tokens_used": 934,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00467
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

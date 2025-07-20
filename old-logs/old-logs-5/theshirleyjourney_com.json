@@ -1,0 +1,26 @@
+{
+  "domain": "https://theshirleyjourney.com",
+  "manual_emails": [
+    "christina@theshirleyjourney.com",
+    "momsmessymiracles@gmail.com"
+  ],
+  "gpt_emails": [
+    "momsmessymiracles@gmail.com",
+    "christina@theshirleyjourney.com"
+  ],
+  "token_usage": {
+    "tokens_used": 768,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00384
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

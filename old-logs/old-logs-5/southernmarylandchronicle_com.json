@@ -1,0 +1,30 @@
+{
+  "domain": "https://southernmarylandchronicle.com",
+  "manual_emails": [
+    "davidhiggins@southernmarylandchronicle.com",
+    "support@southernmarylandchronicle.com",
+    "tips@southernmarylandchronicle.com",
+    "advertising@southernmarylandchronicle.com",
+    "news@southernmarylandchronicle.com"
+  ],
+  "gpt_emails": [
+    "News@southernmarylandchronicle.com",
+    "Support@southernmarylandchronicle.com",
+    "Advertising@southernmarylandchronicle.com"
+  ],
+  "token_usage": {
+    "tokens_used": 766,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00383
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

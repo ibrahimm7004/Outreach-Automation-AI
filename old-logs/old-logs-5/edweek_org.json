@@ -1,0 +1,114 @@
+{
+  "domain": "https://edweek.org",
+  "manual_emails": [
+    "reprints@educationweek.org"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 2103,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.00526
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://www.edweek.org/contact/",
+    "https://www.edweek.org/contact/#contact-the-newsroom"
+  ],
+  "chosen_form": {
+    "page_url": "https://www.edweek.org/contact/",
+    "summary": "The webpage HTML form is designed for users to submit their press releases, requiring essential contact information and a message, thus facilitating communication with the organization.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "first-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "First Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "last-name",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "Last Name*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input",
+          "a-input--email"
+        ],
+        "style": "",
+        "label": "Email*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input"
+        ],
+        "style": "",
+        "label": "Subject*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "a-input",
+          "a-input--textarea"
+        ],
+        "style": "",
+        "label": "Message*"
+      }
+    ],
+    "submit_button": "<button class=\"a-button a-button--secondary\">SEND YOUR PRESS RELEASE</button>"
+  },
+  "added_unrequired_textareas": []
+}

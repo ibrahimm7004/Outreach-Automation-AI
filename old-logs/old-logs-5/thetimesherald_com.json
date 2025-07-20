@@ -1,0 +1,234 @@
+{
+  "domain": "https://thetimesherald.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 4441,
+    "summarize_calls": 3,
+    "estimated_cost_usd": 0.01067
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://cm.thetimesherald.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_times_herald&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us",
+    "https://cm.thetimesherald.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_times_herald&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us"
+  ],
+  "chosen_form": {
+    "page_url": "https://cm.thetimesherald.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_times_herald&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us",
+    "summary": "The webpage HTML form is designed for potential customers to inquire about advertising options with LOCALiQ, allowing them to provide their contact information and specify their interests and budget for digital marketing services.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "required": true,
+        "placeholder": "First Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "required": true,
+        "placeholder": "Last Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "required": true,
+        "placeholder": "Email Address",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoEmailField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone",
+        "required": true,
+        "placeholder": "Phone Number",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTelField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "required": true,
+        "placeholder": "Company Name",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Website",
+        "id": "Website",
+        "required": true,
+        "placeholder": "Website",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "PostalCode",
+        "id": "PostalCode",
+        "required": true,
+        "placeholder": "Postal Code",
+        "autocomplete": "",
+        "maxlength": "255",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoTextField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Inquiry_About__c",
+        "id": "Inquiry_About__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Monthly_Advertising_Budget__c",
+        "id": "Monthly_Advertising_Budget__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "select",
+        "type": "select",
+        "name": "Business_Type__c",
+        "id": "Business_Type__c",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth",
+          "mktoRequired"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "Web_to_Lead_Notes__c",
+        "id": "Web_to_Lead_Notes__c",
+        "required": true,
+        "placeholder": "(Optional) Additional Message",
+        "autocomplete": "",
+        "maxlength": "32768",
+        "pattern": "",
+        "class": [
+          "mktoField",
+          "mktoHasWidth"
+        ],
+        "style": "width: 150px;",
+        "label": "*"
+      }
+    ],
+    "submit_button": "<button class=\"mktoButton\" type=\"submit\">Get started</button>"
+  },
+  "added_unrequired_textareas": []
+}

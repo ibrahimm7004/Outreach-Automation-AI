@@ -1,0 +1,143 @@
+{
+  "domain": "https://taxguru.in",
+  "manual_emails": [
+    "info@taxguru.in"
+  ],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 1796,
+    "summarize_calls": 4,
+    "estimated_cost_usd": 0.00898
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://taxguru.in/advertise-with-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://taxguru.in/advertise-with-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "website",
+        "id": "",
+        "required": true,
+        "placeholder": "https://",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "https://"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "budget_range",
+        "id": "",
+        "required": true,
+        "placeholder": "Minimum Budget is Rs. 10000",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Minimum Budget is Rs. 10000"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "required": true,
+        "placeholder": "Tell us more about what you're looking to advertise",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Tell us more about what you're looking to advertise"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "full_name",
+        "id": "",
+        "required": true,
+        "placeholder": "Your Name*",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Your Name*"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "user_email",
+        "id": "",
+        "required": true,
+        "placeholder": "Email ID",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Email ID"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "mobile",
+        "id": "",
+        "required": true,
+        "placeholder": "Mobile Number",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Mobile Number"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "id": "",
+        "required": true,
+        "placeholder": "Subject",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "form-control"
+        ],
+        "style": "",
+        "label": "Subject"
+      }
+    ],
+    "submit_button": "<button class=\"btn btn-primary\" type=\"submit\">Submit</button>"
+  },
+  "added_unrequired_textareas": []
+}

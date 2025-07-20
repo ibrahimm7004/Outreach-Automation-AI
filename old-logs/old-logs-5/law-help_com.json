@@ -1,0 +1,58 @@
+{
+  "domain": "https://law-help.com",
+  "manual_emails": [],
+  "gpt_emails": [],
+  "token_usage": {
+    "tokens_used": 448,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00224
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://law-help.com/contact-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://law-help.com/contact-us/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "required": false,
+        "placeholder": "How can we help?",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "How can we help?"
+      }
+    ],
+    "submit_button": "<input aria-label=\"submit\" class=\"but but-3\" data-mh=\"contact\" id=\"submit\" style=\"\" type=\"submit\" value=\"Get Help Now\"/>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "message",
+      "id": "",
+      "required": false,
+      "placeholder": "How can we help?",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [],
+      "style": "",
+      "label": "How can we help?"
+    }
+  ]
+}

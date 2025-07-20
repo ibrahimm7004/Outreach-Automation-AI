@@ -1,0 +1,40 @@
+{
+  "domain": "https://techradar.com",
+  "manual_emails": [
+    "marion.le-bot@futurenet.com",
+    "freelancefinance@futurenet.com",
+    "accountspayable@futurenet.com",
+    "futurenow@futurenet.com",
+    "chiara.castro@futurenet.com",
+    "udinmwenefosa@gmail.com",
+    "news@techradar.com",
+    "coupons.techradar@futurenet.com",
+    "futureinvoices@futurenet.com",
+    "creditcontrol@futurenet.com",
+    "usadvertising@futurenet.com",
+    "advertising@futurenet.com",
+    "licensing@futurenet.com",
+    "neeraj@strategence.in",
+    "cosec@futurenet.co.uk"
+  ],
+  "gpt_emails": [
+    "advertising@futurenet.com",
+    "licensing@futurenet.com",
+    "marion.le-bot@futurenet.com"
+  ],
+  "token_usage": {
+    "tokens_used": 3614,
+    "summarize_calls": 7,
+    "estimated_cost_usd": 0.01807
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

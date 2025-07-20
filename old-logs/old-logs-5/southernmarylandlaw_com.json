@@ -1,0 +1,24 @@
+{
+  "domain": "https://southernmarylandlaw.com",
+  "manual_emails": [
+    "questions@southernmarylandlaw.com"
+  ],
+  "gpt_emails": [
+    "questions@southernmarylandlaw.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2063,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.01032
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

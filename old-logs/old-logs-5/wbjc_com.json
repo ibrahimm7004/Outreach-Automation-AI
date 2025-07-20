@@ -1,0 +1,40 @@
+{
+  "domain": "https://wbjc.com",
+  "manual_emails": [
+    "rmiles@bccc.edu",
+    "amalhotra@bccc.edu",
+    "kchase@bccc.edu",
+    "mrkmalinowski@bccc.edu",
+    "wbjc_programming@wbjc.com",
+    "membership@wbjc.com",
+    "yallen@bccc.edu",
+    "dross@bccc.edu",
+    "kharrison@bccc.edu",
+    "billing@wbjc.com",
+    "jpalevsky@bccc.edu",
+    "jlafleur@bccc.edu",
+    "dneal@bccc.edu",
+    "jkrummeck@bccc.edu",
+    "listenerschoice@wbjc.com"
+  ],
+  "gpt_emails": [
+    "membership@wbjc.com",
+    "listenerschoice@wbjc.com",
+    "wbjc_programming@wbjc.com"
+  ],
+  "token_usage": {
+    "tokens_used": 380,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.0019
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": false,
+  "form_page_urls": [],
+  "chosen_form": {}
+}

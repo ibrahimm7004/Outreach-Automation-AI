@@ -1,0 +1,69 @@
+{
+  "domain": "https://thegaypassport.com",
+  "manual_emails": [
+    "info@thegaypassport.com"
+  ],
+  "gpt_emails": [
+    "info@thegaypassport.com"
+  ],
+  "token_usage": {
+    "tokens_used": 1252,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00626
+  },
+  "matches_expected": {
+    "manual": true,
+    "gpt": true,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://thegaypassport.com/advertise/"
+  ],
+  "chosen_form": {
+    "page_url": "https://thegaypassport.com/advertise/",
+    "summary": "",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "elementor-field",
+          "elementor-size-sm",
+          "elementor-field-textual"
+        ],
+        "style": "",
+        "label": "Email Address"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "elementor-field-textual",
+          "elementor-field",
+          "elementor-size-sm"
+        ],
+        "style": "",
+        "label": "Message"
+      }
+    ],
+    "submit_button": "<button class=\"elementor-button elementor-size-sm\" type=\"submit\">\n<span class=\"elementor-button-content-wrapper\">\n<span class=\"elementor-button-text\">Send</span>\n</span>\n</button>"
+  },
+  "added_unrequired_textareas": []
+}

@@ -1,0 +1,129 @@
+{
+  "domain": "https://thebaynet.com",
+  "manual_emails": [
+    "partnerships@thebaynet.com"
+  ],
+  "gpt_emails": [
+    "advertise@thebaynet.com"
+  ],
+  "token_usage": {
+    "tokens_used": 2917,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00709
+  },
+  "matches_expected": {
+    "manual": false,
+    "gpt": false,
+    "form": false
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://thebaynet.com/contact-us/",
+    "https://thebaynet.com/advertise-with-us/"
+  ],
+  "chosen_form": {
+    "page_url": "https://thebaynet.com/advertise-with-us/",
+    "summary": "The webpage features a form designed for potential advertisers to provide their contact details and specific information regarding their advertising interests with The BayNet, facilitating customized advertising campaign discussions.",
+    "fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_9_1_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "First"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_9_1_6",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [],
+        "style": "",
+        "label": "Last"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "input_3",
+        "id": "input_9_3",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "large"
+        ],
+        "style": "",
+        "label": "Phone(Required)"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "input_4",
+        "id": "input_9_4",
+        "required": true,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "large"
+        ],
+        "style": "",
+        "label": "Email(Required)"
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "input_5",
+        "id": "input_9_5",
+        "required": false,
+        "placeholder": "",
+        "autocomplete": "",
+        "maxlength": "",
+        "pattern": "",
+        "class": [
+          "textarea",
+          "large"
+        ],
+        "style": "",
+        "label": "Additional Notes"
+      }
+    ],
+    "submit_button": "<input class=\"gform_button button\" data-submission-type=\"submit\" id=\"gform_submit_button_9\" onclick=\"gform.submission.handleButtonClick(this);\" type=\"submit\" value=\"Submit\"/>"
+  },
+  "added_unrequired_textareas": [
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "input_5",
+      "id": "input_9_5",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "pattern": "",
+      "class": [
+        "textarea",
+        "large"
+      ],
+      "style": "",
+      "label": "Additional Notes"
+    }
+  ]
+}
