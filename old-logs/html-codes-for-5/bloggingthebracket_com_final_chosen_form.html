@@ -1,0 +1,199 @@
+<form accept-charset="UTF-8" action="/unison_contact/submit_contact_request" class="new_support_request" enctype="multipart/form-data" id="contact-form" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Rptl0HrjIBVwK4IFh-KOL2xIw95mBfH09y4kkJ44fuN22NKDgkYHGMAK0fptSHv7nKcg-4zTBB8WJtxKtzM8rg"/>
+<input id="support_request_network_id" name="support_request[network_id]" type="hidden" value="1"/>
+<input id="support_request_additional_attributes" name="support_request[additional_attributes]" type="hidden" value="{}"/>
+<input id="return_to" name="return_to" type="hidden" value=""/>
+<h2 class="p-form-head">Hello! <label for="contact-reason-toggle">Why are you contacting us today?</label></h2>
+<select class="p-selectbox" id="contact-reason-toggle" name="support_request[request_type]">
+<option value="">Please select</option>
+<option value="tip">I have an editorial tip for the Blogging the Bracket team</option>
+<option value="issue">I need technical support / I want to report a bug</option>
+<option value="suggestion">I want to pitch a story</option>
+<option value="advertising">I'm interested in advertising with Blogging the Bracket</option>
+<option value="advertising_support">I'd like to report an issue with advertising</option>
+<option value="moderator">I have a question about moderation / I have been banned</option>
+<option value="press_inquiry">I have a press inquiry</option>
+<option value="security">I want to report a security issue with Blogging the Bracket</option>
+<option value="personal_data">I have a personal information request</option>
+</select>
+<div class="p-feedback-form__details" id="security" style="display: none;">
+<p>Please follow the guidelines set out on the <a href="https://www.voxmedia.com/security/">Vox Media Security</a> page.</p>
+</div>
+<div class="p-feedback-form__details" id="tip" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="tip-summary">Summarize your tip in one sentence:*</label>
+<input class="p-text-input" id="tip-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="tip-detail">Explain your tip in detail:*</label>
+<textarea class="p-textarea" id="tip-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="issue" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label for="issue-url">Provide the URL of the page pertaining to your question or problem:</label>
+<input class="p-text-input" id="issue-url" name="support_request[url]" type="text"/>
+<label for="issue-os">Which operating system do you use (e.g., Windows 10, macOS Mojave)?</label>
+<input class="p-text-input" id="issue-os" name="support_request[operating_system]" type="text"/>
+<label for="issue-browser">Which browser do you use (e.g., Chrome, Firefox, Safari, Edge, Internet Explorer)?</label>
+<input class="p-text-input" id="issue-browser" name="support_request[browser]" type="text"/>
+<label class="is-required" for="issue-summary">Summarize the problem in one sentence:*</label>
+<input class="p-text-input" id="issue-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="issue-detail">Explain the problem in detail:*</label>
+<textarea class="p-textarea" id="issue-detail" name="support_request[explanation]"></textarea>
+<label for="issue-screenshot">If you can, attach a screenshot of the problem:</label>
+<input id="issue-screenshot" name="support_request[screen_shot]" type="file"/>
+</div>
+<div class="p-feedback-form__details" id="app_feedback" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="app_feedback-summary">Summarize the problem in one sentence:*</label>
+<input class="p-text-input" id="app_feedback-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="app_feedback-explanation">Explain the problem in detail:*</label>
+<textarea class="p-textarea" id="app_feedback-explanation" name="support_request[explanation]"></textarea>
+<label class="is-required" for="app_feedback-ios_version">iOS version:*</label>
+<input class="p-text-input" id="app_feedback-ios_version" name="support_request[ios_version]" type="text"/>
+<label class="is-required" for="app_feedback-app_version">App version (view in phone settings):*</label>
+<input class="p-text-input" id="app_feedback-app_version" name="support_request[app_version]" type="text"/>
+<label for="app_feedback-screenshot">If you can, attach a screenshot of the problem:</label>
+<input id="app_feedback-screenshot" name="support_request[screen_shot]" type="file"/>
+</div>
+<div class="p-feedback-form__details" id="suggestion" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="suggestion-summary">Summarize your pitch suggestions in one sentence:*</label>
+<input class="p-text-input" id="suggestion-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="suggestion-detail">Explain your pitch suggestion in detail:*</label>
+<textarea class="p-textarea" id="suggestion-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="problem_with_draftkings_account" style="display: none;">
+<h3 class="p-form-head">Tell us about your problem:</h3>
+<label class="is-required" for="problem_with_draftkings_account-summary">Summarize the problem you're experiencing with your DraftKings account:*</label>
+<input class="p-text-input" id="problem_with_draftkings_account-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="problem_with_draftkings_account-detail">Explain the problem in detail:*</label>
+<textarea class="p-textarea" id="problem_with_draftkings_account-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="problem_with_draftkingsnetwork" style="display: none;">
+<h3 class="p-form-head">Tell us about your problem:</h3>
+<label class="is-required" for="problem_with_draftkingsnetwork-summary">Summarize the problem you're experiencing with your DraftKings account:*</label>
+<input class="p-text-input" id="problem_with_draftkingsnetwork-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="problem_with_draftkingsnetwork-detail">Explain the problem in detail:*</label>
+<textarea class="p-textarea" id="problem_with_draftkingsnetwork-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="advertising" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" id="advertising-intro">Where are you interested in advertising?</label><br/>
+<input class="p-radiobox" id="advertising-entirenetwork" name="support_request[advertising_method]" type="radio" value="Across the entire SB Nation network"/>
+<label aria-describedby="advertising-intro" for="advertising-entirenetwork">Across the entire SB Nation network</label>
+<br/>
+<input class="p-radiobox" id="advertising-geography" name="support_request[advertising_method]" type="radio" value="Targeted to a specific geography"/>
+<label aria-describedby="advertising-intro" for="advertising-geography" id="label-advertising-geography">Targeted to a specific geography:</label>
+<input aria-labelledby="advertising-intro label-advertising-geography" class="p-text-input" id="advertising-geography-info" name="support_request[advertising_geography]" type="text"/>
+<label class="is-required" for="advertising-current">Do you currently advertise online?</label>
+<select class="p-selectbox" id="advertising-current" name="support_request[currently_advertise_online]"><option value="">Please select</option>
+<option value="Yes">Yes</option>
+<option value="No">No</option></select>
+<label class="is-required" for="advertising-plans">When are you planning your next media buy?</label>
+<select class="p-selectbox" id="advertising-plans" name="support_request[next_media_buy]"><option value="">Please select</option>
+<option value="Immediately">Immediately</option>
+<option value="Next 3 Months">Next 3 Months</option>
+<option value="Next 6 Months">Next 6 Months</option>
+<option value="Not Sure">Not Sure</option></select>
+<label class="is-required" for="advertising-summary">Summarize your message in one sentence:</label>
+<input class="p-text-input" id="advertising-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="advertising-detail">Your message:</label>
+<textarea class="p-textarea" id="advertising-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="advertising_support" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label for="advertising_support-url">Provide the URL of the page pertaining to your question or problem:</label>
+<input class="p-text-input" id="advertising_support-url" name="support_request[url]" type="text"/>
+<label for="advertising_support-os">Which operating system do you use (e.g., Windows 10, macOS Mojave)?</label>
+<input class="p-text-input" id="advertising_support-os" name="support_request[operating_system]" type="text"/>
+<label for="advertising_support-browser">Which browser do you use (e.g., Chrome, Firefox, Safari, Edge, Internet Explorer)?</label>
+<input class="p-text-input" id="advertising_support-browser" name="support_request[browser]" type="text"/>
+<label class="is-required" for="advertising_support-summary">Summarize the problem in one sentence:*</label>
+<input class="p-text-input" id="advertising_support-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="advertising_support-detail">Explain the problem in detail:*</label>
+<textarea class="p-textarea" id="advertising_support-detail" name="support_request[explanation]"></textarea>
+<label for="advertising_support-screenshot">If you can, attach a screenshot of the problem:</label>
+<input id="advertising_support-screenshot" name="support_request[screen_shot]" type="file"/>
+</div>
+<div class="p-feedback-form__details" id="press_inquiry" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="press_inquiry-publication">Publication:*</label>
+<input class="p-text-input" id="press_inquiry-publication" name="support_request[publication]" type="text"/>
+<label for="press_inquiry-editor">Editor or site you'd like to contact:</label>
+<input class="p-text-input" id="press_inquiry-editor" name="support_request[relevant_editor]" type="text"/>
+<label class="is-required" for="press_inquiry-summary">Summarize your inquiry in one sentence:*</label>
+<input class="p-text-input" id="press_inquiry-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="press_inquiry-detail">Explain your inquiry in detail:*</label>
+<textarea class="p-textarea" id="press_inquiry-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="moderator" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="moderator-summary">Summarize the situation in one sentence:*</label>
+<input class="p-text-input" id="moderator-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="moderator-detail">Explain the situation in detail:*</label>
+<textarea class="p-textarea" id="moderator-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="personal_data" style="display: none;">
+<label class="is-required" for="personal_data-summary">What would you like to do?*</label>
+<select class="p-selectbox" id="personal_data-summary" name="support_request[summary]"><option value="">Please select</option>
+<option value="EXPORT">What personal information do you have about me?</option>
+<option value="ERASE">Delete my personal information</option>
+<option value="DO_NOT_SELL">Opt out of the sale or sharing of my info</option>
+<option value="CLOSE">Close my account</option></select>
+<label class="is-required" for="personal_data-detail">Additional details:*</label>
+<textarea class="p-textarea" id="personal_data-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="subscription_inquiry" style="display: none;">
+<label class="is-required" for="moderator-summary">Summarize question in one sentence:*</label>
+<input class="p-text-input" id="moderator-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="subscription_inquiry-detail">Explain your question in detail:*</label>
+<textarea class="p-textarea" id="subscription_inquiry-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__details" id="contribution_support" style="display: none;">
+<h3 class="p-form-head">Tell us more:</h3>
+<label class="is-required" for="contribution_support-summary">Summarize your question in a sentence:*</label>
+<input class="p-text-input" id="contribution_support-summary" name="support_request[summary]" type="text"/>
+<label class="is-required" for="contribution_support-detail">Please share additional details:*</label>
+<textarea class="p-textarea" id="contribution_support-detail" name="support_request[explanation]"></textarea>
+</div>
+<div class="p-feedback-form__user-info" style="display: block;">
+<h3 class="p-form-head">Tell us about you:</h3>
+<label class="is-required" for="info-name">First and last name*:</label>
+<input class="p-text-input" id="info-name" name="support_request[name]" type="text"/>
+<span class="p-feedback-form__contact__anonymous" style="display: none;">
+<input name="support_request[keep_me_anonymous]" type="hidden" value="0"/><input class="p-checkbox" id="support_request_keep_me_anonymous" name="support_request[keep_me_anonymous]" type="checkbox" value="1"/>
+<label class="p-input-label" for="support_request_keep_me_anonymous">Keep me anonymous</label>
+<p class="p-feedback-form__footnote">Note: While SB Nation can grant you anonymity, it may be necessary to contact you to verify your tip.</p>
+</span>
+<label class="is-required" for="info-email">Email address*:</label>
+<input class="p-text-input" id="info-email" name="support_request[email]" type="text"/>
+<span class="p-feedback-form__email-confirmation" style="display: none;">
+<label class="is-required" for="info-email-confirmation">Email address confirmation*:</label>
+<input class="p-text-input" id="info-email-confirmation" name="support_request[email_confirmation]" type="text"/>
+</span>
+<label for="info-username">SB Nation username (if you have one):</label>
+<input class="p-text-input" id="info-username" name="support_request[username]" type="text"/>
+</div>
+<script async="" defer="" src="https://www.recaptcha.net/recaptcha/api.js"></script>
+<div class="g-recaptcha" data-sitekey="6LefyhkTAAAAANpeEKwwgimNneiKWXRQtEqFZbat" style="display: block;"><div style="width: 304px; height: 78px;"><div><iframe frameborder="0" height="78" name="a-ml1blp1twdml" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6LefyhkTAAAAANpeEKwwgimNneiKWXRQtEqFZbat&amp;co=aHR0cHM6Ly93d3cuYmxvZ2dpbmd0aGVicmFja2V0LmNvbTo0NDM.&amp;hl=en&amp;v=GUGrl5YkSwpBsxsF3eY665Ye&amp;size=normal&amp;cb=73xqggu66sfn" title="reCAPTCHA" width="304"></iframe></div><textarea class="g-recaptcha-response" id="g-recaptcha-response" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+<noscript>
+<div>
+<div style="width: 302px; height: 422px; position: relative;">
+<div style="width: 302px; height: 422px; position: absolute;">
+<iframe name="ReCAPTCHA" src="https://www.recaptcha.net/recaptcha/api/fallback?k=6LefyhkTAAAAANpeEKwwgimNneiKWXRQtEqFZbat" style="width: 302px; height: 422px; border-style: none; border: 0; overflow: hidden;">
+</iframe>
+</div>
+</div>
+<div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+<textarea class="g-recaptcha-response" id="g-recaptcha-response" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                  margin: 10px 25px; padding: 0px; resize: none;">
+                </textarea>
+</div>
+</div>
+</noscript>
+<div class="p-feedback-form__submit" style="display: block;">
+<p class="p-feedback-form__community-guidelines" style="display: none;">By submitting this form, you agree to our <a href="https://www.voxmedia.com/pages/community-guidelines-support-requests">community guidelines</a>.</p>
+<input class="p-button p-button__wide" data-disable-with="Submit" id="submit-contact-form" name="commit" type="submit" value="Submit"/>
+</div>
+<p class="p-feedback-form__footnote is-required" style="display: block;">(*) <span id="label-required">required</span></p><p>
+</p></form>

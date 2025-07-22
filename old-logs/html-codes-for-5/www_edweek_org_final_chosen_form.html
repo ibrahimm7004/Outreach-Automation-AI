@@ -1,0 +1,130 @@
+<form class="m-form__form" data-form-disabled="" method="post" name="Press Releases">
+<div class="m-form__items">
+<div class="m-form__item">
+<div class="a-input-wrapper"><label class="a-input-label">
+<span>First Name<span aria-hidden="true" class="a-input-label__required">*</span>
+</span>
+<input aria-label="First Name" class="a-input" name="first-name" required="" type="text"/>
+</label>
+</div>
+</div>
+<div class="m-form__item">
+<div class="a-input-wrapper"><label class="a-input-label">
+<span>Last Name<span aria-hidden="true" class="a-input-label__required">*</span>
+</span>
+<input aria-label="Last Name" class="a-input" name="last-name" required="" type="text"/>
+</label>
+</div>
+</div>
+<div class="m-form__item">
+<div class="a-input-wrapper"><label class="a-input-label">
+<span>Email<span aria-hidden="true" class="a-input-label__required">*</span>
+</span>
+<input aria-label="Email" aria-required="true" class="a-input a-input--email" name="email" required="" type="email"/>
+</label>
+</div>
+</div>
+<div class="m-form__item">
+<div class="a-input-wrapper"><label class="a-input-label">
+<span>Subject<span aria-hidden="true" class="a-input-label__required">*</span>
+</span>
+<input aria-label="Subject" class="a-input" name="subject" required="" type="text"/>
+</label>
+</div>
+</div>
+<div class="m-form__item">
+<div class="a-input-wrapper"><label class="a-input-label">
+<span>Message<span aria-hidden="true" class="a-input-label__required">*</span>
+</span>
+<textarea aria-label="Message" class="a-input a-input--textarea" name="message" required=""></textarea>
+</label>
+</div>
+</div>
+<div class="m-form__item">
+<div class="CaptchaInput">
+<br/><!-- label class="CaptchaInput-label"><span>Please Confirm You Are Human</span><br -->
+<div class="CaptchaInput-captcha">
+<script>
+        (function() {
+            document.addEventListener("DOMContentLoaded", function() {
+                if (!window.recaptchaLoaded) {
+                    var RECAPTCHA_SELECTOR = '.GoogleCaptcha',
+                            RECAPTCHA_UNCHECKED_CLASSNAME = 'CaptchaInput-error',
+                            DATA_FORM_DISABLE_SELECTOR = 'data-form-disabled',
+                            RECAPTCHA_LIBRARY = 'https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded',
+                            recaptchas;
+
+                    var stopFormSubmit = function(e) {
+                        var captcha = e.target.querySelector(RECAPTCHA_SELECTOR);
+
+                        e.preventDefault();
+                        e.stopImmediatePropagation();
+                        e.stopPropagation();
+
+                        captcha.classList.add(RECAPTCHA_UNCHECKED_CLASSNAME);
+                        if ('scrollIntoView' in document.documentElement) {
+                            captcha.scrollIntoView(false);
+                        }
+                    };
+
+                    // Polyfill for DOM 'closest' function for IE 9+
+                    if (!Element.prototype.closest) {
+                        if (!Element.prototype.matches) {
+                            Element.prototype.matches = Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector;
+                        }
+
+                        Element.prototype.closest = function (s) {
+                            var el = this;
+                            if (!document.documentElement.contains(el)) return null;
+                            do {
+                                if (el.matches(s)) return el;
+                                el = el.parentElement || el.parentNode;
+                            } while (el !== null && el.nodeType === 1);
+                            return null;
+                        };
+                    }
+
+                    window.recaptchaLoaded = function () {
+                        recaptchas = document.querySelectorAll(RECAPTCHA_SELECTOR);
+                        window.recaptchaDisable();
+                    };
+
+                    window.recaptchaEnable = function () {
+                        recaptchas.forEach(function (captcha) {
+                            let form = captcha.closest('form');
+                            form.removeAttribute(DATA_FORM_DISABLE_SELECTOR);
+                            form.removeEventListener('submit', stopFormSubmit);
+                            captcha.classList.remove(RECAPTCHA_UNCHECKED_CLASSNAME);
+                        });
+                    };
+
+                    window.recaptchaDisable = function () {
+                        recaptchas.forEach(function (captcha) {
+                            let form = captcha.closest('form');
+                            form.setAttribute(DATA_FORM_DISABLE_SELECTOR, '');
+                            form.addEventListener('submit', stopFormSubmit);
+                        });
+                    };
+
+                    let scriptTag = document.createElement('script');
+                    scriptTag.setAttribute('src', RECAPTCHA_LIBRARY);
+                    scriptTag.setAttribute('async', 'true');
+                    document.querySelector('head').appendChild(scriptTag);
+                }
+            });
+        })();
+    </script>
+<div class="GoogleCaptcha g-recaptcha" data-callback="recaptchaEnable" data-expired-callback="recaptchaDisable" data-sitekey="6LfOezYaAAAAAMl67Cr_-T1D0xDeYGQ-7AL-8Mbn"><div style="width: 304px; height: 78px;"><div><iframe frameborder="0" height="78" name="a-djwpiepsk8bf" role="presentation" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" scrolling="no" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfOezYaAAAAAMl67Cr_-T1D0xDeYGQ-7AL-8Mbn&amp;co=aHR0cHM6Ly93d3cuZWR3ZWVrLm9yZzo0NDM.&amp;hl=en&amp;v=GUGrl5YkSwpBsxsF3eY665Ye&amp;size=normal&amp;cb=qq9tyomtv1xp" title="reCAPTCHA" width="304"></iframe></div><textarea class="g-recaptcha-response" id="g-recaptcha-response-1" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
+</div>
+</div>
+</div>
+<div class="m-form__item">
+<input name="brightspot.form.id" type="hidden" value="00000175-d963-d309-ad7d-f97f02de0000"/>
+</div>
+</div>
+<input name="_page_url" type="hidden" value="https://www.edweek.org/contact/"/>
+<input name="_query_string" type="hidden" value=""/>
+<div class="m-form__submit">
+<button class="a-button a-button--secondary">SEND YOUR PRESS RELEASE</button>
+</div>
+</form>
