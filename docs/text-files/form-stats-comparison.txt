@@ -1,0 +1,40 @@
+=== ANALYSIS REPORT ===
+Total Domains Processed:     294
+Manual Success Rate:         33.67%
+GPT Success Rate:            28.23%
+new stats
+Manual Email Found (any):    165 (56%)
+GPT Email Found (any):       159 (54%)
+Domains Timed Out:           54
+Used Recovery Logic:         25
+Total GPT Tokens Used:       266189
+Estimated GPT Cost:          $1.2409
+
+
+old stats
+Total Domains Processed:     294
+Manual Success Rate:         33.33%
+GPT Success Rate:            28.23%
+Manual Email Found (any):    170 (58%)
+GPT Email Found (any):       156 (53%)
+Domains Timed Out:           50
+Used Recovery Logic:         31
+Total GPT Tokens Used:       453920
+Estimated GPT Cost:          $1.3153
+
+--------------------------------------------------------------------------------------------------------------------
+
+old stats
+Total Log Files                     294
+Expected & Found Forms              17
+Expected but Not Found              8
+Not Expected but Found              124
+Not Expected and Not Found          145
+
+
+new stats
+Total Log Files                     294
+Expected & Found Forms              6
+Expected but Not Found              18
+Not Expected but Found              35
+Not Expected and Not Found          235
