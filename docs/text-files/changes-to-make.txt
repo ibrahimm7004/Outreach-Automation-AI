@@ -1,0 +1,17 @@
+** maybe a condition needs to be added in the unrequired textarea block to also check if it contains the term 'message' anywhere before adding- 
+do this in case a lot of faulty unrequired textareas are added.
+
+need to detect dropdowns and radio buttons
+
+basically if (unrequired and not textarea) OR (unrequired and not input) then no worries
+
+- dont store 'hidden' OR style = display None (OR invisible?)
+- dont store 'unrequired' BUT before implementing this, check:
+	if our dict/list (before storing to json log) contains at least 1 textarea (or input text?). 
+		If it does not then go back through the tags and check for any unrequired textareas:
+			IF theyre > 1:
+				create a dict of those and pass to gpt, asking return of index of most likely					store gpts chosen one to the dict/list as well
+			IF theyre = 1:
+				store gpts chosen one to the dict/list as well
+			else (0):
+				just pass the original dict/list without making changes
