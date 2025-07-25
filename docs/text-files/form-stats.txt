@@ -1,0 +1,26 @@
+Forms Stats:
+
+Correctly extracted:
+22
+
+Incorrectly extracted/irrelevant:
+12
+
+Issues:
+- Need to handle dropdowns and checkboxes (checkbox example: https://www.thewhomegroup.com/blog/category/press-1/, https://whatsupmag.com/weddings/advertise, https://www.arcadepunks.com/contact-arcade-punk/)
+- Handle JS required fields
+- Need to handle captcha 
+- maybe we should add condition in unreq textarea to also check text tag (i.e. if text OR textarea exist then skip)
+- Incorrectly handling this format of forms:
+https://canalstreetchronicles.com/contact?community_id=247 
+https://www.bloggingthebracket.com/contact?community_id=247
+https://testudotimes.com/contact?community_id=247
+- Detecting a subscribe form and not even extracting the fields:
+https://marylandreporter.com/contact/
+- Detecting irrelevant form: https://www.law-help.com/contact-us/
+- Not extracting the displayed text on page to store to field data:
+https://mdfoodbank.org/ways-to-give/cause-marketing/, https://www.arcadepunks.com/contact-arcade-punk/
+- in the cases where it's hard to detect required fields, we can also just move ahead with form filling and if error then re-loop back and fill all fields- however this means changing flow to temporarily store all fields
+- detecting listing forms as well, that allow you to advertise in the form and pay right then, e.g. https://www.sunraysiadaily.com.au/classified-create
+- submit button not detected: https://www.treadmagazine.com/advertise/
+- sponsorship form being detected: https://www.visitannapolis.org/about-us/marketing-sponsorship-application/
