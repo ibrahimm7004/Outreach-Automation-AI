@@ -1,0 +1,155 @@
+The website: https://advertise.walletinvestor.com/ contains the following form:
+<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="11">
+			<input type="hidden" name="form_id" value="f4a9946">
+			<input type="hidden" name="referer_title" value="Advertise on Walletinvestor.com">
+
+							<input type="hidden" name="queried_id" value="11">
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Name							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">
+											</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
+								Message							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>				</div>
+								<div class="elementor-field-type-text">
+					<input size="1" type="text" name="form_fields[field_8e2d3cf]" id="form-field-field_8e2d3cf" class="elementor-field elementor-size-sm " style="display:none !important;">				</div>
+								<div class="elementor-field-type-dce_counter elementor-field-group elementor-column elementor-field-group-field_5ddbec5 elementor-col-100" style="display: none;">
+												<label for="form-field-field_5ddbec5" class="elementor-field-label elementor-screen-only">
+								Submission							</label>
+						<input type="dce_counter" name="form_fields[field_5ddbec5]" id="form-field-field_5ddbec5" class="elementor-field elementor-size-sm  elementor-field-textual" readonly="1" value="3369">				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span>
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+
+
+The website: https://media.venturebeat.com/ contains the following form:
+
+<form class="vb-form" style="max-width: 470px; margin: 0px auto;" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+
+<input type="hidden" name="oid" value="00Di0000000ejuv">
+<input type="hidden" name="retURL" value="https://venturebeat.com/advertising-thank-you/">
+<input type="hidden" name="lead_source" value="inbound">
+
+<div class="fieldset">
+<label for="company" class="input-required">Company</label>
+<input id="company" class="input-extra-large" maxlength="40" name="company" size="20" type="text">
+</div>
+
+<div class="fieldset-inline">
+<div class="fieldset">
+<label for="first_name" class="input-required">First Name</label>
+<input class="input-medium" id="first_name" maxlength="40" name="first_name" size="20" type="text">
+</div>
+
+<div class="fieldset">
+<label for="last_name" class="input-required">Last Name</label>
+<input class="input-medium" id="last_name" maxlength="80" name="last_name" size="20" type="text">
+</div>
+</div>
+
+<div class="fieldset-inline">
+<div class="fieldset">
+<label for="email" class="input-required">Email</label>
+<input class="input-medium" id="email" maxlength="80" name="email" size="20" type="text">
+</div>
+</div>
+
+<div class="fieldset-inline">
+<div class="fieldset">
+<label for="city">City</label>
+<input class="input-medium" id="city" maxlength="40" name="city" size="20" type="text">
+</div>
+
+<div class="fieldset">
+<label for="state">State/Province</label>
+<input class="input-medium" id="state" maxlength="20" name="state" size="20" type="text">
+</div>
+</div>
+
+<div class="fieldset">
+<label for="00Ni000000DvwLu" class="input-required">Estimated Marketing Budget</label>
+<input class="input-medium" id="00Ni000000DvwLu" name="00Ni000000DvwLu" size="20" type="text">
+</div>
+
+<div class="fieldset">
+<label for="00Ni000000DwFXE" class="input-required">Media Campaign Goals</label>
+<textarea id="00Ni000000DwFXE" class="input-extra-large" name="00Ni000000DwFXE" type="text" wrap="soft"></textarea>
+</div>
+
+<div class="form-action">
+<input class="btn btn-default" type="submit" name="submit" value="Submit">
+</div>
+
+</form>
+
+
+
+The website: https://scientificasia.net/contact-us/ contains the following form:
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7fd0504" data-id="7fd0504" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b11d20e elementor-widget elementor-widget-heading" data-id="b11d20e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Get in Touch</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cf764c8 elementor-widget elementor-widget-shortcode" data-id="cf764c8" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode">
+<div class="wpcf7 js" id="wpcf7-f493-p147-o1" lang="en-US" dir="ltr" data-wpcf7-id="493">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/contact-us/#wpcf7-f493-p147-o1" method="post" class="wpcf7-form use-floating-validation-tip init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="493">
+<input type="hidden" name="_wpcf7_version" value="6.0.6">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f493-p147-o1">
+<input type="hidden" name="_wpcf7_container_post" value="147">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="03AFcWeA674xu-UmUSVefejzpGhTfDQEixZBGCgNg5vWfZJAo8GY1zoSxs4kBJJWDgIvWgNnoGJX38UkGZkgTTE0lR6faxKRl2T1iMaPEKco-_PKwNxPNEeeUcUuau9lz6SsU2fgLIYCsZd1560fDRZS69MK7ffMjWPy4rQxEriVPs2lz-S7wwIFv7dlVCpYRp39dugMKgGroGVMAvalwFM7AXUqaGg_9fGRMwvACbSC8SR_7ymiItwg-aj_wAxBtnx0AS8ZApdmira1JF76wKf-IsKUds3MBK8SIZtKUlHrlPUGemzv7vwtrLEleu2XncgI9ecOj7daGz5EWCw1W7MD6tQKdXeJ19YZuMLMkt3Ffx97aF6RzZIjFyEaeTIw2i_9UNNZVwQ_14b4I4fpIjn2ezcMiMAun5OezZIRfHWupk9rWGp-o2Whn44v461L4Adz0Yj-NFNAnetFLFNNsKmb0SaL6Jmg2RHDu0pJ8jY_aTOBXBwCBCdmAqZ19Mw5phxFaOLR6MRuY5tmxGlJBkTCWDxQ3Ek35oBU-r_N5JsBDfVQ37l0t0EDto1mhk5ZJXLCBj8SAdbfGWi8LW_f7NoImNcfavSqp1zofDCaX5vDvYm-ALSGBXCkbvfONKgyz4F_X5hoVtmoBw1-5nfQvfN9e2NxMEjCPgTr0Oz3HKLEfRiR_PEWktsOCLTxomz8rEMUBH93p1z5_vutcP1NcpRb9GgjWpGkKmdQgcI1OrSwW9ITAA-9gm92AdNsa5-pu8ZcOZzWFslR6Kt4DMtUMYa37ohufl5jamCDMjDf8dWK1jHNAUUGSQsx7S1aoROYfVQSVKepj5qtmA4GG449vldQDE9yL5FIwh0SMId--VVZdZB2GXA6Cd1TdeL_5cHqfDzS2XRgy2II27hQET1jlDQcAM2tZwsr0QY8907pom5REOnsWgUY1fsK9XzRrkJ-rDV4P7cBcncUxbDPhLyoW4zRqsBD4Wniq_omvcz6gcdjApPz2igxIMzzMGpPvDXvPMpYo_SLmqEvEJuwBHHAisIzT0PJU5qoylJn1WGMS9ICjB_37TdJME8cLzK65LRF05ICFwtVJFzPpz1ecnOB8MzzhwcGW0yYJFqMrVt9nvNHu1f4lZP9b8uZkpyPlBiW9sLSjY3Xe9jS7iz2XHKvptRCs2QVipT7X0Nn6qLTs2xE8PMzZYfSTBjvUYcWliD4pPILRa2LlTM1ToEU9M3DwVNiJdpCvoKkhwBXb_bawa5fKBKSDzYoE6zH4rKgzllQHNt98KVHdNEkaBIYYQancBybRE0DZZEsW1b6ATfzTuITMg0uojTohnty3mGB5Ir2x1VxwKo3kGZVpJmi4bvB0Kzd5nfZfNSsCKqoX6eQsvp4QGJRbAjbEMRcknaA91hnt2qGbnjJC4glK9jTRMm8Ru7xqd5N0fooC1eQNMqjR-Bu6O1oa3LTC9-ea2iYnMEUYm0f5AKoCCt_CgtWeqgpm9rFsfhT9UtML4qauLN2NgbS9cZ0GSYCgzpsIYD4cotOztswQfK6acwvjb88qGisfZWdd2RsdlR3dX0cs7Ru8-y7o4p7S_s7X2_0y3EAZZu9qYF-c51n6PlFqGt9QIpmOwg51nouIF3jZQ8-wptfXxOy-PkKbYGJRcmDhjU6922qpaSf0hZFhBVtByqnvb_9DFVZYqKamssN1RSmQwMNp8ZXd5cWNip4PdaAEmtmthqRE98VRGLfcqeRtaPdGT7nZcqOmUBJ6YM3w6bsgxZAwoDp3F_YotOzdlnRhUqBjmrLMpkX3300rAZO2ni5wYRchVE1uIdLVIbfUtEy1YKwXb2qLN5F4LA3ffv6D458VIM1HL-LvfJy5CPe55TTlZiG2lZ0QHK2qKi0CMLlrXRopkYMeW6OqzTHVOY_4IRZiCSSHDc6ZyRZnxJsf8ZGNcKQFBWQ35fZWAgkScVfC3YMc8B7J83ffPwmNNvo4ttBgVLSoDiTUtde0E3HGCc60ffrhhyzJ74eubBfxxbVutWvckencyIzdYMTT-eI7-e3BOBfTQUNJFVgDGHYwy4w4C2u8DqLlbQ5fYjwZckFsD8J1Thwso2nNMpBzUQUn5apbsI0ZD5sAdcDmx73Ij0Q4XWNeszcYvhao6hPIzOg">
+</div>
+<div class="row" style="margin-bottom:1.5rem;">
+	<div class="col-12 col-sm-6">
+		<p><label>Your Name</label><br>
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-name"></span>
+		</p>
+	</div>
+	<div class="col-12 col-sm-6 mt-4 mt-sm-0">
+		<p><label>Your Email</label><br>
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="your-email"></span>
+		</p>
+	</div>
+</div>
+<p><label>Subject</label><br>
+<span class="wpcf7-form-control-wrap" data-name="your-subject"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-subject"></span>
+</p>
+<p><label>Your Message</label><br>
+<span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="your-message"></textarea></span>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send Message"><span class="wpcf7-spinner"></span>
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+						</div>
+				</div>
+					</div>
+		</div>
