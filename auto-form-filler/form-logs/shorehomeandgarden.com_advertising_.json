@@ -1,0 +1,12 @@
+{
+  "url": "https://shorehomeandgarden.com/advertising/",
+  "filled_fields": [],
+  "captcha_present": false,
+  "captcha_solved": false,
+  "captcha_fallback_used": false,
+  "captcha_error": "",
+  "submit_clicked": false,
+  "errors": [
+    "[ERROR] Failed to process https://shorehomeandgarden.com/advertising/: Message: invalid session id\nStacktrace:\n\tGetHandleVerifier [0x0x7ff7dc906f95+76917]\n\tGetHandleVerifier [0x0x7ff7dc906ff0+77008]\n\t(No symbol) [0x0x7ff7dc6b9c1c]\n\t(No symbol) [0x0x7ff7dc70055f]\n\t(No symbol) [0x0x7ff7dc738332]\n\t(No symbol) [0x0x7ff7dc732e53]\n\t(No symbol) [0x0x7ff7dc731f19]\n\t(No symbol) [0x0x7ff7dc684b05]\n\tGetHandleVerifier [0x0x7ff7dcbdd2cd+3051437]\n\tGetHandleVerifier [0x0x7ff7dcbd7923+3028483]\n\tGetHandleVerifier [0x0x7ff7dcbf58bd+3151261]\n\tGetHandleVerifier [0x0x7ff7dc92185e+185662]\n\tGetHandleVerifier [0x0x7ff7dc92971f+218111]\n\t(No symbol) [0x0x7ff7dc683b00]\n\tGetHandleVerifier [0x0x7ff7dccf5f38+4201496]\n\tBaseThreadInitThunk [0x0x7ffe24437374+20]\n\tRtlUserThreadStart [0x0x7ffe24d1cc91+33]\n"
+  ]
+}
