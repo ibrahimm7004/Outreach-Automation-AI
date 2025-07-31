@@ -1,0 +1,70 @@
+{
+  "form_file": "thebaynet_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\thebaynet_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "input_1.3",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_1.6",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_2",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_3",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "input_4",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "input_5",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "input_1.3",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_1.6",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_2",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "input_5",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

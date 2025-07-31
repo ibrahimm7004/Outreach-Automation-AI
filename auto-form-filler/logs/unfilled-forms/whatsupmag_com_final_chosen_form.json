@@ -1,0 +1,64 @@
+{
+  "form_file": "whatsupmag_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\whatsupmag_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "formcheck",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Company Name*",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "Email*",
+      "type": "email",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "First Name*",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "Last Name*",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "Phone*",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": true
+    },
+    {
+      "label": "Your Advertising Goals?",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true,
+  "non_filled_fields": [
+    {
+      "label": "formcheck",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Your Advertising Goals?",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

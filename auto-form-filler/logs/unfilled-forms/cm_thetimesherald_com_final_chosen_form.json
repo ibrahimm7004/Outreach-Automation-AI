@@ -1,0 +1,88 @@
+{
+  "form_file": "cm_thetimesherald_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\cm_thetimesherald_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Email Address",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "Phone Number",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "Company Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Website",
+      "type": "text",
+      "matched_group": "Website",
+      "required": false
+    },
+    {
+      "label": "Postal Code",
+      "type": "text",
+      "matched_group": "Postal Code",
+      "required": false
+    },
+    {
+      "label": "Inquiry_About__c",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    },
+    {
+      "label": "Monthly_Advertising_Budget__c",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Business_Type__c",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "(Optional) Additional Message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "Monthly_Advertising_Budget__c",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Business_Type__c",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

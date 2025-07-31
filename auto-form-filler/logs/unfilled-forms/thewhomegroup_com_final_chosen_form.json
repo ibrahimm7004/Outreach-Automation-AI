@@ -1,0 +1,40 @@
+{
+  "form_file": "thewhomegroup_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\thewhomegroup_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "*Full Name",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "*Email Address",
+      "type": "text",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "text",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "*Question or Comments",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true,
+  "non_filled_fields": [
+    {
+      "label": "*Full Name",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "form_file": "taxguru_in_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\taxguru_in_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "https://",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "Minimum Budget is Rs. 10000",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "Tell us more about what you're looking to advertise",
+      "type": null,
+      "matched_group": "Phone",
+      "required": true
+    },
+    {
+      "label": "Your Name*",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "Email ID",
+      "type": "text",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "Mobile Number",
+      "type": "text",
+      "matched_group": "Phone",
+      "required": true
+    },
+    {
+      "label": "Subject",
+      "type": "text",
+      "matched_group": "Subject",
+      "required": true
+    },
+    {
+      "label": "email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "query_type",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "https://",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "Minimum Budget is Rs. 10000",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "query_type",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

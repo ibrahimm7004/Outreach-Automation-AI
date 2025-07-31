@@ -1,0 +1,40 @@
+{
+  "form_file": "bloggingthebracket_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\bloggingthebracket_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "support_request[request_type]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "support_request[name]",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "support_request[email]",
+      "type": "text",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "support_request[username]",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    }
+  ],
+  "ignored_captcha": true,
+  "ignored_checkbox": true,
+  "non_filled_fields": [
+    {
+      "label": "support_request[request_type]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

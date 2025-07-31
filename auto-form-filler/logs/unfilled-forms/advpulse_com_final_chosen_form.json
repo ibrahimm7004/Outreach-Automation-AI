@@ -1,0 +1,58 @@
+{
+  "form_file": "advpulse_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\advpulse_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "department-contacting",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "your-name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "company-title",
+      "type": "text",
+      "matched_group": "Company Name",
+      "required": false
+    },
+    {
+      "label": "company-name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "your-email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "your-phone",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "your-message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": true,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "department-contacting",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "form_file": "www_arcadepunks_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\www_arcadepunks_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "wpforms[fields][0]",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "wpforms[fields][3]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "wpforms[fields][1]",
+      "type": "email",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "wpforms[fields][2]",
+      "type": null,
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "wpforms[hp]",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true,
+  "non_filled_fields": [
+    {
+      "label": "wpforms[fields][0]",
+      "type": "text",
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "wpforms[fields][3]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "wpforms[fields][2]",
+      "type": null,
+      "matched_group": null,
+      "required": true
+    },
+    {
+      "label": "wpforms[hp]",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

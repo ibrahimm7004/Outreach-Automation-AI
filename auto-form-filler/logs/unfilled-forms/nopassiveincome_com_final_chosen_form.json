@@ -1,0 +1,40 @@
+{
+  "form_file": "nopassiveincome_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\nopassiveincome_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "your-name",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "your-email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "your-subject",
+      "type": "text",
+      "matched_group": "Subject",
+      "required": false
+    },
+    {
+      "label": "your-message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "your-name",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "form_file": "neoreach_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\neoreach_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "how-can-we-help-you",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "* First Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "* Last Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "* Business Email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "* Phone",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "* Company Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "* Company Website",
+      "type": "text",
+      "matched_group": "Website",
+      "required": false
+    },
+    {
+      "label": "brand-vertical",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-ugc",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-paid",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-management",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-event",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-bespoke",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "trying-to-achieve",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "management-socials[]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Fill us in on your project!",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "* Email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "content-niche",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "* Instagram Handle or URL",
+      "type": "text",
+      "matched_group": "Website",
+      "required": false
+    },
+    {
+      "label": "* TikTok Handle or URL",
+      "type": "text",
+      "matched_group": "Website",
+      "required": false
+    },
+    {
+      "label": "* YouTube Channel or URL",
+      "type": "text",
+      "matched_group": "Website",
+      "required": false
+    },
+    {
+      "label": "* Other: Please specify",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Tell us more about you!",
+      "type": null,
+      "matched_group": "Phone",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true,
+  "non_filled_fields": [
+    {
+      "label": "how-can-we-help-you",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "brand-vertical",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-ugc",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-paid",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-management",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-event",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "budget-bespoke",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "trying-to-achieve",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "management-socials[]",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "Fill us in on your project!",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "content-niche",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "* Other: Please specify",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

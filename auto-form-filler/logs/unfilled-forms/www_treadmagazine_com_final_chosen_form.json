@@ -1,0 +1,52 @@
+{
+  "form_file": "www_treadmagazine_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\www_treadmagazine_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "firstname",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "contact",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "business",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "contact",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    },
+    {
+      "label": "business",
+      "type": "text",
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}

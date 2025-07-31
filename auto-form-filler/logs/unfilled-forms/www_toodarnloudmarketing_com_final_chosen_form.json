@@ -1,0 +1,40 @@
+{
+  "form_file": "www_toodarnloudmarketing_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\www_toodarnloudmarketing_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "How should we address you?",
+      "type": "text",
+      "matched_group": "Address",
+      "required": false
+    },
+    {
+      "label": "Let's start the chain",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "So nothing is lost in translation",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "How can we help?",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false,
+  "non_filled_fields": [
+    {
+      "label": "How can we help?",
+      "type": null,
+      "matched_group": null,
+      "required": false
+    }
+  ]
+}
