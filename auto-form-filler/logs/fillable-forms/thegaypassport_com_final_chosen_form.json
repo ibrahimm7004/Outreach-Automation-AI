@@ -1,0 +1,26 @@
+{
+  "form_file": "thegaypassport_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\thegaypassport_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "form_fields[name]",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "form_fields[email]",
+      "type": "email",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "form_fields[message]",
+      "type": null,
+      "matched_group": "Message",
+      "required": true
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false
+}

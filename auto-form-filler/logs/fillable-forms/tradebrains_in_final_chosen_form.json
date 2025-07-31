@@ -1,0 +1,32 @@
+{
+  "form_file": "tradebrains_in_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\tradebrains_in_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Email Address",
+      "type": "text",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "Enter Phone",
+      "type": "text",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "Message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": true,
+  "ignored_checkbox": false
+}

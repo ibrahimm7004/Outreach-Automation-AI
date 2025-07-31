@@ -1,0 +1,32 @@
+{
+  "form_file": "mymoneychronicles_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\mymoneychronicles_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "cntctfrm_contact_name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "cntctfrm_contact_email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "cntctfrm_contact_subject",
+      "type": "text",
+      "matched_group": "Subject",
+      "required": false
+    },
+    {
+      "label": "cntctfrm_contact_message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false
+}

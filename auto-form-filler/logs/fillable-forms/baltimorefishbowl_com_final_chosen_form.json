@@ -1,0 +1,32 @@
+{
+  "form_file": "baltimorefishbowl_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\baltimorefishbowl_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "comment",
+      "type": null,
+      "matched_group": "Message",
+      "required": true
+    },
+    {
+      "label": "author",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "url",
+      "type": "url",
+      "matched_group": "Website",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true
+}

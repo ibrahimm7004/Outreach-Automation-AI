@@ -1,0 +1,32 @@
+{
+  "form_file": "railey_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\railey_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "*Full Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": true
+    },
+    {
+      "label": "*Email Address",
+      "type": "text",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "Phone",
+      "type": "text",
+      "matched_group": "Phone",
+      "required": false
+    },
+    {
+      "label": "*Question or Comments",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": true
+}

@@ -1,0 +1,38 @@
+{
+  "form_file": "beachlifeoceancity_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\beachlifeoceancity_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "First_Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Last_Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "name@website.com",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "(000) 000-0000",
+      "type": "tel",
+      "matched_group": "Phone",
+      "required": true
+    },
+    {
+      "label": "Questions",
+      "type": null,
+      "matched_group": "Message",
+      "required": true
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false
+}

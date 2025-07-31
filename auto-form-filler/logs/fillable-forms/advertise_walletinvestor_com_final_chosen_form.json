@@ -1,0 +1,26 @@
+{
+  "form_file": "advertise_walletinvestor_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\advertise_walletinvestor_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "Name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "matched_group": "Email",
+      "required": true
+    },
+    {
+      "label": "Message",
+      "type": null,
+      "matched_group": "Message",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false
+}

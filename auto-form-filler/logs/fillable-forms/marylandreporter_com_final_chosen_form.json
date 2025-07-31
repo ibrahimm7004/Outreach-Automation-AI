@@ -1,0 +1,26 @@
+{
+  "form_file": "marylandreporter_com_final_chosen_form.html",
+  "form_path": "C:\\Users\\hp\\Desktop\\leadsup\\v0\\form-checking\\html-codes\\marylandreporter_com_final_chosen_form.html",
+  "fields": [
+    {
+      "label": "email_address",
+      "type": "email",
+      "matched_group": "Email",
+      "required": false
+    },
+    {
+      "label": "first_name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    },
+    {
+      "label": "last_name",
+      "type": "text",
+      "matched_group": "First Name",
+      "required": false
+    }
+  ],
+  "ignored_captcha": false,
+  "ignored_checkbox": false
+}
