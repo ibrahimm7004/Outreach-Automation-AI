@@ -1,0 +1,18 @@
+{
+  "domain": "careynieuwhof.com",
+  "emails": [],
+  "form": [
+    "https://careynieuwhof.com/contact/"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 266,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00133
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

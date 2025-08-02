@@ -1,0 +1,18 @@
+{
+  "domain": "bucketlistbums.com",
+  "emails": [
+    "contact@bucketlistbums.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 317,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00159
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

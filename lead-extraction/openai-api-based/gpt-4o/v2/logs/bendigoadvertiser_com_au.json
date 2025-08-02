@@ -1,0 +1,18 @@
+{
+  "domain": "bendigoadvertiser.com.au",
+  "emails": [
+    "sales@bendigoadvertiser.com.au"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 266,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00133
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

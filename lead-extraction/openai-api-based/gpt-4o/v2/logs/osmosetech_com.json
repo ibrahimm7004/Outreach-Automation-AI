@@ -1,0 +1,52 @@
+{
+  "domain": "osmosetech.com",
+  "emails": [],
+  "form": [
+    "https://osmosetech.com/contact-us/"
+  ],
+  "form_fields": {
+    "form_url": "https://osmosetech.com/contact-us/",
+    "fields": [
+      {
+        "id": null,
+        "name": "name",
+        "label": "Name",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "email",
+        "label": "Email",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "message",
+        "label": "Message",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "textarea",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 322,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00161
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

@@ -1,0 +1,322 @@
+{
+  "domain": "bloggingthebracket.com",
+  "emails": [],
+  "form": [
+    "https://blog.sbnation.com/contact"
+  ],
+  "form_fields": {
+    "form_url": "https://blog.sbnation.com/contact",
+    "fields": [
+      {
+        "id": null,
+        "name": "contact_reason",
+        "label": "Hello! Why are you contacting us today?",
+        "placeholder": null,
+        "required": true,
+        "input_type": "select",
+        "tag": "select",
+        "descriptive_text": "Please select the reason for your contact."
+      },
+      {
+        "id": null,
+        "name": "tip_summary",
+        "label": "Summarize your tip in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "tip_details",
+        "label": "Explain your tip in detail:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "url",
+        "label": "Provide the URL of the page pertaining to your question or problem:",
+        "placeholder": null,
+        "required": false,
+        "input_type": "url",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "operating_system",
+        "label": "Which operating system do you use (e.g., Windows 10, macOS Mojave)?",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "browser",
+        "label": "Which browser do you use (e.g., Chrome, Firefox, Safari, Edge, Internet Explorer)?",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "problem_summary",
+        "label": "Summarize the problem in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "problem_details",
+        "label": "Explain the problem in detail:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "screenshot",
+        "label": "If you can, attach a screenshot of the problem:",
+        "placeholder": null,
+        "required": false,
+        "input_type": "file",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "pitch_summary",
+        "label": "Summarize your pitch suggestions in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "pitch_details",
+        "label": "Explain your pitch suggestion in detail:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "advertising_interest",
+        "label": "Where are you interested in advertising?",
+        "placeholder": null,
+        "required": true,
+        "input_type": "select",
+        "tag": "select",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "advertising_geography",
+        "label": "Targeted to a specific geography:",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "advertise_online",
+        "label": "Do you currently advertise online?",
+        "placeholder": null,
+        "required": true,
+        "input_type": "select",
+        "tag": "select",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "media_buy_timing",
+        "label": "When are you planning your next media buy?",
+        "placeholder": null,
+        "required": true,
+        "input_type": "select",
+        "tag": "select",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "advertising_message_summary",
+        "label": "Summarize your message in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "advertising_message_details",
+        "label": "Your message:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "publication",
+        "label": "Publication:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "editor_contact",
+        "label": "Editor or site you'd like to contact:",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "inquiry_summary",
+        "label": "Summarize your inquiry in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "inquiry_details",
+        "label": "Explain your inquiry in detail:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "personal_info_request",
+        "label": "What would you like to do?",
+        "placeholder": null,
+        "required": true,
+        "input_type": "select",
+        "tag": "select",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "personal_info_details",
+        "label": "Additional details:",
+        "placeholder": null,
+        "required": false,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "question_summary",
+        "label": "Summarize question in one sentence:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "question_details",
+        "label": "Explain your question in detail:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "first_last_name",
+        "label": "First and last name:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Note: While SB Nation can grant you anonymity, it may be necessary to contact you to verify your tip."
+      },
+      {
+        "id": null,
+        "name": "anonymous",
+        "label": "Keep me anonymous",
+        "placeholder": null,
+        "required": false,
+        "input_type": "checkbox",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "email_address",
+        "label": "Email address:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "email_confirmation",
+        "label": "Email address confirmation:",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "username",
+        "label": "SB Nation username (if you have one):",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 343,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00172
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

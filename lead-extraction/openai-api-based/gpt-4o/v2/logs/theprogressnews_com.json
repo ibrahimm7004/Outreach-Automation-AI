@@ -1,0 +1,18 @@
+{
+  "domain": "theprogressnews.com",
+  "emails": [],
+  "form": [
+    "https://www.theprogressnews.com/site/contact.html"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 264,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00132
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

@@ -1,0 +1,18 @@
+{
+  "domain": "pagibigmp2calculator.net",
+  "emails": [
+    "reg_20337227@whoisprotection.cc"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 391,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00196
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

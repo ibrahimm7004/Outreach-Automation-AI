@@ -1,0 +1,18 @@
+{
+  "domain": "drive.com.au",
+  "emails": [
+    "[email\u00a0protected]"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 353,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00176
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

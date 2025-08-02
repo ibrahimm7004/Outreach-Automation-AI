@@ -1,0 +1,18 @@
+{
+  "domain": "standard.net.au",
+  "emails": [
+    "peter.shepherd@warrnamboolstandard.com.au"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 267,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00134
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

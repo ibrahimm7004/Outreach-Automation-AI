@@ -1,0 +1,18 @@
+{
+  "domain": "people.com",
+  "emails": [
+    "ads@people.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 256,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00128
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

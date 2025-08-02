@@ -1,0 +1,18 @@
+{
+  "domain": "netizenbuzz.blogspot.com",
+  "emails": [],
+  "form": [
+    "https://netizenbuzz.blogspot.com/p/contact.html"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 333,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00167
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

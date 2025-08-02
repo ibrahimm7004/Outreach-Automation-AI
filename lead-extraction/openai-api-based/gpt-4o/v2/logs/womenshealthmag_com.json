@@ -1,0 +1,18 @@
+{
+  "domain": "womenshealthmag.com",
+  "emails": [
+    "nberger@hearst.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 261,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00131
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

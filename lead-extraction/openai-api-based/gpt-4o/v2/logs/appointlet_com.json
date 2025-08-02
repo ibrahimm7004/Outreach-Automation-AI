@@ -1,0 +1,18 @@
+{
+  "domain": "appointlet.com",
+  "emails": [
+    "help@appointlet.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 402,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00201
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

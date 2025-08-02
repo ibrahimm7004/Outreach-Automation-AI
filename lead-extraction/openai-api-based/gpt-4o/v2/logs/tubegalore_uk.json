@@ -1,0 +1,17 @@
+{
+  "domain": "tubegalore.uk",
+  "emails": [],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 390,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00195
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": true,
+  "error": "Could not parse GPT response."
+}

@@ -1,0 +1,18 @@
+{
+  "domain": "verywellhealth.com",
+  "emails": [],
+  "form": [
+    "https://www.advertise-with-us.com/p/478423"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 368,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00184
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

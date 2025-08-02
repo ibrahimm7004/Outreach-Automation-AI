@@ -1,0 +1,18 @@
+{
+  "domain": "thienel-law.com",
+  "emails": [
+    "sthienel@thienel-law.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 360,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0018
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

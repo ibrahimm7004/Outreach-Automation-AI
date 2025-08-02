@@ -1,0 +1,18 @@
+{
+  "domain": "fintech.com",
+  "emails": [
+    "[email\u00a0protected]"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 307,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00153
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

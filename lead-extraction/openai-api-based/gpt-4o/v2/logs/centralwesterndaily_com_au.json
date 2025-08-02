@@ -1,0 +1,18 @@
+{
+  "domain": "centralwesterndaily.com.au",
+  "emails": [
+    "torin.jones@austcommunitymedia.com.au"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 268,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00134
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

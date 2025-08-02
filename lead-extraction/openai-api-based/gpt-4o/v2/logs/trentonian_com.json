@@ -1,0 +1,18 @@
+{
+  "domain": "trentonian.com",
+  "emails": [
+    "econdra@21st-centurymedia.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 341,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00171
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

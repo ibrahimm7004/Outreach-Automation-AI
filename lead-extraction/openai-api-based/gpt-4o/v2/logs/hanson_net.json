@@ -1,0 +1,82 @@
+{
+  "domain": "hanson.net",
+  "emails": [],
+  "form": [
+    "https://hanson.net/contact"
+  ],
+  "form_fields": {
+    "form_url": "https://hanson.net/contact",
+    "fields": [
+      {
+        "id": "name",
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Enter your full name",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Please provide your full name."
+      },
+      {
+        "id": "email",
+        "name": "email",
+        "label": "Email",
+        "placeholder": "Enter your email address",
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": "We'll use this email to contact you."
+      },
+      {
+        "id": "subject",
+        "name": "subject",
+        "label": "Subject",
+        "placeholder": "Enter the subject of your message",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Briefly summarize the purpose of your message."
+      },
+      {
+        "id": "message",
+        "name": "message",
+        "label": "Message",
+        "placeholder": "Type your message here",
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": "Provide detailed information or questions."
+      },
+      {
+        "id": "phone",
+        "name": "phone",
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number",
+        "required": false,
+        "input_type": "tel",
+        "tag": "input",
+        "descriptive_text": "Optional: Provide a phone number for quicker contact."
+      },
+      {
+        "id": "subscribe",
+        "name": "subscribe",
+        "label": "Subscribe to newsletter",
+        "placeholder": null,
+        "required": false,
+        "input_type": "checkbox",
+        "tag": "input",
+        "descriptive_text": "Check this box to receive our newsletter."
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 328,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00164
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

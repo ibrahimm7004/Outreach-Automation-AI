@@ -1,0 +1,18 @@
+{
+  "domain": "glockapps.com",
+  "emails": [
+    "support@glock-apps.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 378,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00189
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

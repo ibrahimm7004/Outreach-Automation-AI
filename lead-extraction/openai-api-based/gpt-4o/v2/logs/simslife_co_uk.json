@@ -1,0 +1,18 @@
+{
+  "domain": "simslife.co.uk",
+  "emails": [
+    "team@simslife.co.uk"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 262,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00131
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

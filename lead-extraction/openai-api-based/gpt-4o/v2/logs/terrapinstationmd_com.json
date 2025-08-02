@@ -1,0 +1,18 @@
+{
+  "domain": "terrapinstationmd.com",
+  "emails": [
+    "info@terrapinstationmd.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 347,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00173
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

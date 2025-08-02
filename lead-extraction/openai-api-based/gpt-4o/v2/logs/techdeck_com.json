@@ -1,0 +1,17 @@
+{
+  "domain": "techdeck.com",
+  "emails": [],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 401,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00201
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": true,
+  "error": "Could not parse GPT response."
+}

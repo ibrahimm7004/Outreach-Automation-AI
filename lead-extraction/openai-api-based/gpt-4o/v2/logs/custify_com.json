@@ -1,0 +1,72 @@
+{
+  "domain": "custify.com",
+  "emails": [],
+  "form": [
+    "https://www.custify.com/contact"
+  ],
+  "form_fields": {
+    "form_url": "https://www.custify.com/contact",
+    "fields": [
+      {
+        "id": null,
+        "name": "name",
+        "label": "Name",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "This field is required"
+      },
+      {
+        "id": null,
+        "name": "email",
+        "label": "Work Email",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": "This field is required. Please use a valid email"
+      },
+      {
+        "id": null,
+        "name": "phone",
+        "label": "Phone",
+        "placeholder": null,
+        "required": false,
+        "input_type": "tel",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "company",
+        "label": "Company",
+        "placeholder": null,
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "message",
+        "label": "Message",
+        "placeholder": null,
+        "required": false,
+        "input_type": null,
+        "tag": "textarea",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 407,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00203
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

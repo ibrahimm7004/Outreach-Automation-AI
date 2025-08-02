@@ -1,0 +1,18 @@
+{
+  "domain": "ococean.com",
+  "emails": [
+    "ask@ococean.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 422,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00211
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

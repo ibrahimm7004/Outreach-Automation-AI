@@ -1,0 +1,18 @@
+{
+  "domain": "transformingsociety.co.uk",
+  "emails": [
+    "pp-marketing@bristol.ac.uk"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 343,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00172
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

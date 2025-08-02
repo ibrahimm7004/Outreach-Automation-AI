@@ -1,0 +1,18 @@
+{
+  "domain": "architecturaldigest.com",
+  "emails": [],
+  "form": [
+    "https://www.architecturaldigest.com/contact"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 263,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00131
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

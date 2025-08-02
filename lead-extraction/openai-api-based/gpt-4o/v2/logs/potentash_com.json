@@ -1,0 +1,72 @@
+{
+  "domain": "potentash.com",
+  "emails": [],
+  "form": [
+    "https://potentash.com/contact/"
+  ],
+  "form_fields": {
+    "form_url": "https://potentash.com/contact/",
+    "fields": [
+      {
+        "id": "name",
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Your Name",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Please enter your full name."
+      },
+      {
+        "id": "email",
+        "name": "email",
+        "label": "Email",
+        "placeholder": "Your Email Address",
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": "We'll use this email to contact you."
+      },
+      {
+        "id": "subject",
+        "name": "subject",
+        "label": "Subject",
+        "placeholder": "Subject",
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Briefly summarize your message."
+      },
+      {
+        "id": "message",
+        "name": "message",
+        "label": "Message",
+        "placeholder": "Your Message",
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": "Provide details about your inquiry."
+      },
+      {
+        "id": "phone",
+        "name": "phone",
+        "label": "Phone Number",
+        "placeholder": "Your Phone Number",
+        "required": false,
+        "input_type": "tel",
+        "tag": "input",
+        "descriptive_text": "Optional: Provide a phone number for quicker contact."
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 292,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00146
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

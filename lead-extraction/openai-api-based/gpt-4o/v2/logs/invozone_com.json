@@ -1,0 +1,18 @@
+{
+  "domain": "invozone.com",
+  "emails": [
+    "sales@invozone.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 260,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0013
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

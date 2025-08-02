@@ -1,0 +1,72 @@
+{
+  "domain": "advancedcustomfields.com",
+  "emails": [],
+  "form": [
+    "https://www.advancedcustomfields.com/contact/"
+  ],
+  "form_fields": {
+    "form_url": "https://www.advancedcustomfields.com/contact/",
+    "fields": [
+      {
+        "id": null,
+        "name": "email",
+        "label": "Email",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "subject",
+        "label": "Subject",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "message",
+        "label": "Message",
+        "placeholder": null,
+        "required": true,
+        "input_type": null,
+        "tag": "textarea",
+        "descriptive_text": "Please include as much information as possible and place any code within `backticks`. It's also super helpful to include which ACF plugin(s) you have installed and their versions too!"
+      },
+      {
+        "id": null,
+        "name": "attachments",
+        "label": "Add attachments",
+        "placeholder": null,
+        "required": false,
+        "input_type": "file",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "email_2",
+        "label": "Email 2",
+        "placeholder": null,
+        "required": false,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 331,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00166
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

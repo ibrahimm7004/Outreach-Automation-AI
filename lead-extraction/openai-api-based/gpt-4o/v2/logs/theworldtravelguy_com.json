@@ -1,0 +1,62 @@
+{
+  "domain": "theworldtravelguy.com",
+  "emails": [],
+  "form": [
+    "https://theworldtravelguy.com/contact/"
+  ],
+  "form_fields": {
+    "form_url": "https://theworldtravelguy.com/contact/",
+    "fields": [
+      {
+        "id": null,
+        "name": "your-name",
+        "label": "Your Name",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "your-email",
+        "label": "Your Email",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "your-subject",
+        "label": "Subject",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": "your-message",
+        "label": "Your Message",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 266,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00133
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

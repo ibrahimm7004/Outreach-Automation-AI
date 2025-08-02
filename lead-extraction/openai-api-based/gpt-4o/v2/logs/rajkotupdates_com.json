@@ -1,0 +1,18 @@
+{
+  "domain": "rajkotupdates.com",
+  "emails": [
+    "inforajkotupdates@gmail.com"
+  ],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 328,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00164
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

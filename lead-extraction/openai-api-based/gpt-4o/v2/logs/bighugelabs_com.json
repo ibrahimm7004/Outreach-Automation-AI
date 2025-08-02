@@ -1,0 +1,17 @@
+{
+  "domain": "bighugelabs.com",
+  "emails": [],
+  "form": [],
+  "form_fields": {},
+  "token_usage": {
+    "tokens_used": 339,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0017
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": true,
+  "error": "Could not parse GPT response."
+}

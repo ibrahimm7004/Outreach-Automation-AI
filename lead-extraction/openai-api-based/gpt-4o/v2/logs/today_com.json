@@ -1,0 +1,18 @@
+{
+  "domain": "today.com",
+  "emails": [],
+  "form": [
+    "https://www.advertise-with-us.com/p/325362"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 344,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00172
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}
