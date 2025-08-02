@@ -1,0 +1,17 @@
+{
+  "domain": "zfamilylaw.com",
+  "emails": [
+    "hello@zfamilylaw.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0035
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}
