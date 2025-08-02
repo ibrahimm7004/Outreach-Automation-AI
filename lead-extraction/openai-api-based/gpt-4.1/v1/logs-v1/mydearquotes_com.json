@@ -1,0 +1,17 @@
+{
+  "domain": "mydearquotes.com",
+  "emails": [
+    "marketing@mydearquotes.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 631,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00316
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

@@ -1,0 +1,17 @@
+{
+  "domain": "wsj.com",
+  "emails": [
+    "adservices@wsj.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 618,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00309
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

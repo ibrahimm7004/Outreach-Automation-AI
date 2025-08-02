@@ -1,0 +1,15 @@
+{
+  "domain": "marylandrealestateadvantage.com",
+  "emails": [],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 641,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0032
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

@@ -1,0 +1,15 @@
+{
+  "domain": "aclu-md.org",
+  "emails": [],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 623,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00312
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

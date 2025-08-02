@@ -1,0 +1,15 @@
+{
+  "domain": "beachlifeoceancity.com",
+  "emails": [],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 639,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00319
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

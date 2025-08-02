@@ -1,0 +1,17 @@
+{
+  "domain": "techradar.com",
+  "emails": [
+    "usadvertising@futurenet.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 627,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00314
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

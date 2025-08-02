@@ -1,0 +1,17 @@
+{
+  "domain": "ncte.org",
+  "emails": [
+    "christina.kardon@wearemci.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 619,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0031
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

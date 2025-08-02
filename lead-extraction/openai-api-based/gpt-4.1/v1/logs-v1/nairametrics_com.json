@@ -1,0 +1,17 @@
+{
+  "domain": "nairametrics.com",
+  "emails": [
+    "ads@nairametrics.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 624,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00312
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

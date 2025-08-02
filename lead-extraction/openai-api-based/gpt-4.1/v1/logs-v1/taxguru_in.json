@@ -1,0 +1,17 @@
+{
+  "domain": "taxguru.in",
+  "emails": [
+    "info@taxguru.in"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 617,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00309
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

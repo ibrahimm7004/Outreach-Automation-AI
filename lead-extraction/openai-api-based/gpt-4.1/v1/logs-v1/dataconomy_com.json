@@ -1,0 +1,17 @@
+{
+  "domain": "dataconomy.com",
+  "emails": [
+    "[email\u00a0protected]"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 620,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0031
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

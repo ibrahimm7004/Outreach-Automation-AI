@@ -1,0 +1,17 @@
+{
+  "domain": "tradebrains.in",
+  "emails": [
+    "advertise@tradebrains.in"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 618,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00309
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

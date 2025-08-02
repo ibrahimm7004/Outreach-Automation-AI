@@ -1,0 +1,17 @@
+{
+  "domain": "theleader.com.au",
+  "emails": [
+    "jen.barnett@austcommunitymedia.com.au"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 629,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00315
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

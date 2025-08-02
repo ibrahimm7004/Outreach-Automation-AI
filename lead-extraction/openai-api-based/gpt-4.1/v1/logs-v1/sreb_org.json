@@ -1,0 +1,17 @@
+{
+  "domain": "sreb.org",
+  "emails": [
+    "summerconference@sreb.org"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 615,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00308
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

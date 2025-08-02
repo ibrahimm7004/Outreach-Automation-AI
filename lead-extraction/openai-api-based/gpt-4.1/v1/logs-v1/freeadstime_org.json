@@ -1,0 +1,17 @@
+{
+  "domain": "freeadstime.org",
+  "emails": [
+    "[email\u00a0protected]"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 622,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00311
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

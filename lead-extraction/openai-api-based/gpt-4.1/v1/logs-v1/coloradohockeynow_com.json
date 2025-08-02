@@ -1,0 +1,17 @@
+{
+  "domain": "coloradohockeynow.com",
+  "emails": [
+    "nationalhockeynow@gmail.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 634,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00317
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

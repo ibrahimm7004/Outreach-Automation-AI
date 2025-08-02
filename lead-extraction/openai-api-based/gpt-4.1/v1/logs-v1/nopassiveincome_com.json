@@ -1,0 +1,17 @@
+{
+  "domain": "nopassiveincome.com",
+  "emails": [
+    "erik@nopassiveincome.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 632,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00316
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

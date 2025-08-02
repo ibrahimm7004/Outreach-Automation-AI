@@ -1,0 +1,17 @@
+{
+  "domain": "treadmagazine.com",
+  "emails": [
+    "advertise@engaged.media"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 628,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00314
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

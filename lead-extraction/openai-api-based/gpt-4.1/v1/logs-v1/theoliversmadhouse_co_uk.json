@@ -1,0 +1,15 @@
+{
+  "domain": "theoliversmadhouse.co.uk",
+  "emails": [],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 647,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00324
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

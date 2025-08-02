@@ -1,0 +1,17 @@
+{
+  "domain": "savedelete.com",
+  "emails": [
+    "jaspal@savedelete.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 626,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00313
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

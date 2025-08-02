@@ -1,0 +1,17 @@
+{
+  "domain": "nflspinzone.com",
+  "emails": [
+    "contact@fansided.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 625,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00313
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

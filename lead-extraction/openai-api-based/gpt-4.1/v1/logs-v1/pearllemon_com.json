@@ -1,0 +1,17 @@
+{
+  "domain": "pearllemon.com",
+  "emails": [
+    "info@pearllemongroup.com"
+  ],
+  "form": [],
+  "token_usage": {
+    "tokens_used": 630,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00315
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}
