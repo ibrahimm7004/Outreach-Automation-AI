@@ -1,0 +1,8 @@
+=== GPT Contact Extraction Summary ===
+Total logs processed:       246
+Total estimated cost:       $0.7707
+Total timeouts:             0
+Total emails found:         158
+Total forms found:          1
+Total matched emails:       47
+Total matched forms:        0
