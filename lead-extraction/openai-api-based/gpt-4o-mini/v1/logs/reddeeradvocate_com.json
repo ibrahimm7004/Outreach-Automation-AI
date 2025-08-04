@@ -1,0 +1,19 @@
+{
+  "domain": "reddeeradvocate.com",
+  "emails": [
+    "sales@reddeeradvocate.com"
+  ],
+  "form": [
+    "https://www.reddeeradvocate.com/contact-us"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": true,
+    "form": false
+  },
+  "timed_out": false
+}

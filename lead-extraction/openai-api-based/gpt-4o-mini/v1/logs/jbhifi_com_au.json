@@ -1,0 +1,19 @@
+{
+  "domain": "jbhifi.com.au",
+  "emails": [
+    "solutions@jbhifi.com.au"
+  ],
+  "form": [
+    "https://www.jbhifi.com.au/pages/about-us/"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

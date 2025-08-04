@@ -1,0 +1,19 @@
+{
+  "domain": "walletinvestor.com",
+  "emails": [
+    "pressrelease@walletinvestor.com"
+  ],
+  "form": [
+    "https://advertise.walletinvestor.com"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

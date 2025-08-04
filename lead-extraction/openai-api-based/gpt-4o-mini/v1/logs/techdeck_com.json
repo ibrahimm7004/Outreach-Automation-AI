@@ -1,0 +1,19 @@
+{
+  "domain": "techdeck.com",
+  "emails": [
+    "advertise@techdeckmag.com"
+  ],
+  "form": [
+    "https://www.techdeckmag.com/advertise"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

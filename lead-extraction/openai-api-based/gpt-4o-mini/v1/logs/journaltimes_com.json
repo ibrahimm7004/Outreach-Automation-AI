@@ -1,0 +1,19 @@
+{
+  "domain": "journaltimes.com",
+  "emails": [
+    "marketing@journaltimes.com"
+  ],
+  "form": [
+    "https://journaltimes.com/forms/contact/"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

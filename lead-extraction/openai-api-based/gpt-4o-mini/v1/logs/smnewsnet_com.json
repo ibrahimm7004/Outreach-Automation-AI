@@ -1,0 +1,19 @@
+{
+  "domain": "smnewsnet.com",
+  "emails": [
+    "sales@smnewsnet.com"
+  ],
+  "form": [
+    "https://smnewsnet.com/advertise/"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

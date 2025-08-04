@@ -1,0 +1,19 @@
+{
+  "domain": "fredericksburg.com",
+  "emails": [
+    "advertising@freelancestar.com"
+  ],
+  "form": [
+    "https://fredericksburg.com/advertising/forms/advertising_inquiry/"
+  ],
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.0007
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}
