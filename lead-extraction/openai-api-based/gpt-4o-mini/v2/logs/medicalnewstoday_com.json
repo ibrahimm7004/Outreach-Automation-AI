@@ -1,0 +1,32 @@
+{
+  "domain": "medicalnewstoday.com",
+  "emails": [],
+  "form": [
+    "https://www.medicalnewstoday.com/about/contact-us"
+  ],
+  "form_fields": {
+    "form_url": "https://www.medicalnewstoday.com/about/contact-us",
+    "fields": [
+      {
+        "id": "SUBJECT",
+        "name": "contact[SUBJECT]",
+        "label": "SUBJECT",
+        "placeholder": "SUBJECT",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": ""
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00061
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

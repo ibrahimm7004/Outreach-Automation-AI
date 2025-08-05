@@ -1,0 +1,18 @@
+{
+  "domain": "tomsguide.com",
+  "emails": [],
+  "form": [
+    "https://go.future-advertising.com/Toms-Guide-Media-Kit.html"
+  ],
+  "form_fields": null,
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00061
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

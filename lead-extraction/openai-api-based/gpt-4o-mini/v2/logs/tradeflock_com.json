@@ -1,0 +1,82 @@
+{
+  "domain": "tradeflock.com",
+  "emails": [],
+  "form": [
+    "https://tradeflock.com/magazine-advertising"
+  ],
+  "form_fields": {
+    "form_url": "https://tradeflock.com/magazine-advertising",
+    "fields": [
+      {
+        "id": "first_name",
+        "name": "first_name",
+        "label": "First Name",
+        "placeholder": "Enter your first name",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Please provide your first name."
+      },
+      {
+        "id": "last_name",
+        "name": "last_name",
+        "label": "Last Name",
+        "placeholder": "Enter your last name",
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Please provide your last name."
+      },
+      {
+        "id": "email",
+        "name": "email",
+        "label": "Email Address",
+        "placeholder": "Enter your email address",
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": "Please provide your email address."
+      },
+      {
+        "id": "phone",
+        "name": "phone",
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number",
+        "required": true,
+        "input_type": "tel",
+        "tag": "input",
+        "descriptive_text": "Please provide your phone number."
+      },
+      {
+        "id": "company",
+        "name": "company",
+        "label": "Company Name",
+        "placeholder": "Enter your company name",
+        "required": false,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": "Please provide your company name (optional)."
+      },
+      {
+        "id": "message",
+        "name": "message",
+        "label": "Message",
+        "placeholder": "Enter your message",
+        "required": false,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": "Please provide any additional information or questions you may have (optional)."
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00061
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}

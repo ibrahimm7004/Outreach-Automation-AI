@@ -1,0 +1,112 @@
+{
+  "domain": "theknot.com",
+  "emails": [],
+  "form": [
+    "https://www.theknot.com/vendors/home"
+  ],
+  "form_fields": {
+    "form_url": "https://www.theknot.com/vendors/home",
+    "fields": [
+      {
+        "id": null,
+        "name": null,
+        "label": "Business Name",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Business Description",
+        "placeholder": null,
+        "required": true,
+        "input_type": "textarea",
+        "tag": "textarea",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Email Address",
+        "placeholder": null,
+        "required": true,
+        "input_type": "email",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Phone Number",
+        "placeholder": null,
+        "required": true,
+        "input_type": "tel",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Address",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "City",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "State",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Zip Code",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      },
+      {
+        "id": null,
+        "name": null,
+        "label": "Country",
+        "placeholder": null,
+        "required": true,
+        "input_type": "text",
+        "tag": "input",
+        "descriptive_text": null
+      }
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 700,
+    "summarize_calls": 1,
+    "estimated_cost_usd": 0.00061
+  },
+  "matches_expected": {
+    "email": false,
+    "form": false
+  },
+  "timed_out": false
+}
