@@ -1,0 +1,8 @@
+anticaptchaofficial==1.0.66
+beautifulsoup4==4.10.0
+openai==1.93.0
+pandas==1.5.3
+psutil==5.9.4
+python-dotenv==1.1.1
+selenium==4.34.0
+spacy==3.8.4
