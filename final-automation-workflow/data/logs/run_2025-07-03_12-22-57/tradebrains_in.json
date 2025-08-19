@@ -1,0 +1,55 @@
+{
+  "domain": "https://tradebrains.in",
+  "email_extraction": {
+    "method_used": "NLP",
+    "emails_found": [
+      "partner@tradebrains.in",
+      "editor@tradebrains.in",
+      "support@tradebrains.in",
+      "chandan.rawat@tradebrains.in",
+      "advertise@tradebrains.in",
+      "bikram.singhary@tradebrains.in",
+      "pr@tradebrains.in",
+      "hr@tradebrains.in",
+      "info@tradebrains.in"
+    ]
+  },
+  "token_usage": {
+    "tokens_used": 301,
+    "summarize_calls": 0,
+    "estimated_cost_usd": 0.00151
+  },
+  "used_recovery": false,
+  "timed_out": false,
+  "form_detected": true,
+  "form_page_urls": [
+    "https://tradebrains.in/advertise/"
+  ],
+  "chosen_form": {
+    "page_url": "https://tradebrains.in/advertise/",
+    "summary": ""
+  },
+  "form_submission": {
+    "url": "https://tradebrains.in/advertise/",
+    "filled_fields": [
+      {
+        "first_name": "Ivan"
+      },
+      {
+        "email": "ibrahim.m7004@gmail.com"
+      },
+      {
+        "phone": "+1-769-456588"
+      },
+      {
+        "message": "I'm interested in advertising opportunities."
+      }
+    ],
+    "submit_clicked": true,
+    "errors": [],
+    "captcha_present": false,
+    "captcha_solved": false,
+    "captcha_fallback_used": false,
+    "captcha_error": "Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".g-recaptcha\"}\n  (Session info: chrome=138.0.7204.51); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff6c75c6f95+76917]\n\tGetHandleVerifier [0x0x7ff6c75c6ff0+77008]\n\t(No symbol) [0x0x7ff6c7379dea]\n\t(No symbol) [0x0x7ff6c73d0256]\n\t(No symbol) [0x0x7ff6c73d050c]\n\t(No symbol) [0x0x7ff6c7423887]\n\t(No symbol) [0x0x7ff6c73f84af]\n\t(No symbol) [0x0x7ff6c742065c]\n\t(No symbol) [0x0x7ff6c73f8243]\n\t(No symbol) [0x0x7ff6c73c1431]\n\t(No symbol) [0x0x7ff6c73c21c3]\n\tGetHandleVerifier [0x0x7ff6c789d2cd+3051437]\n\tGetHandleVerifier [0x0x7ff6c7897923+3028483]\n\tGetHandleVerifier [0x0x7ff6c78b58bd+3151261]\n\tGetHandleVerifier [0x0x7ff6c75e185e+185662]\n\tGetHandleVerifier [0x0x7ff6c75e971f+218111]\n\tGetHandleVerifier [0x0x7ff6c75cfb14+112628]\n\tGetHandleVerifier [0x0x7ff6c75cfcc9+113065]\n\tGetHandleVerifier [0x0x7ff6c75b6c98+10616]\n\tBaseThreadInitThunk [0x0x7ffe24437374+20]\n\tRtlUserThreadStart [0x0x7ffe24d1cc91+33]\n"
+  }
+}
